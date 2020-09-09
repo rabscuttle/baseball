@@ -1,0 +1,3219 @@
+,srid,uf_name,dob,name,pos,ab,ip,owner
+0,kellyca02,Carson Kelly,1994-07-14,Carson Kelly,C,59.0,,LAD
+1,walkech02,Christian Walker,1991-03-28,Christian Walker,1B,127.0,,NYY
+2,marteke01,Ketel Marte,1993-10-12,Ketel Marte,2B,137.0,,CLE
+3,ahmedni01,Nick Ahmed,1990-03-15,Nick Ahmed,SS,120.0,,PHI
+4,escobed01,Eduardo Escobar,1989-01-05,Eduardo Escobar,SS,120.0,,CHC
+5,peralda01,David Peralta,1987-08-14,David Peralta,LF,128.0,,TOR
+6,martest01,Starling Marte,1988-10-09,Starling Marté,CF,122.0,,
+7,calhoko01,Kole Calhoun,1987-10-14,Kole Calhoun,OF,113.0,,SEA
+8,cronke01,Kevin Cron,1993-02-17,Kevin Cron,DH,17.0,,CLE
+9,vogtst01,Stephen Vogt,1984-11-01,Stephen Vogt,C,58.0,,
+10,lambja01,Jake Lamb,1990-10-09,Jake Lamb,1B,40.0,,CIN
+11,jayjo02,Jon Jay,1985-03-15,Jon Jay,OF,31.0,,BAL
+12,locasti01,Tim Locastro,1992-07-14,Tim Locastro,OF,24.0,,PHI
+13,varshda01,Daulton Varsho,1996-07-02,Daulton Varsho,DH,,,TEX
+14,youngan02,Andy Young,1994-05-10,Andy Young,2B,,,ARI
+15,vargail01,Ildemaro Vargas,1991-07-16,Ildemaro Vargas,2B,41.0,,LAD
+16,rojasjo01,Josh Rojas,1994-06-30,Josh Rojas,,1.0,,HOU
+17,weavelu01,Luke Weaver,1993-08-21,Luke Weaver,P,,27.1,LAD
+18,chafian01,Andrew Chafin,1990-06-17,Andrew Chafin,P,,6.2,WAS
+19,widenta01,Taylor Widener,1994-10-24,Taylor Widener,P,,,OAK
+20,bumgama01,Madison Bumgarner,1989-08-01,Madison Bumgarner,P,,17.1,CIN
+21,guerrju02,Junior Guerra,1985-01-16,Junior Guerra,P,,14.0,SF
+22,galleza01,Zac Gallen,1995-08-03,Zac Gallen,P,,43.0,TB
+23,bradlar01,Archie Bradley,1992-08-10,Archie Bradley,P,,10.2,DET
+24,crichst01,Stefan Crichton,1992-02-29,Stefan Crichton,P,,16.2,CHC
+25,rayro02,Robbie Ray,1991-10-01,Robbie Ray,P,,31.0,PIT
+26,ginkeke01,Kevin Ginkel,1994-03-24,Kevin Ginkel,P,,12.1,LAD
+27,smithri01,Riley Smith,1995-01-15,Riley Smith,P,,,
+28,lopezyo01,Yoan López,1993-01-02,Yoan López,P,,10.2,
+29,gracema02,Matt Grace,1988-12-14,Matt Grace,P,,1.0,WAS
+30,clarkta01,Taylor Clarke,1993-05-13,Taylor Clarke,P,,24.1,SEA
+31,rondohe01,Hector Rondon,1988-02-26,Héctor Rondón,P,,12.0,
+32,kellyme01,Merrill Kelly,1988-10-14,Merrill Kelly,P,,31.1,TEX
+33,youngal01,Alex Young,1993-09-09,Alex Young,P,,23.0,SEA
+34,beaslje01,Jeremy Beasley,1995-11-20,Jeremy Beasley,P,,,CIN
+35,darnatr01,Travis d'Arnaud,1989-02-10,Travis dArnaud,C,78.0,,NYM
+36,freemfr01,Freddie Freeman,1989-09-12,Freddie Freeman,1B,114.0,,TB
+37,camarjo01,Johan Camargo,1993-12-13,Johan Camargo,2B,100.0,,CHC
+38,swansda01,Dansby Swanson,1994-02-11,Dansby Swanson,SS,132.0,,BOS
+39,rileyau01,Austin Riley,1997-04-02,Austin Riley,3B,95.0,,LAA
+40,duvalad01,Adam Duvall,1988-09-04,Adam Duvall,OF,87.0,,CLE
+41,inciaen01,Ender Inciarte,1990-10-29,Ender Inciarte,CF,76.0,,WAS
+42,acunaro01,Ronald Acuna Jr.,1997-12-18,Ronald Acuña Jr,OF,79.0,,
+43,ozunama01,Marcell Ozuna,1990-11-12,Marcell Ozuna,DH,119.0,,ATL
+44,markani01,Nick Markakis,1983-11-17,Nick Markakis,OF,53.0,,SF
+45,adamsma01,Matt Adams,1988-08-31,Matt Adams,DH,49.0,,SD
+46,albieoz01,Ozzie Albies,1997-01-07,Ozzie Albies,2B,44.0,,DET
+47,flowety01,Tyler Flowers,1986-01-24,Tyler Flowers,C,30.0,,TOR
+48,hechaad01,Adeiny Hechavarria,1989-04-15,Adeiny Hechavarría,2B,26.0,,
+49,contrwi02,William Contreras,1997-12-24,William Contreras,C,,,DET
+50,jacksal02,Alex Jackson,1995-12-25,Alex Jackson,C,7.0,,MIL
+51,culbech01,Charlie Culberson,1989-04-10,Charlie Culberson,OF,7.0,,
+52,pachecr01,Cristian Pache,1998-11-19,Cristian Pache,LF,,,TEX
+53,schebsc01,Scott Schebler,1990-10-06,Scott Schebler,OF,1.0,,SEA
+54,sorokmi01,Mike Soroka,1997-08-04,Mike Soroka,P,,13.2,SF
+55,melanma01,Mark Melancon,1985-03-28,Mark Melancon,P,,11.2,MIL
+56,friedma01,Max Fried,1994-01-18,Max Fried,P,,40.0,BOS
+57,newcose01,Sean Newcomb,1993-06-12,Sean Newcomb,P,,13.2,CLE
+58,jackslu01,Luke Jackson,1991-08-24,Luke Jackson,P,,14.0,LAA
+59,wilsobr02,Bryse Wilson,1997-12-20,Bryse Wilson,P,,1.2,COL
+60,matzety01,Tyler Matzek,1990-10-19,Tyler Matzek,P,,,TEX
+61,tomlijo01,Josh Tomlin,1984-10-19,Josh Tomlin,P,,22.2,WAS
+62,minteaj01,A.J. Minter,1993-09-02,AJ Minter,P,,12.1,CWS
+63,martich02,Chris Martin,1986-06-02,Chris Martin,P,,8.0,TEX
+64,foltymi01,Mike Foltynewicz,1991-10-07,Mike Foltynewicz,P,,3.1,ATL
+65,smithwi04,Will Smith,1989-07-10,Will Smith,P,,6.2,MIA
+66,smithwi05,Will Smith,1995-03-28,Will Smith,C,48.0,,MIA
+67,daytogr01,Grant Dayton,1987-11-25,Grant Dayton,P,,15.1,WAS
+68,toussto01,Touki Toussaint,1996-06-20,Touki Toussaint,P,,21.2,NYY
+69,wrighky01,Kyle Wright,1995-10-02,Kyle Wright,P,,15.0,TOR
+70,ynoahu01,Huascar Ynoa,1998-05-28,Huascar Ynoa,P,,8.1,CWS
+71,erlinro01,Robbie Erlin,1990-10-08,Robbie Erlin,P,,18.0,
+72,sobotch01,Chad Sobotka,1993-07-10,Chad Sobotka,P,,3.0,MIN
+73,greensh02,Shane Greene,1988-11-17,Shane Greene,P,,16.1,
+74,anderia01,Ian Anderson,1998-05-02,Ian Anderson,P,,,COL
+75,milonto01,Tommy Milone,1987-02-16,Tommy Milone,P,,31.2,
+76,chacijh01,Jhoulys Chacin,1988-01-07,Jhoulys Chacín,P,,5.0,
+77,odayda01,Darren O'Day,1982-10-22,Darren ODay,P,,8.2,MIL
+78,rusinch01,Chris Rusin,1986-10-22,Chris Rusin,P,,3.1,
+79,severpe01,Pedro Severino,1993-07-20,Pedro Severino,C,93.0,,MIL
+80,nunezre01,Renato Nunez,1994-04-04,Renato Núñez,1B,124.0,,
+81,alberha01,Hanser Alberto,1992-10-17,Hanser Alberto,2B,136.0,,PIT
+82,velazan01,Andrew Velazquez,1994-07-14,Andrew Velazquez,SS,42.0,,NYY
+83,ruizri01,Rio Ruiz,1994-05-22,Rio Ruiz,3B,96.0,,SEA
+84,smithdw02,Dwight Smith Jr.,1992-10-26,Dwight Smith Jr,LF,63.0,,PIT
+85,haysau01,Austin Hays,1995-07-05,Austin Hays,CF,69.0,,SD
+86,santaan02,Anthony Santander,1994-10-19,Anthony Santander,OF,135.0,,PHI
+87,iglesjo01,José Iglesias,1990-01-05,José Iglesias,SS,69.0,,
+88,valaipa01,Pat Valaika,1992-09-09,Pat Valaika,SS,76.0,,NYY
+89,siscoch01,Chance Sisco,1995-02-24,Chance Sisco,C,53.0,,KC
+90,mullice01,Cedric Mullins,1994-10-01,Cedric Mullins,OF,54.0,,ATL
+91,davisch02,Chris Davis,1986-03-17,Chris Davis,1B,49.0,,BAL
+92,mountry01,Ryan Mountcastle,1997-02-18,Ryan Mountcastle,LF,,,STL
+93,stewadj01,DJ Stewart,1993-11-30,DJ Stewart,LF,14.0,,TOR
+94,holadbr01,Bryan Holaday,1987-11-19,Bryan Holaday,C,16.0,,
+95,willima10,Mason Williams,1991-08-21,Mason Williams,LF,9.0,,CHC
+96,uriasra01,Ramon Urias,1994-06-03,Ramón Urias,2B,,,
+97,leblawa01,Wade LeBlanc,1984-08-07,Wade LeBlanc,P,,22.1,
+98,bleieri01,Richard Bleier,1987-04-16,Richard Bleier,P,,6.2,NYY
+99,eshelto01,Thomas Eshelman,1994-06-20,Thomas Eshelman,P,,19.2,MIA
+100,scottta01,Tanner Scott,1994-07-22,Tanner Scott,P,,13.1,BAL
+101,akinke01,Keegan Akin,1995-04-01,Keegan Akin,P,,,LAD
+102,hessda01,David Hess,1993-07-10,David Hess,P,,7.0,NYY
+103,wojcias01,Asher Wojciechowski,1988-12-21,Asher Wojciechowski,P,,26.1,TOR
+104,valdece01,Cesar Valdez,1985-03-17,César Valdez,P,,,
+105,lakintr01,Travis Lakins,1994-06-29,Travis Lakins,P,,13.0,PIT
+106,tatedi01,Dillon Tate,1994-05-01,Dillon Tate,P,,6.1,KC
+107,lopezjo02,Jorge Lopez,1993-02-10,Jorge López,P,,14.1,
+108,carroco01,Cody Carroll,1992-10-15,Cody Carroll,P,,,ARI
+109,frypa01,Paul Fry,1992-07-26,Paul Fry,P,,14.0,PHI
+110,meansjo01,John Means,1993-04-24,John Means,P,,14.2,BAL
+111,cobbal01,Alex Cobb,1987-10-07,Alex Cobb,P,,35.1,STL
+112,givenmy01,Mychal Givens,1990-05-13,Mychal Givens,P,,13.0,PHI
+113,harvehu01,Hunter Harvey,1994-12-09,Hunter Harvey,P,,0.2,LAD
+114,armstsh01,Shawn Armstrong,1990-09-11,Shawn Armstrong,P,,12.1,WAS
+115,phillev01,Evan Phillips,1994-09-11,Evan Phillips,P,,8.2,NYY
+116,castrmi01,Miguel Castro,1994-12-24,Miguel Castro,P,,15.2,TOR
+117,sulseco01,Cole Sulser,1990-03-12,Cole Sulser,P,,15.1,SD
+118,vazquch01,Christian Vazquez,1990-08-21,Christian Vázquez,C,107.0,,
+119,morelmi01,Mitch Moreland,1985-09-06,Mitch Moreland,1B,67.0,,MIA
+120,perazjo01,Jose Peraza,1994-04-30,José Peraza,2B,95.0,,
+121,bogaexa01,Xander Bogaerts,1992-10-01,Xander Bogaerts,SS,116.0,,CHC
+122,deverra01,Rafael Devers,1996-10-24,Rafael Devers,3B,129.0,,LAA
+123,verdual01,Alex Verdugo,1996-05-15,Alex Verdugo,OF,117.0,,OAK
+124,bradlja02,Jackie Bradley Jr.,1990-04-19,Jackie Bradley Jr,CF,99.0,,SF
+125,pillake01,Kevin Pillar,1989-01-04,Kevin Pillar,OF,117.0,,SEA
+126,martijd02,J.D. Martinez,1987-08-21,JD Martinez,DH,120.0,,TEX
+127,chavimi01,Michael Chavis,1995-08-11,Michael Chavis,1B,65.0,,BOS
+128,beninan01,Andrew Benintendi,1994-07-06,Andrew Benintendi,LF,39.0,,MIN
+129,arauzjo01,Jonathan Arauz,1998-08-03,Jonathan Araúz,2B,,,
+130,plaweke01,Kevin Plawecki,1991-02-26,Kevin Plawecki,C,37.0,,MIL
+131,lintz02,Tzu-Wei Lin,1994-02-15,Tzu-Wei Lin,SS,23.0,,PIT
+132,dalbebo01,Bobby Dalbec,1995-06-29,Bobby Dalbec,1B,,,PIT
+133,lucrojo01,Jonathan Lucroy,1986-06-13,Jonathan Lucroy,C,0.0,,STL
+134,briceau01,Austin Brice,1992-06-19,Austin Brice,P,,16.2,NYY
+135,coveydy01,Dylan Covey,1991-08-14,Dylan Covey,P,,6.1,CIN
+136,eovalna01,Nathan Eovaldi,1990-02-13,Nathan Eovaldi,P,,34.1,
+137,taylojo02,Josh Taylor,1993-03-02,Josh Taylor,P,,4.1,SD
+138,mazzach01,Chris Mazza,1989-10-17,Chris Mazza,P,,8.0,
+139,hartky01,Kyle Hart,1992-11-23,Kyle Hart,P,,,MIL
+140,breweco01,Colten Brewer,1992-10-29,Colten Brewer,P,,21.2,PIT
+141,weberry01,Ryan Weber,1990-08-12,Ryan Weber,P,,24.0,STL
+142,workmbr01,Brandon Workman,1988-08-13,Brandon Workman,P,,12.0,ATL
+143,hallma02,Matt Hall,1993-07-23,Matt Hall,P,,4.2,NYY
+144,sprinje01,Jeffrey Springs,1992-09-20,Jeffrey Springs,P,,8.2,HOU
+145,hembrhe01,Heath Hembree,1989-01-13,Heath Hembree,P,,13.2,SEA
+146,osichjo01,Josh Osich,1988-09-03,Josh Osich,P,,15.2,NYM
+147,hernada02,Darwinzon Hernandez,1996-12-17,Darwinzon Hernández,P,,4.2,
+148,valdeph01,Phillips Valdez,1991-11-16,Phillips Valdéz,P,,20.0,
+149,brasiry01,Ryan Brasier,1987-08-26,Ryan Brasier,P,,13.2,CWS
+150,godleza01,Zack Godley,1990-04-21,Zack Godley,P,,25.2,SEA
+151,perezma02,Martin Perez,1991-04-04,Martín Pérez,P,,35.1,
+152,barnema01,Matt Barnes,1990-06-17,Matt Barnes,P,,13.0,BOS
+153,stockro01,Robert Stock,1989-11-21,Robert Stock,P,,4.1,SD
+154,waldema01,Marcus Walden,1988-09-13,Marcus Walden,P,,9.0,LAA
+155,contrwi01,Willson Contreras,1992-05-13,Willson Contreras,C,107.0,,ATL
+156,rizzoan01,Anthony Rizzo,1989-08-08,Anthony Rizzo,1B,115.0,,TEX
+157,kipnija01,Jason Kipnis,1987-04-03,Jason Kipnis,2B,62.0,,TB
+158,baezja01,Javier Baez,1992-12-01,Javier Báez,SS,124.0,,
+159,boteda01,David Bote,1993-04-07,David Bote,3B,79.0,,PIT
+160,schwaky01,Kyle Schwarber,1993-03-05,Kyle Schwarber,LF,114.0,,MIA
+161,happia01,Ian Happ,1994-08-12,Ian Happ,OF,109.0,,HOU
+162,heywaja01,Jason Heyward,1989-08-09,Jason Heyward,OF,84.0,,ARI
+163,caratvi01,Victor Caratini,1993-08-17,Víctor Caratini,C,70.0,,
+164,hoernni01,Nico Hoerner,1997-05-13,Nico Hoerner,2B,69.0,,COL
+165,bryankr01,Kris Bryant,1992-01-04,Kris Bryant,3B,62.0,,MIN
+166,almoral01,Albert Almora,1994-04-16,Albert Almora,CF,30.0,,TOR
+167,souzast01,Steven Souza Jr.,1989-04-24,Steven Souza Jr,OF,,,
+168,phegljo01,Josh Phegley,1988-02-12,Josh Phegley,C,16.0,,SD
+169,perezhe01,Hernan Perez,1991-03-26,Hernán Pérez,2B,6.0,,
+170,milleia01,Ian Miller,1992-02-21,Ian Miller,,0.0,,
+171,millsal02,Alec Mills,1991-11-30,Alec Mills,P,,32.2,HOU
+172,reaco01,Colin Rea,1990-07-01,Colin Rea,P,,,OAK
+173,lestejo01,Jon Lester,1984-01-07,Jon Lester,P,,31.2,CWS
+174,quintjo01,Jose Quintana,1989-01-24,José Quintana,P,,6.0,
+175,jeffrje01,Jeremy Jeffress,1987-09-21,Jeremy Jeffress,P,,13.1,PHI
+176,norwoja01,James Norwood,1993-12-24,James Norwood,P,,1.2,OAK
+177,teperry01,Ryan Tepera,1987-11-03,Ryan Tepera,P,,13.2,ATL
+178,brothre01,Rex Brothers,1987-12-18,Rex Brothers,P,,,SD
+179,wieckbr01,Brad Wieck,1991-10-14,Brad Wieck,P,,1.0,MIN
+180,hendrky01,Kyle Hendricks,1989-12-07,Kyle Hendricks,P,,44.0,WAS
+181,adamja01,Jason Adam,1991-08-04,Jason Adam,P,,3.2,HOU
+182,kimbrcr01,Craig Kimbrel,1988-05-28,Craig Kimbrel,P,,8.0,BOS
+183,underdu01,Duane Underwood Jr.,1994-07-20,Duane Underwood Jr,P,,,
+184,ryanky01,Kyle Ryan,1991-09-25,Kyle Ryan,P,,10.2,CHC
+185,millety01,Tyson Miller,1995-07-29,Tyson Miller,P,,,DET
+186,alzolad01,Adbert Alzolay,1995-03-01,Adbert Alzolay,P,,6.0,HOU
+187,wickro01,Rowan Wick,1992-11-09,Rowan Wick,P,,10.0,PIT
+188,winklda01,Dan Winkler,1990-02-02,Dan Winkler,P,,10.1,
+189,sadleca02,Casey Sadler,1990-07-13,Casey Sadler,P,,9.1,PHI
+190,darviyu01,Yu Darvish,1986-08-16,Yu Darvish,P,,43.0,SF
+191,chatwty01,Tyler Chatwood,1989-12-16,Tyler Chatwood,P,,18.2,KC
+192,mapledi01,Dillon Maples,1992-05-09,Dillon Maples,P,,1.0,STL
+193,grandya01,Yasmani Grandal,1988-11-08,Yasmani Grandal,C,92.0,,TB
+194,abreujo02,José Abreu,1987-01-29,José Abreu,1B,138.0,,
+195,mendida01,Danny Mendick,1993-09-28,Danny Mendick,2B,87.0,,KC
+196,anderti01,Tim Anderson,1993-06-23,Tim Anderson,SS,102.0,,OAK
+197,moncayo01,Yoan Moncada,1995-05-27,Yoán Moncada,3B,118.0,,
+198,jimenel02,Eloy Jimenez,1996-11-27,Eloy Jiménez,LF,122.0,,
+199,roberlu01,Luis Robert,1997-08-03,Luis Robert,CF,,,LAD
+200,mazarno01,Nomar Mazara,1995-04-26,Nomar Mazara,OF,63.0,,NYM
+201,encared01,Edwin Encarnacion,1983-01-07,Edwin Encarnación,DH,83.0,,
+202,garcile02,Leury Garcia,1991-03-18,Leury García,OF,59.0,,
+203,mccanja02,James McCann,1990-06-13,James McCann,C,53.0,,
+204,engelad01,Adam Engel,1991-12-09,Adam Engel,OF,57.0,,HOU
+205,madrini01,Nick Madrigal,1997-03-05,Nick Madrigal,2B,,,LAD
+206,delmoni01,Nicky Delmonico,1992-07-12,Nicky Delmonico,OF,20.0,,SD
+207,colliza01,Zack Collins,1995-02-06,Zack Collins,DH,16.0,,MIN
+208,goinsry01,Ryan Goins,1988-02-13,Ryan Goins,2B,9.0,,
+209,gonzalu03,Luis Gonzalez,1995-09-10,Luis González,OF,,,
+210,merceye01,Yermin Mercedes,1993-02-14,Yermin Mercedes,DH,,,
+211,cuthbch01,Cheslor Cuthbert,1992-11-16,Cheslor Cuthbert,3B,1.0,,NYM
+212,dysonja01,Jarrod Dyson,1984-08-15,Jarrod Dyson,OF,,,TB
+213,hamilia01,Ian Hamilton,1995-06-16,Ian Hamilton,P,,,KC
+214,fostema01,Matt Foster,1995-01-27,Matt Foster,P,,,HOU
+215,burdiza01,Zack Burdi,1995-03-09,Zack Burdi,P,,,TEX
+216,rodonca01,Carlos Rodon,1992-12-10,Carlos Rodón,P,,5.2,
+217,bummeaa01,Aaron Bummer,1993-09-21,Aaron Bummer,P,,7.1,BOS
+218,detwiro01,Ross Detwiler,1986-03-06,Ross Detwiler,P,,13.2,MIA
+219,cordeji01,Jimmy Cordero,1991-10-19,Jimmy Cordero,P,,14.0,
+220,keuchda01,Dallas Keuchel,1988-01-01,Dallas Keuchel,P,,43.1,MIL
+221,cishest01,Steve Cishek,1986-06-18,Steve Cishek,P,,12.2,TB
+222,colomal01,Alex Colome,1988-12-31,Alex Colomé,P,,12.1,
+223,ceasedy01,Dylan Cease,1995-12-28,Dylan Cease,P,,36.0,TB
+224,heuerco01,Codi Heuer,1996-07-03,Codi Heuer,P,,,BAL
+225,gonzagi01,Gio Gonzalez,1985-09-19,Gio González,P,,24.2,
+226,ruizjo01,Jose Ruiz,1994-10-21,José Ruiz,P,,2.0,
+227,anderdr02,Drew Anderson,1994-03-22,Drew Anderson,P,,1.1,
+228,herreke01,Kelvin Herrera,1989-12-31,Kelvin Herrera,P,,2.1,MIA
+229,dunnida01,Dane Dunning,1994-12-20,Dane Dunning,P,,,CWS
+230,lopezre01,Reynaldo Lopez,1994-01-04,Reynaldo López,P,,8.0,
+231,marshev01,Evan Marshall,1990-04-18,Evan Marshall,P,,14.1,TOR
+232,lambeji01,Jimmy Lambert,1994-11-18,Jimmy Lambert,P,,,
+233,lailbr01,Brady Lail,1993-08-09,Brady Lail,P,,6.2,BAL
+234,giolilu01,Lucas Giolito,1994-07-14,Lucas Giolito,P,,43.2,TB
+235,fryja01,Jace Fry,1993-07-09,Jace Fry,P,,10.2,LAD
+236,barnhtu01,Tucker Barnhart,1991-01-07,Tucker Barnhart,C,58.0,,PHI
+237,vottojo01,Joey Votto,1983-09-10,Joey Votto,1B,98.0,,BOS
+238,moustmi01,Mike Moustakas,1988-09-11,Mike Moustakas,2B,61.0,,TB
+239,galvifr01,Freddy Galvis,1989-11-14,Freddy Galvis,SS,91.0,,TOR
+240,suareeu01,Eugenio Suarez,1991-07-18,Eugenio Suárez,3B,115.0,,
+241,akiyash01,Shogo Akiyama,1988-04-16,Shogo Akiyama,OF,,,CIN
+242,senzeni01,Nick Senzel,1995-06-29,Nick Senzel,CF,45.0,,ATL
+243,casteni01,Nicholas Castellanos,1992-03-04,Nicholas Castellanos,OF,122.0,,
+244,winkeje01,Jesse Winker,1993-08-17,Jesse Winker,DH,97.0,,LAD
+245,casalcu01,Curt Casali,1988-11-09,Curt Casali,C,44.0,,CIN
+246,farmeky01,Kyle Farmer,1990-08-17,Kyle Farmer,2B,44.0,,MIA
+247,ervinph01,Phil Ervin,1992-07-15,Phil Ervin,OF,35.0,,PHI
+248,vanmejo01,Josh VanMeter,1995-03-10,Josh VanMeter,2B,34.0,,
+249,davidma02,Matt Davidson,1991-03-26,Matt Davidson,DH,,,PHI
+250,colonch01,Christian Colon,1989-05-14,Christian Colón,2B,23.0,,
+251,paytoma01,Mark Payton,1991-12-07,Mark Payton,LF,,,
+252,jankotr01,Travis Jankowski,1991-06-15,Travis Jankowski,OF,15.0,,LAD
+253,garcijo02,José García,1998-04-05,José García,SS,,,
+254,aquinar01,Aristides Aquino,1994-04-22,Aristides Aquino,LF,9.0,,KC
+255,stephty01,Tyler Stephenson,1996-08-16,Tyler Stephenson,C,,,CIN
+256,desclan01,Anthony DeSclafani,1990-04-18,Anthony DeSclafani,P,,17.1,
+257,raleybr01,Brooks Raley,1988-06-29,Brooks Raley,P,,,NYY
+258,lorenmi01,Michael Lorenzen,1992-01-04,Michael Lorenzen,P,,13.1,SD
+259,mileywa01,Wade Miley,1986-11-13,Wade Miley,P,,12.1,WAS
+260,kuhnejo01,Joel Kuhnel,1995-02-19,Joel Kuhnel,P,,3.0,MIN
+261,castilu02,Luis Castillo,1992-12-12,Luis Castillo,P,,37.1,ATL
+262,reedco01,Cody Reed,1993-04-15,Cody Reed,P,,9.1,
+263,garream01,Amir Garrett,1992-05-03,Amir Garrett,P,,11.0,LAD
+264,stephro01,Robert Stephenson,1993-02-24,Robert Stephenson,P,,4.1,LAD
+265,biddlje01,Jesse Biddle,1991-10-22,Jesse Biddle,P,,0.2,CWS
+266,iglesra01,Raisel Iglesias,1990-01-04,Raisel Iglesias,P,,9.2,KC
+267,thornty01,Tyler Thornburg,1988-09-29,Tyler Thornburg,P,,5.0,
+268,jonesna01,Nate Jones,1986-01-28,Nate Jones,P,,,
+269,grayso01,Sonny Gray,1989-11-07,Sonny Gray,P,,41.2,NYM
+270,deleojo03,Jose De Leon,1992-08-07,José De León,P,,,
+271,simslu01,Lucas Sims,1994-05-10,Lucas Sims,P,,13.0,STL
+272,stroppe01,Pedro Strop,1985-06-13,Pedro Strop,P,,2.1,
+273,bauertr01,Trevor Bauer,1991-01-17,Trevor Bauer,P,,38.0,PHI
+274,antonte01,Tejay Antone,1993-12-05,Tejay Antone,P,,,BAL
+275,mahlety01,Tyler Mahle,1994-09-29,Tyler Mahle,P,,23.0,TEX
+276,leonsa01,Sandy Leon,1989-03-13,Sandy León,C,46.0,,
+277,santaca01,Carlos Santana,1986-04-08,Carlos Santana,1B,114.0,,SEA
+278,hernace02,Cesar Hernandez,1990-05-23,César Hernández,2B,133.0,,
+279,lindofr01,Francisco Lindor,1993-11-14,Francisco Lindor,SS,139.0,,MIN
+280,ramirjo01,Jose Ramirez,1992-09-17,José Ramírez,3B,133.0,,
+281,luplojo01,Jordan Luplow,1993-09-26,Jordan Luplow,OF,43.0,,COL
+282,deshide02,Delino DeShields,1992-08-16,Delino DeShields,CF,47.0,,
+283,santado01,Domingo Santana,1992-08-05,Domingo Santana,OF,70.0,,SEA
+284,reyesfr01,Franmil Reyes,1995-07-07,Franmil Reyes,DH,121.0,,LAA
+285,naquity01,Tyler Naquin,1991-04-24,Tyler Naquin,OF,55.0,,BOS
+286,zimmebr01,Bradley Zimmer,1992-11-27,Bradley Zimmer,OF,37.0,,MIA
+287,mercaos01,Oscar Mercado,1994-12-16,Óscar Mercado,OF,45.0,,
+288,perezro02,Roberto Perez,1988-12-23,Roberto Pérez,C,40.0,,
+289,allengr01,Greg Allen,1993-03-15,Greg Allen,OF,25.0,,TEX
+290,taylobe11,Beau Taylor,1990-02-13,Beau Taylor,C,21.0,,SD
+291,freemmi01,Mike Freeman,1987-08-04,Mike Freeman,2B,21.0,,
+292,johnsda07,Daniel Johnson,1995-07-11,Daniel Johnson,OF,,,OAK
+293,changyu01,Yu Chang,1995-08-18,Yu Chang,SS,9.0,,
+294,arroych01,Christian Arroyo,1995-05-30,Christian Arroyo,3B,0.0,,SEA
+295,allenlo01,Logan Allen,1997-05-23,Logan Allen,P,,7.2,TB
+296,mckentr01,Triston McKenzie,1997-08-02,Triston McKenzie,P,,,CWS
+297,carraca01,Carlos Carrasco,1987-03-21,Carlos Carrasco,P,,36.0,DET
+298,leonedo01,Dominic Leone,1991-10-26,Dominic Leone,P,,6.2,
+299,biebesh01,Shane Bieber,1995-05-31,Shane Bieber,P,,46.2,DET
+300,karinja01,James Karinchak,1995-09-22,James Karinchak,P,,17.2,KC
+301,wittgni01,Nick Wittgren,1991-05-29,Nick Wittgren,P,,14.0,TB
+302,hillca02,Cam Hill,1994-05-24,Cam Hill,P,,,
+303,civalaa01,Aaron Civale,1995-06-12,Aaron Civale,P,,46.0,CHC
+304,perezol01,Oliver Perez,1981-08-15,Oliver Pérez,P,,13.1,
+305,handbr01,Brad Hand,1990-03-20,Brad Hand,P,,10.2,TEX
+306,plesaza01,Zach Plesac,1995-01-21,Zach Plesac,P,,21.0,LAD
+307,matonph01,Phil Maton,1993-03-25,Phil Maton,P,,10.2,TB
+308,plutkad01,Adam Plutko,1991-10-03,Adam Plutko,P,,21.0,KC
+309,clevimi01,Mike Clevinger,1990-12-21,Mike Clevinger,P,,22.2,
+310,cimbead01,Adam Cimber,1990-08-15,Adam Cimber,P,,8.1,SEA
+311,wolteto01,Tony Wolters,1992-06-09,Tony Wolters,C,68.0,,WAS
+312,murphda08,Daniel Murphy,1985-04-01,Daniel Murphy,1B,94.0,,PHI
+313,mcmahry01,Ryan McMahon,1994-12-14,Ryan McMahon,2B,105.0,,NYY
+314,storytr01,Trevor Story,1992-11-15,Trevor Story,SS,136.0,,TEX
+315,arenano01,Nolan Arenado,1991-04-16,Nolan Arenado,3B,123.0,,DET
+316,tapiara01,Raimel Tapia,1994-02-04,Raimel Tapia,OF,77.0,,LAD
+317,dahlda01,David Dahl,1994-04-01,David Dahl,OF,74.0,,DET
+318,blackch02,Charlie Blackmon,1986-07-01,Charlie Blackmon,OF,130.0,,LAA
+319,kempma01,Matt Kemp,1984-09-23,Matt Kemp,DH,72.0,,MIL
+320,hampsga01,Garrett Hampson,1994-10-10,Garrett Hampson,OF,93.0,,MIL
+321,hillisa01,Sam Hilliard,1994-02-21,Sam Hilliard,OF,64.0,,CLE
+322,owingch01,Chris Owings,1991-08-12,Chris Owings,2B,41.0,,BAL
+323,buterdr01,Drew Butera,1983-08-09,Drew Butera,C,31.0,,
+324,diazel01,Elias Diaz,1990-11-17,Elias Díaz,C,22.0,,
+325,rodgebr02,Brendan Rodgers,1996-08-09,Brendan Rodgers,2B,21.0,,COL
+326,fuentjo01,Josh Fuentes,1993-02-19,Josh Fuentes,1B,19.0,,NYY
+327,senzaan01,Antonio Senzatela,1995-01-21,Antonio Senzatela,P,,43.1,COL
+328,kinlety01,Tyler Kinley,1991-01-31,Tyler Kinley,P,,11.2,BOS
+329,castery01,Ryan Castellani,1996-04-01,Ryan Castellani,P,,,LAA
+330,pazosja01,James Pazos,1991-05-05,James Pazos,P,,5.1,OAK
+331,harvejo01,Joe Harvey,1992-01-09,Joe Harvey,P,,3.1,STL
+332,freelky01,Kyle Freeland,1993-05-14,Kyle Freeland,P,,42.0,MIL
+333,hoffmje02,Jeff Hoffman,1993-01-08,Jeff Hoffman,P,,13.2,COL
+334,estevca01,Carlos Estevez,1992-12-28,Carlos Estévez,P,,16.2,
+335,grayjo02,Jon Gray,1991-11-05,Jon Gray,P,,36.1,MIA
+336,goudeas01,Ashton Goudeau,1992-07-23,Ashton Goudeau,P,,,NYY
+337,bardda01,Daniel Bard,1985-06-25,Daniel Bard,P,,,SD
+338,almonye01,Yency Almonte,1994-06-04,Yency Almonte,P,,16.2,PIT
+339,marquge01,German Marquez,1995-02-22,German Márquez,P,,42.0,
+340,diazja01,Jairo Diaz,1991-05-27,Jairo Díaz,P,,12.2,
+341,gonzach01,Chi Chi Gonzalez,1992-01-15,Chi Chi González,P,,7.0,
+342,daviswa01,Wade Davis,1985-09-07,Wade Davis,P,,2.2,PIT
+343,diehlph01,Phillip Diehl,1994-07-16,Phillip Diehl,P,,6.0,LAD
+344,rominau01,Austin Romine,1988-11-22,Austin Romine,C,79.0,,MIL
+345,candeje01,Jeimer Candelario,1993-11-24,Jeimer Candelario,1B,107.0,,STL
+346,schoojo01,Jonathan Schoop,1991-10-16,Jonathan Schoop,2B,119.0,,TEX
+347,goodrni01,Niko Goodrum,1992-02-28,Niko Goodrum,SS,108.0,,ARI
+348,paredis01,Isaac Paredes,1999-02-18,Isaac Paredes,3B,,,LAA
+349,stewach02,Christin Stewart,1993-12-10,Christin Stewart,LF,62.0,,COL
+350,jonesja07,JaCoby Jones,1992-05-10,JaCoby Jones,CF,95.0,,
+351,reyesvi01,Victor Reyes,1994-10-05,Víctor Reyes,OF,103.0,,
+352,cabremi01,Miguel Cabrera,1983-04-18,Miguel Cabrera,DH,116.0,,HOU
+353,croncj01,C.J. Cron,1990-01-05,CJ Cron,1B,42.0,,ARI
+354,maybica01,Cameron Maybin,1987-04-04,Cameron Maybin,OF,41.0,,CWS
+355,castrwi01,Willi Castro,1997-04-24,Willi Castro,3B,35.0,,PIT
+356,greingr01,Grayson Greiner,1992-10-11,Grayson Greiner,C,29.0,,MIA
+357,castrha01,Harold Castro,1993-11-30,Harold Castro,OF,29.0,,SF
+358,bonifjo01,Jorge Bonifacio,1993-06-04,Jorge Bonifacio,OF,,,CIN
+359,demertr01,Travis Demeritte,1994-09-30,Travis Demeritte,OF,13.0,,
+360,lugoda01,Dawel Lugo,1994-12-31,Dawel Lugo,3B,10.0,,WAS
+361,mercejo03,Jordy Mercer,1986-08-27,Jordy Mercer,1B,18.0,,BAL
+362,skubata01,Tarik Skubal,1996-11-20,Tarik Skubal,P,,,ARI
+363,mizeca01,Casey Mize,1997-05-01,Casey Mize,P,,,TOR
+364,farmebu01,Buck Farmer,1991-02-20,Buck Farmer,P,,11.1,STL
+365,turnbsp01,Spencer Turnbull,1992-09-18,Spencer Turnbull,P,,30.1,STL
+366,jimenjo02,Joe Jimenez,1995-01-17,Joe Jiménez,P,,10.0,
+367,novaiv01,Ivan Nova,1987-01-12,Iván Nova,P,,19.0,
+368,garciro03,Rony Garcia,1997-12-19,Rony García,P,,,
+369,garcibr01,Bryan Garcia,1995-04-19,Bryan Garcia,P,,13.0,LAA
+370,funkhky01,Kyle Funkhouser,1994-03-16,Kyle Funkhouser,P,,,NYY
+371,alexaty01,Tyler Alexander,1994-07-14,Tyler Alexander,P,,24.0,BOS
+372,fulmeca01,Carson Fulmer,1993-12-13,Carson Fulmer,P,,6.2,BOS
+373,boydma01,Matthew Boyd,1991-02-02,Matthew Boyd,P,,34.2,
+374,cisnejo01,Jose Cisnero,1989-04-11,José Cisnero,P,,17.2,
+375,schrejo01,John Schreiber,1994-03-05,John Schreiber,P,,11.1,NYY
+376,castran02,Anthony Castro,1995-04-13,Anthony Castro,P,,,ARI
+377,fulmemi01,Michael Fulmer,1993-03-15,Michael Fulmer,P,,,LAD
+378,sotogr01,Gregory Soto,1995-02-11,Gregory Soto,P,,17.1,LAA
+379,norrida01,Daniel Norris,1993-04-25,Daniel Norris,P,,15.0,LAA
+380,mckayda02,David McKay,1995-03-31,David McKay,P,,0.1,STL
+381,burrobe01,Beau Burrows,1996-09-18,Beau Burrows,P,,,LAA
+382,maldoma01,Martin Maldonado,1986-08-16,Martín Maldonado,C,77.0,,
+383,gourryu01,Yuli Gurriel,1984-06-09,Yuli Gurriel,1B,120.0,,
+384,altuvjo01,Jose Altuve,1990-05-06,José Altuve,2B,133.0,,
+385,correca01,Carlos Correa,1994-09-22,Carlos Correa,SS,116.0,,LAA
+386,bregmal01,Alex Bregman,1994-03-30,Alex Bregman,3B,92.0,,ATL
+387,tuckeky01,Kyle Tucker,1997-01-17,Kyle Tucker,LF,114.0,,TB
+388,springe01,George Springer,1989-09-19,George Springer,OF,91.0,,ARI
+389,reddijo01,Josh Reddick,1987-02-19,Josh Reddick,OF,107.0,,CIN
+390,brantmi02,Michael Brantley,1987-05-15,Michael Brantley,DH,73.0,,SF
+391,toroab01,Abraham Toro,1996-12-20,Abraham Toro,DH,56.0,,
+392,strawmy01,Myles Straw,1994-10-17,Myles Straw,CF,55.0,,NYY
+393,jonesta01,Taylor Jones,1993-12-06,Taylor Jones,DH,,,NYM
+394,garnedu01,Dustin Garneau,1987-08-13,Dustin Garneau,C,17.0,,CIN
+395,mayfija01,Jack Mayfield,1990-09-30,Jack Mayfield,3B,18.0,,ATL
+396,alvaryo01,Yordan Álvarez,1997-06-27,Yordan Álvarez,DH,8.0,,
+397,stubbga01,Garrett Stubbs,1993-05-26,Garrett Stubbs,C,6.0,,SD
+398,diazal02,Aledmys Díaz,1990-08-01,Aledmys Díaz,3B,5.0,,
+399,verlaju01,Justin Verlander,1983-02-20,Justin Verlander,P,,6.0,SD
+400,taylobl01,Blake Taylor,1995-08-17,Blake Taylor,P,,,DET
+401,biagijo01,Joe Biagini,1990-05-29,Joe Biagini,P,,4.1,LAA
+402,scruban01,Andre Scrubb,1995-01-13,Andre Scrubb,P,,,BAL
+403,perezci01,Cionel Pérez,1996-04-21,Cionel Pérez,P,,2.2,
+404,bailebr01,Brandon Bailey,1994-10-19,Brandon Bailey,P,,,TEX
+405,pressry01,Ryan Pressly,1988-12-15,Ryan Pressly,P,,10.2,KC
+406,jamesjo02,Josh James,1993-03-08,Josh James,P,,10.2,CLE
+407,castehu01,Humberto Castellanos,1998-04-03,Humberto Castellanos,P,,,ARI
+408,devench02,Chris Devenski,1990-11-13,Chris Devenski,P,,2.0,BOS
+409,sanabca01,Carlos Sanabria,1997-01-24,Carlos Sanabria,P,,,
+410,mcculla02,Lance McCullers Jr.,1993-10-02,Lance McCullers Jr,P,,,MIA
+411,javiecr01,Cristian Javier,1997-03-26,Cristian Javier,P,,,NYM
+412,rodrini01,Nivaldo Rodriguez,1997-04-16,Nivaldo Rodríguez,P,,,
+413,bielabr01,Brandon Bielak,1996-04-02,Brandon Bielak,P,,,CLE
+414,greinza01,Zack Greinke,1983-10-21,Zack Greinke,P,,40.1,ATL
+415,valdefr01,Framber Valdez,1993-11-19,Framber Valdéz,P,,38.1,
+416,pareden01,Enoli Paredes,1995-09-28,Enoli Paredes,P,,,LAA
+417,osunaro01,Roberto Osuna,1995-02-07,Roberto Osuna,P,,4.1,WAS
+418,abreubr01,Bryan Abreu,1997-04-22,Bryan Abreu,P,,3.1,TB
+419,sneedcy01,Cy Sneed,1992-10-01,Cy Sneed,P,,11.2,SD
+420,dejonch01,Chase De Jong,1993-12-29,Chase De Jong,P,,0.2,
+421,perezsa02,Salvador Perez,1990-05-10,Salvador Pérez,C,,,
+422,ohearry01,Ryan O'Hearn,1993-07-26,Ryan OHearn,1B,77.0,,WAS
+423,lopezni01,Nicky Lopez,1995-03-13,Nicky Lopez,2B,91.0,,MIN
+424,mondera02,Adalberto Mondesi,1995-07-27,Adalberto Mondesi,SS,126.0,,KC
+425,francma02,Maikel Franco,1992-08-26,Maikel Franco,3B,126.0,,PIT
+426,gordoal01,Alex Gordon,1984-02-10,Alex Gordon,LF,98.0,,CWS
+427,merriwh01,Whit Merrifield,1989-01-24,Whit Merrifield,OF,135.0,,SD
+428,doziehu01,Hunter Dozier,1991-08-22,Hunter Dozier,OF,63.0,,KC
+429,solerjo01,Jorge Soler,1992-02-25,Jorge Soler,DH,122.0,,NYM
+430,mcbrory01,Ryan McBroom,1992-04-09,Ryan McBroom,1B,56.0,,
+431,phillbr02,Brett Phillips,1994-05-30,Brett Phillips,OF,31.0,,COL
+432,gallaca01,Cam Gallagher,1992-12-06,Cam Gallagher,C,28.0,,
+433,cordefr02,Franchy Cordero,1994-09-02,Franchy Cordero,OF,26.0,,KC
+434,starlbu01,Bubba Starling,1992-08-03,Bubba Starling,CF,23.0,,SEA
+435,vilorme01,Meibrys Viloria,1997-02-15,Meibrys Viloria,C,15.0,,CWS
+436,mejiaer01,Erick Mejia,1994-11-09,Erick Mejia,3B,8.0,,ATL
+437,heathni01,Nick Heath,1993-11-27,Nick Heath,CF,,,NYM
+438,hernaos01,Oscar Hernandez,1993-07-09,Óscar Hernández,C,,,
+439,sparkgl01,Glenn Sparkman,1992-05-11,Glenn Sparkman,P,,5.0,CWS
+440,harvema01,Matt Harvey,1989-03-27,Matt Harvey,P,,5.2,BAL
+441,newbeja01,Jake Newberry,1994-11-20,Jake Newberry,P,,11.2,CIN
+442,bubickr01,Kris Bubic,1997-08-19,Kris Bubic,P,,,KC
+443,singebr01,Brady Singer,1996-08-04,Brady Singer,P,,,OAK
+444,rosentr01,Trevor Rosenthal,1990-05-29,Trevor Rosenthal,P,,13.2,MIL
+445,montgmi01,Mike Montgomery,1989-07-01,Mike Montgomery,P,,2.0,SF
+446,hollagr01,Greg Holland,1985-11-20,Greg Holland,P,,18.0,CWS
+447,rosarra01,Randy Rosario,1994-05-18,Randy Rosario,P,,1.2,CIN
+448,barlosc01,Scott Barlow,1992-12-18,Scott Barlow,P,,18.2,NYM
+449,speiega01,Gabe Speier,1995-04-12,Gabe Speier,P,,5.2,CWS
+450,grifffo01,Foster Griffin,1995-07-27,Foster Griffin,P,,,HOU
+451,adamsch01,Chance Adams,1994-08-10,Chance Adams,P,,1.2,SEA
+452,kellebr01,Brad Keller,1995-07-27,Brad Keller,P,,21.2,KC
+453,junisja01,Jakob Junis,1992-09-16,Jakob Junis,P,,12.2,
+454,hahnje01,Jesse Hahn,1989-07-30,Jesse Hahn,P,,5.0,BOS
+455,duffyda01,Danny Duffy,1988-12-21,Danny Duffy,P,,35.0,LAD
+456,zimmeky01,Kyle Zimmer,1991-09-13,Kyle Zimmer,P,,13.0,HOU
+457,staumjo01,Josh Staumont,1993-12-21,Josh Staumont,P,,14.2,DET
+458,lovelri01,Richard Lovelady,1995-07-07,Richard Lovelady,P,,1.0,DET
+459,kenneia01,Ian Kennedy,1984-12-19,Ian Kennedy,P,,14.0,DET
+460,zuberty01,Tyler Zuber,1995-06-16,Tyler Zuber,P,,,STL
+461,bolanro01,Ronald Bolanos,1996-08-23,Ronald Bolanos,P,,3.2,OAK
+462,mccarke01,Kevin McCarthy,1992-02-22,Kevin McCarthy,P,,6.0,SF
+463,castrja01,Jason Castro,1987-06-18,Jason Castro,C,52.0,,MIA
+464,pujolal01,Albert Pujols,1980-01-16,Albert Pujols,1B,90.0,,OAK
+465,rengilu01,Luis Rengifo,1997-02-26,Luis Rengifo,2B,54.0,,HOU
+466,fletcda02,David Fletcher,1994-05-31,David Fletcher,SS,144.0,,STL
+467,rendoan01,Anthony Rendon,1990-06-06,Anthony Rendon,3B,107.0,,CLE
+468,uptonju01,Justin Upton,1987-08-25,Justin Upton,LF,77.0,,SEA
+469,troutmi01,Mike Trout,1991-08-07,Mike Trout,CF,119.0,,SD
+470,adelljo01,Jo Adell,1999-04-08,Jo Adell,OF,,,STL
+471,ohtansh01,Shohei Ohtani,1994-07-05,Shohei Ohtani,DH,105.0,,SD
+472,lasteto01,Tommy La Stella,1989-01-31,Tommy La Stella,3B,,,TOR
+473,goodwbr01,Brian Goodwin,1990-11-02,Brian Goodwin,OF,95.0,,HOU
+474,stassma01,Max Stassi,1991-03-15,Max Stassi,C,45.0,,SF
+475,simmoan01,Andrelton Simmons,1989-09-04,Andrelton Simmons,SS,42.0,,CIN
+476,wardta01,Taylor Ward,1993-12-14,Taylor Ward,OF,34.0,,CWS
+477,bemboan01,Anthony Bemboom,1990-01-18,Anthony Bemboom,C,17.0,,KC
+478,thaisma01,Matt Thaiss,1995-05-06,Matt Thaiss,1B,10.0,,CWS
+479,hermomi01,Michael Hermosillo,1995-01-17,Michael Hermosillo,OF,8.0,,KC
+480,walshja01,Jared Walsh,1993-07-30,Jared Walsh,1B,10.0,,MIL
+481,sandopa02,Patrick Sandoval,1996-10-18,Patrick Sandoval,P,,22.2,LAD
+482,quijajo01,Jose Quijada,1995-11-09,José Quijada,P,,1.0,
+483,middlke01,Keynan Middleton,1993-09-12,Keynan Middleton,P,,12.0,PIT
+484,robleha01,Hansel Robles,1990-08-13,Hansel Robles,P,,11.0,DET
+485,rodrijo07,Jose Rodriguez,1995-08-29,José Rodríguez,P,,1.2,
+486,buchtry01,Ryan Buchter,1987-02-13,Ryan Buchter,P,,6.0,LAD
+487,heanean01,Andrew Heaney,1991-06-05,Andrew Heaney,P,,37.0,MIL
+488,ramirno01,Noe Ramirez,1989-12-22,Noé Ramirez,P,,13.2,
+489,milneho01,Hoby Milner,1991-01-13,Hoby Milner,P,,7.0,HOU
+490,bardlu01,Luke Bard,1990-11-13,Luke Bard,P,,2.0,TOR
+491,cannigr01,Griffin Canning,1996-05-11,Griffin Canning,P,,35.2,TEX
+492,andrima01,Matt Andriese,1989-08-28,Matt Andriese,P,,18.0,PHI
+493,mayermi01,Mike Mayers,1991-12-06,Mike Mayers,P,,10.2,HOU
+494,bundydy01,Dylan Bundy,1992-11-15,Dylan Bundy,P,,43.2,SD
+495,teherju01,Julio Teheran,1991-01-27,Julio Teheran,P,,17.2,NYM
+496,bedroca01,Cam Bedrosian,1991-10-02,Cam Bedrosian,P,,4.1,MIL
+497,buttrty01,Ty Buttrey,1993-03-31,Ty Buttrey,P,,17.0,LAD
+498,kelleky01,Kyle Keller,1993-04-28,Kyle Keller,P,,2.1,
+499,suarejo01,Jose Suarez,1998-01-03,José Suarez,P,,2.1,
+500,penafe01,Felix Pena,1990-02-25,Felix Peña,P,,16.1,
+501,barrija01,Jaime Barria,1996-07-18,Jaime Barria,P,,9.1,BAL
+502,barneja01,Jacob Barnes,1990-04-14,Jacob Barnes,P,,11.2,MIA
+503,barneau01,Austin Barnes,1989-12-28,Austin Barnes,C,60.0,,SD
+504,muncyma01,Max Muncy,1990-08-25,Max Muncy,1B,124.0,,DET
+505,hernaen02,Enrique Hernandez,1991-08-24,Kiké Hernández,OF,93.0,,
+506,seageco01,Corey Seager,1994-04-27,Corey Seager,SS,119.0,,SD
+507,turneju01,Justin Turner,1984-11-23,Justin Turner,3B,117.0,,TEX
+508,pederjo01,Joc Pederson,1992-04-21,Joc Pederson,OF,85.0,,MIA
+509,bellico01,Cody Bellinger,1995-07-13,Cody Bellinger,CF,138.0,,MIN
+510,bettsmo01,Mookie Betts,1992-10-07,Mookie Betts,OF,131.0,,SD
+511,polloaj01,AJ Pollock,1987-12-05,AJ Pollock,OF,111.0,,SF
+512,tayloch03,Chris Taylor,1990-08-29,Chris Taylor,SS,104.0,,CIN
+513,beatyma01,Matt Beaty,1993-04-28,Matt Beaty,1B,42.0,,CLE
+514,riosed01,Edwin Rios,1994-04-21,Edwin Ríos,1B,29.0,,
+515,luxga01,Gavin Lux,1997-11-23,Gavin Lux,2B,11.0,,MIN
+516,ruizke01,Keibert Ruiz,1998-07-20,Keibert Ruiz,C,,,STL
+517,gorete01,Terrance Gore,1991-06-08,Terrance Gore,CF,0.0,,NYY
+518,maydu01,Dustin May,1997-09-06,Dustin May,P,,35.0,DET
+519,alexasc02,Scott Alexander,1989-07-10,Scott Alexander,P,,11.2,CLE
+520,uriasju01,Julio Urias,1996-08-12,Julio Urías,P,,27.0,
+521,mcgeeja01,Jake McGee,1986-08-06,Jake McGee,P,,11.2,SD
+522,santade01,Dennis Santana,1996-04-12,Dennis Santana,P,,16.0,LAA
+523,gonzavi02,Victor Gonzalez,1995-11-16,Víctor González,P,,,
+524,buehlwa01,Walker Buehler,1994-07-28,Walker Buehler,P,,25.0,TEX
+525,treinbl01,Blake Treinen,1988-06-30,Blake Treinen,P,,15.0,TB
+526,kellyjo05,Joe Kelly,1988-06-09,Joe Kelly,P,,6.1,CWS
+527,janseke01,Kenley Jansen,1987-09-30,Kenley Jansen,P,,14.2,SEA
+528,ferguca01,Caleb Ferguson,1996-07-02,Caleb Ferguson,P,,14.1,CWS
+529,kolarad01,Adam Kolarek,1989-01-14,Adam Kolarek,P,,10.2,LAA
+530,kershcl01,Clayton Kershaw,1988-03-19,Clayton Kershaw,P,,30.0,DET
+531,baezpe01,Pedro Baez,1988-03-11,Pedro Báez,P,,11.1,
+532,whitemi03,Mitch White,1994-12-28,Mitch White,P,,,
+533,gonsoto01,Tony Gonsolin,1994-05-14,Tony Gonsolin,P,,17.2,CLE
+534,woodal02,Alex Wood,1991-01-12,Alex Wood,P,,3.0,LAA
+535,gratebr01,Brusdar Graterol,1998-08-26,Brusdar Graterol,P,,13.0,COL
+536,florody01,Dylan Floro,1990-12-27,Dylan Floro,P,,15.2,MIA
+537,stripro01,Ross Stripling,1989-11-23,Ross Stripling,P,,33.2,ARI
+538,sborzjo01,Josh Sborz,1993-12-17,Josh Sborz,P,,1.0,BOS
+539,cervefr01,Francisco Cervelli,1986-03-06,Francisco Cervelli,C,53.0,,PIT
+540,aguilje01,Jesus Aguilar,1990-06-30,Jesús Aguilar,1B,93.0,,
+541,alvared01,Eddy Alvarez,1990-01-30,Eddy Alvarez,2B,,,BAL
+542,villajo01,Jonathan Villar,1991-05-02,Jonathan Villar,SS,114.0,,NYM
+543,anderbr06,Brian Anderson,1993-05-19,Brian Anderson,3B,95.0,,
+544,dickeco01,Corey Dickerson,1989-05-22,Corey Dickerson,LF,93.0,,CIN
+545,harrimo01,Monte Harrison,1995-08-10,Monte Harrison,OF,,,OAK
+546,sanchje02,Jesus Sanchez,1997-10-07,Jesús Sánchez,OF,,,
+547,joycema01,Matthew Joyce,1984-08-03,Matthew Joyce,OF,58.0,,
+548,bertijo01,Jon Berti,1990-01-22,Jon Berti,OF,76.0,,
+549,rojasmi02,Miguel Rojas,1989-02-24,Miguel Rojas,SS,39.0,,KC
+550,sierrma01,Magneuris Sierra,1996-04-07,Magneuris Sierra,OF,36.0,,NYY
+551,brinsle01,Lewis Brinson,1994-05-08,Lewis Brinson,OF,40.0,,MIN
+552,forsylo01,Logan Forsythe,1987-01-14,Logan Forsythe,2B,34.0,,SEA
+553,diazle01,Lewin Diaz,1996-11-19,Lewin Díaz,1B,,,
+554,alfarjo01,Jorge Alfaro,1993-06-11,Jorge Alfaro,C,25.0,,BOS
+555,coopega03,Garrett Cooper,1990-12-25,Garrett Cooper,DH,20.0,,ARI
+556,lavarry01,Ryan Lavarnway,1987-08-07,Ryan Lavarnway,C,11.0,,
+557,diazis01,Isan Diaz,1996-05-27,Isan Díaz,2B,9.0,,
+558,ramirha02,Harold Ramirez,1994-09-06,Harold Ramírez,OF,7.0,,
+559,wallach01,Chad Wallach,1991-11-04,Chad Wallach,C,6.0,,
+560,navarbr01,Brian Navarreto,1994-12-29,Brian Navarreto,C,,,
+561,vinceni01,Nick Vincent,1986-07-12,Nick Vincent,P,,12.1,
+562,hernael01,Elieser Hernandez,1995-05-03,Elieser Hernández,P,,23.2,
+563,guzmajo04,Jorge Guzman,1996-01-28,Jorge Guzmán,P,,,
+564,hollojo01,Jordan Holloway,1996-06-13,Jordan Holloway,P,,,TEX
+565,tarplst01,Stephen Tarpley,1993-02-17,Stephen Tarpley,P,,9.2,HOU
+566,tinocje01,Jesus Tinoco,1995-04-30,Jesús Tinoco,P,,5.0,
+567,smithjo08,Josh D. Smith,1989-10-11,Josh D Smith,P,,1.2,CIN
+568,sharpst01,Sterling Sharp,1995-05-30,Sterling Sharp,P,,,PHI
+569,leibrbr01,Brandon Leibrandt,1992-12-13,Brandon Leibrandt,P,,,TEX
+570,brighje01,Jeff Brigham,1992-02-16,Jeff Brigham,P,,1.0,MIN
+571,boxbebr01,Brad Boxberger,1988-05-27,Brad Boxberger,P,,10.0,TB
+572,alcansa01,Sandy Alcantara,1995-09-07,Sandy Alcantara,P,,10.2,NYM
+573,eibnebr01,Brett Eibner,1988-12-02,Brett Eibner,P,,,
+574,garciyi01,Yimi Garcia,1990-08-18,Yimi García,P,,3.2,
+575,stanery01,Ryne Stanek,1991-07-26,Ryne Stanek,P,,1.0,BOS
+576,hoytja01,James Hoyt,1986-09-30,James Hoyt,P,,7.2,CIN
+577,duggero01,Robert Dugger,1995-07-03,Robert Dugger,P,,4.1,LAA
+578,morinmi01,Mike Morin,1991-05-03,Mike Morin,P,,4.0,
+579,vendipa01,Pat Venditte,1985-06-30,Pat Venditte,P,,4.1,CIN
+580,neideni01,Nick Neidert,1996-11-20,Nick Neidert,P,,,CWS
+581,vesiaal01,Alex Vesia,1996-04-11,Alex Vesia,P,,,COL
+582,smithjo07,Josh A. Smith,1987-08-07,Josh A Smith,P,,12.2,SD
+583,castada01,Daniel Castano,1994-09-17,Daniel Castano,P,,,BAL
+584,kintzbr01,Brandon Kintzler,1984-08-01,Brandon Kintzler,P,,12.1,TOR
+585,rogertr01,Trevor Rogers,1997-11-13,Trevor Rogers,P,,,MIN
+586,lopezpa01,Pablo Lopez,1996-03-07,Pablo López,P,,34.1,
+587,mejiahu01,Humberto Mejia,1997-03-03,Humberto Mejia,P,,,WAS
+588,yamamjo01,Jordan Yamamoto,1996-05-11,Jordan Yamamoto,P,,8.2,
+589,smithca03,Caleb Smith,1991-07-28,Caleb Smith,P,,3.0,ARI
+590,moranbr01,Brian Moran,1988-09-30,Brian Moran,P,,4.2,SD
+591,sanchsi01,Sixto Sanchez,1998-07-29,Sixto Sánchez,P,,,
+592,shafeju01,Justin Shafer,1992-09-18,Justin Shafer,P,,5.2,TOR
+593,narvaom01,Omar Narvaez,1992-02-10,Omar Narváez,C,69.0,,
+594,smoakju01,Justin Smoak,1986-12-05,Justin Smoak,1B,103.0,,HOU
+595,hiurake01,Keston Hiura,1996-08-02,Keston Hiura,2B,128.0,,TEX
+596,arciaor01,Orlando Arcia,1994-08-04,Orlando Arcia,SS,83.0,,LAD
+597,sogarer01,Eric Sogard,1986-05-22,Eric Sogard,3B,78.0,,CHC
+598,yelicch01,Christian Yelich,1991-12-05,Christian Yelich,LF,113.0,,TB
+599,garciav01,Avisail Garcia,1991-06-12,Avisaíl García,OF,103.0,,
+600,gamelbe01,Ben Gamel,1992-05-17,Ben Gamel,OF,79.0,,CLE
+601,braunry02,Ryan Braun,1983-11-17,Ryan Braun,DH,66.0,,PHI
+602,uriaslu01,Luis Urias,1997-06-03,Luis Urías,3B,55.0,,
+603,gyorkje01,Jedd Gyorko,1988-09-23,Jedd Gyorko,1B,42.0,,CWS
+604,pinama01,Manny Pina,1987-06-05,Manny Piña,C,39.0,,
+605,holtbr01,Brock Holt,1988-06-11,Brock Holt,3B,,,
+606,mathima01,Mark Mathias,1994-08-02,Mark Mathias,OF,,,NYM
+607,morrilo01,Logan Morrison,1987-08-25,Logan Morrison,DH,25.0,,CIN
+608,cainlo01,Lorenzo Cain,1986-04-13,Lorenzo Cain,CF,18.0,,SF
+609,peterja01,Jace Peterson,1990-05-09,Jace Peterson,OF,6.0,,WAS
+610,nottija01,Jacob Nottingham,1995-04-03,Jacob Nottingham,C,,,HOU
+611,healyry01,Ryon Healy,1992-01-10,Ryon Healy,DH,6.0,,KC
+612,knebeco01,Corey Knebel,1991-11-26,Corey Knebel,P,,,MIN
+613,grimmju01,Justin Grimm,1988-08-16,Justin Grimm,P,,,
+614,haderjo01,Josh Hader,1994-04-07,Josh Hader,P,,9.2,SD
+615,housead01,Adrian Houser,1993-02-02,Adrian Houser,P,,33.0,MIL
+616,rasmudr01,Drew Rasmussen,1995-07-27,Drew Rasmussen,P,,,TEX
+617,claudal01,Alex Claudio,1992-01-31,Álex Claudio,P,,12.1,
+618,yardler01,Eric Yardley,1990-08-18,Eric Yardley,P,,13.0,TB
+619,burneco01,Corbin Burnes,1994-10-22,Corbin Burnes,P,,32.1,ARI
+620,suterbr01,Brent Suter,1989-08-29,Brent Suter,P,,14.2,NYY
+621,wahlbo01,Bobby Wahl,1992-03-21,Bobby Wahl,P,,,MIL
+622,willide03,Devin Williams,1994-09-21,Devin Williams,P,,12.1,
+623,phelpda01,David Phelps,1986-10-09,David Phelps,P,,13.0,MIL
+624,woodrbr01,Brandon Woodruff,1993-02-10,Brandon Woodruff,P,,41.2,PIT
+625,feyerjo01,J.P. Feyereisen,1993-02-07,JP Feyereisen,P,,,NYM
+626,peralfr01,Freddy Peralta,1996-06-04,Freddy Peralta,P,,17.2,LAA
+627,perdoan01,Angel Perdomo,1994-05-07,Ángel Perdomo,P,,,
+628,lauerer01,Eric Lauer,1995-06-03,Eric Lauer,P,,9.1,LAD
+629,anderbr04,Brett Anderson,1988-02-01,Brett Anderson,P,,28.0,BAL
+630,lindbjo01,Josh Lindblom,1987-06-15,Josh Lindblom,P,,,NYM
+631,garvemi01,Mitch Garver,1991-01-15,Mitch Garver,C,52.0,,CLE
+632,sanomi01,Miguel Sano,1993-05-11,Miguel Sanó,1B,102.0,,
+633,arraelu01,Luis Arraez,1997-04-09,Luis Arraez,2B,87.0,,MIN
+634,polanjo01,Jorge Polanco,1993-07-05,Jorge Polanco,SS,129.0,,LAD
+635,gonzama01,Marwin Gonzalez,1989-03-14,Marwin González,3B,107.0,,
+636,rosared01,Eddie Rosario,1991-09-28,Eddie Rosario,LF,122.0,,PHI
+637,buxtoby01,Byron Buxton,1993-12-18,Byron Buxton,CF,68.0,,MIN
+638,keplema01,Max Kepler,1993-02-10,Max Kepler,OF,116.0,,MIL
+639,cruzne02,Nelson Cruz,1980-07-01,Nelson Cruz,DH,119.0,,BOS
+640,caveja01,Jake Cave,1992-12-04,Jake Cave,OF,61.0,,PHI
+641,adriaeh01,Ehire Adrianza,1989-08-21,Ehire Adrianza,3B,50.0,,STL
+642,avilaal01,Alex Avila,1987-01-29,Alex Avila,C,41.0,,TOR
+643,donaljo02,Josh Donaldson,1985-12-08,Josh Donaldson,3B,22.0,,LAD
+644,jeffery01,Ryan Jeffers,1997-06-03,Ryan Jeffers,C,,,MIL
+645,wadela01,LaMonte Wade Jr,1994-01-01,LaMonte Wade Jr,OF,15.0,,
+646,whiteaa01,Aaron Whitefield,1996-09-02,Aaron Whitefield,CF,,,
+647,gearrco01,Cory Gearrin,1986-04-14,Cory Gearrin,P,,2.0,CIN
+648,litteza01,Zack Littell,1995-10-05,Zack Littell,P,,6.1,BAL
+649,baileho02,Homer Bailey,1986-05-03,Homer Bailey,P,,5.0,
+650,hillri01,Rich Hill,1980-03-11,Rich Hill,P,,12.2,MIA
+651,duffety01,Tyler Duffey,1990-12-27,Tyler Duffey,P,,12.2,PHI
+652,berrijo01,Jose Berrios,1994-05-27,José Berríos,P,,36.0,
+653,clippty01,Tyler Clippard,1985-02-14,Tyler Clippard,P,,14.2,COL
+654,couloda01,Danny Coulombe,1989-10-26,Danny Coulombe,P,,,
+655,alcaljo01,Jorge Alcala,1995-07-28,Jorge Alcalá,P,,14.1,
+656,poppese01,Sean Poppen,1994-03-15,Sean Poppen,P,,6.2,
+657,maytr01,Trevor May,1989-09-23,Trevor May,P,,12.2,MIN
+658,odorija01,Jake Odorizzi,1990-03-27,Jake Odorizzi,P,,10.0,KC
+659,thielca01,Caleb Thielbar,1987-01-31,Caleb Thielbar,P,,,
+660,maedake01,Kenta Maeda,1988-04-11,Kenta Maeda,P,,42.2,PIT
+661,stashco01,Cody Stashak,1994-06-04,Cody Stashak,P,,7.0,CLE
+662,romose01,Sergio Romo,1983-03-04,Sergio Romo,P,,10.2,SF
+663,thorple01,Lewis Thorpe,1995-11-23,Lewis Thorpe,P,,16.1,MIL
+664,dobnara01,Randy Dobnak,1995-01-17,Randy Dobnak,P,,34.2,NYY
+665,wislema01,Matt Wisler,1992-09-12,Matt Wisler,P,,15.2,WAS
+666,smeltde01,Devin Smeltzer,1995-09-07,Devin Smeltzer,P,,13.2,OAK
+667,rogerta01,Taylor Rogers,1990-12-17,Taylor Rogers,P,,11.1,CLE
+668,ramoswi01,Wilson Ramos,1987-08-10,Wilson Ramos,C,87.0,,COL
+669,alonspe01,Pete Alonso,1994-12-07,Pete Alonso,1B,118.0,,
+670,canoro01,Robinson Cano,1982-10-22,Robinson Canó,2B,84.0,,
+671,rosaram01,Amed Rosario,1995-11-20,Amed Rosario,SS,100.0,,TB
+672,davisjd01,J.D. Davis,1993-04-27,JD Davis,3B,109.0,,MIL
+673,smithdo02,Dominic Smith,1995-06-15,Dominic Smith,LF,89.0,,KC
+674,nimmobr01,Brandon Nimmo,1993-03-27,Brandon Nimmo,OF,110.0,,ARI
+675,confomi01,Michael Conforto,1993-03-01,Michael Conforto,OF,122.0,,KC
+676,cespeyo01,Yoenis Céspedes,1985-10-18,Yoenis Céspedes,DH,,,
+677,mcneije01,Jeff McNeil,1992-04-08,Jeff McNeil,3B,89.0,,STL
+678,gimenan01,Andres Gimenez,1998-09-04,Andrés Giménez,2B,,,
+679,guilllu01,Luis Guillorme,1994-09-27,Luis Guillorme,2B,31.0,,CIN
+680,nidoto01,Tomas Nido,1994-04-12,Tomás Nido,C,24.0,,
+681,hamilbi02,Billy Hamilton,1990-09-09,Billy Hamilton,CF,22.0,,OAK
+682,doziebr01,Brian Dozier,1987-05-15,Brian Dozier,2B,15.0,,MIL
+683,marisja01,Jake Marisnick,1991-03-30,Jake Marisnick,CF,11.0,,OAK
+684,sanchal04,Ali Sanchez,1997-01-20,Ali Sánchez,C,,,
+685,cordery01,Ryan Cordell,1992-03-31,Ryan Cordell,CF,4.0,,TOR
+686,riverre01,Rene Rivera,1983-07-31,René Rivera,C,4.0,,
+687,nunezed02,Eduardo Nunez,1987-06-15,Eduardo Núñez,2B,2.0,,
+688,lagarju01,Juan Lagares,1989-03-17,Juan Lagares,CF,0.0,,CHC
+689,lugose01,Seth Lugo,1989-11-17,Seth Lugo,P,,17.0,TB
+690,familje01,Jeurys Familia,1989-10-10,Jeurys Familia,P,,14.2,TB
+691,betande01,Dellin Betances,1988-03-23,Dellin Betances,P,,10.1,CLE
+692,oswalco01,Corey Oswalt,1993-09-03,Corey Oswalt,P,,12.1,CIN
+693,sewalpa01,Paul Sewald,1990-05-26,Paul Sewald,P,,6.0,TEX
+694,porceri01,Rick Porcello,1988-12-27,Rick Porcello,P,,33.0,CLE
+695,wachami01,Michael Wacha,1991-07-01,Michael Wacha,P,,17.0,HOU
+696,strichu01,Hunter Strickland,1988-09-24,Hunter Strickland,P,,2.1,TB
+697,smithdr01,Drew Smith,1993-09-24,Drew Smith,P,,,SF
+698,peterda01,David Peterson,1995-09-03,David Peterson,P,,,COL
+699,lockewa01,Walker Lockett,1994-05-03,Walker Lockett,P,,8.0,
+700,brachbr01,Brad Brach,1986-04-12,Brad Brach,P,,7.0,WAS
+701,hugheja02,Jared Hughes,1985-07-04,Jared Hughes,P,,13.1,MIL
+702,gsellro01,Robert Gsellman,1993-07-18,Robert Gsellman,P,,8.2,SEA
+703,diazed04,Edwin Diaz,1994-03-22,Edwin Díaz,P,,13.0,
+704,kilomfr01,Franklyn Kilome,1995-06-25,Franklyn Kilome,P,,,LAA
+705,wilsoju10,Justin Wilson,1987-08-18,Justin Wilson,P,,10.2,PHI
+706,matzst01,Steven Matz,1991-05-29,Steven Matz,P,,24.0,LAA
+707,shrevch01,Chasen Shreve,1990-07-12,Chasen Shreve,P,,15.1,WAS
+708,degroja01,Jacob deGrom,1988-06-19,Jacob deGrom,P,,35.0,
+709,sanchga02,Gary Sanchez,1992-12-02,Gary Sánchez,C,82.0,,
+710,voitlu01,Luke Voit,1991-02-13,Luke Voit,1B,99.0,,LAD
+711,lemahdj01,DJ LeMahieu,1988-07-13,DJ LeMahieu,2B,83.0,,SD
+712,torregl01,Gleyber Torres,1996-12-13,Gleyber Torres,SS,78.0,,TB
+713,urshegi01,Gio Urshela,1991-10-11,Gio Urshela,3B,88.0,,
+714,gardnbr01,Brett Gardner,1983-08-24,Brett Gardner,OF,68.0,,TOR
+715,hicksaa01,Aaron Hicks,1989-10-02,Aaron Hicks,CF,86.0,,CHC
+716,judgeaa01,Aaron Judge,1992-04-26,Aaron Judge,OF,65.0,,DET
+717,stantmi03,Giancarlo Stanton,1989-11-08,Giancarlo Stanton,DH,41.0,,LAA
+718,tauchmi01,Mike Tauchman,1990-12-03,Mike Tauchman,OF,65.0,,MIL
+719,fordmi01,Mike Ford,1992-07-04,Mike Ford,1B,51.0,,TEX
+720,frazicl01,Clint Frazier,1994-09-06,Clint Frazier,OF,40.0,,COL
+721,wadety01,Tyler Wade,1994-11-23,Tyler Wade,2B,38.0,,STL
+722,andujmi01,Miguel Andujar,1995-03-02,Miguel Andújar,LF,31.0,,
+723,estrath01,Thairo Estrada,1996-02-22,Thairo Estrada,2B,26.0,,NYM
+724,kratzer01,Erik Kratz,1980-06-15,Erik Kratz,C,20.0,,
+725,higasky01,Kyle Higashioka,1990-04-20,Kyle Higashioka,C,9.0,,ARI
+726,flories01,Estevan Florial,1997-11-25,Estevan Florial,CF,,,CWS
+727,haleda02,David Hale,1987-09-27,David Hale,P,,7.2,
+728,montgjo01,Jordan Montgomery,1992-12-27,Jordan Montgomery,P,,24.1,TOR
+729,kingmi01,Mike King,1995-05-25,Mike King,P,,17.1,
+730,brittza01,Zack Britton,1987-12-22,Zack Britton,P,,9.0,
+731,colege01,Gerrit Cole,1990-09-08,Gerrit Cole,P,,41.0,SD
+732,cessalu01,Luis Cessa,1992-04-25,Luis Cessa,P,,11.0,OAK
+733,kahnlto01,Tommy Kahnle,1989-08-07,Tommy Kahnle,P,,1.0,TEX
+734,chapmar01,Aroldis Chapman,1988-02-28,Aroldis Chapman,P,,2.0,KC
+735,avilalu01,Luis Avilan,1989-07-19,Luis Avilán,P,,8.1,
+736,abreual01,Albert Abreu,1995-09-26,Albert Abreu,P,,,KC
+737,tanakma01,Masahiro Tanaka,1988-11-01,Masahiro Tanaka,P,,20.2,SEA
+738,hellebe01,Ben Heller,1991-08-05,Ben Heller,P,,4.2,COL
+739,loaisjo01,Jonathan Loaisiga,1994-11-02,Jonathan Loaisiga,P,,16.0,MIN
+740,holdejo02,Jonathan Holder,1993-06-09,Jonathan Holder,P,,12.0,TEX
+741,paxtoja01,James Paxton,1988-11-06,James Paxton,P,,20.1,LAD
+742,kriskbr01,Brooks Kriske,1994-02-03,Brooks Kriske,P,,,NYM
+743,garcide01,Deivi Garcia,1999-05-19,Deivi García,P,,,
+744,nelsoni01,Nick Nelson,1995-12-05,Nick Nelson,P,,,HOU
+745,greench03,Chad Green,1991-05-24,Chad Green,P,,15.2,TB
+746,happja01,J.A. Happ,1982-10-19,JA Happ,P,,20.0,CIN
+747,ottavad01,Adam Ottavino,1985-11-22,Adam Ottavino,P,,10.2,WAS
+748,murphse01,Sean Murphy,1994-10-04,Sean Murphy,C,69.0,,TEX
+749,olsonma02,Matt Olson,1994-03-29,Matt Olson,1B,124.0,,PIT
+750,kempto01,Tony Kemp,1991-10-31,Tony Kemp,2B,64.0,,STL
+751,semiema01,Marcus Semien,1990-09-17,Marcus Semien,SS,140.0,,ARI
+752,chapmma01,Matt Chapman,1993-04-28,Matt Chapman,3B,131.0,,MIA
+753,grossro01,Robbie Grossman,1989-09-16,Robbie Grossman,LF,86.0,,BAL
+754,laurera01,Ramon Laureano,1994-07-15,Ramón Laureano,CF,102.0,,
+755,piscost01,Stephen Piscotty,1991-01-14,Stephen Piscotty,OF,107.0,,BOS
+756,daviskh01,Khris Davis,1987-12-21,Khris Davis,DH,58.0,,COL
+757,canhama01,Mark Canha,1989-02-15,Mark Canha,OF,112.0,,SD
+758,pindech01,Chad Pinder,1992-03-29,Chad Pinder,2B,40.0,,NYY
+759,allenau01,Austin Allen,1994-01-16,Austin Allen,C,31.0,,TB
+760,machivi01,Vimael Machin,1993-09-25,Vimael Machin,3B,,,SD
+761,barrefr02,Franklin Barreto,1996-02-27,Franklin Barreto,2B,10.0,,MIA
+762,heimjo01,Jonah Heim,1995-06-27,Jonah Heim,C,,,SEA
+763,brownse01,Seth Brown,1992-07-13,Seth Brown,1B,4.0,,LAA
+764,wendejb01,J.B. Wendelken,1993-03-24,JB Wendelken,P,,13.1,NYM
+765,fiersmi01,Mike Fiers,1985-06-15,Mike Fiers,P,,37.0,CHC
+766,soriajo01,Joakim Soria,1984-05-18,Joakim Soria,P,,15.2,MIA
+767,petityu01,Yusmeiro Petit,1984-11-22,Yusmeiro Petit,P,,14.0,
+768,mcfartj01,T.J. McFarland,1989-06-08,TJ McFarland,P,,13.1,HOU
+769,weemsjo01,Jordan Weems,1992-11-07,Jordan Weems,P,,,
+770,mengdda01,Daniel Mengden,1993-02-19,Daniel Mengden,P,,12.1,SEA
+771,manaese01,Sean Manaea,1992-02-01,Sean Manaea,P,,30.1,DET
+772,smithbu03,Burch Smith,1990-04-12,Burch Smith,P,,12.0,MIL
+773,montafr02,Frankie Montas,1993-03-21,Frankie Montas,P,,32.2,MIA
+774,hendrli01,Liam Hendriks,1989-02-10,Liam Hendriks,P,,16.1,MIN
+775,diekmja01,Jake Diekman,1987-01-21,Jake Diekman,P,,12.0,ARI
+776,kaprija01,James Kaprielian,1994-03-02,James Kaprielian,P,,,MIA
+777,bassich01,Chris Bassitt,1989-02-22,Chris Bassitt,P,,36.1,KC
+778,luzarje01,Jesus Luzardo,1997-09-30,Jesús Luzardo,P,,33.2,
+779,trivilo01,Lou Trivino,1991-10-01,Lou Trivino,P,,15.1,DET
+780,realmjt01,J.T. Realmuto,1991-03-18,JT Realmuto,C,106.0,,SF
+781,hoskirh01,Rhys Hoskins,1993-03-17,Rhys Hoskins,1B,96.0,,DET
+782,kingesc01,Scott Kingery,1994-04-29,Scott Kingery,SS,71.0,,DET
+783,gregodi01,Didi Gregorius,1990-02-18,Didi Gregorius,SS,102.0,,
+784,segurje01,Jean Segura,1990-03-17,Jean Segura,3B,90.0,,PIT
+785,mccutan01,Andrew McCutchen,1986-10-10,Andrew McCutchen,LF,107.0,,
+786,quinnro01,Roman Quinn,1993-05-14,Roman Quinn,CF,67.0,,MIL
+787,harpebr03,Bryce Harper,1992-10-16,Bryce Harper,OF,93.0,,ATL
+788,gosseph01,Phil Gosselin,1988-10-03,Phil Gosselin,DH,52.0,,CWS
+789,bohmal01,Alec Bohm,1996-08-03,Alec Bohm,3B,,,STL
+790,bruceja01,Jay Bruce,1987-04-03,Jay Bruce,DH,52.0,,NYM
+791,walkene01,Neil Walker,1985-09-10,Neil Walker,2B,26.0,,CWS
+792,haselad01,Adam Haseley,1996-04-12,Adam Haseley,OF,24.0,,TEX
+793,knappan01,Andrew Knapp,1991-11-09,Andrew Knapp,C,21.0,,NYY
+794,garliky01,Kyle Garlick,1992-01-26,Kyle Garlick,OF,5.0,,NYM
+795,guerrde01,Deolis Guerra,1989-04-17,Deolis Guerra,P,,7.1,
+796,howarsp01,Spencer Howard,1996-07-28,Spencer Howard,P,,,CHC
+797,arrieja01,Jake Arrieta,1986-03-06,Jake Arrieta,P,,26.1,CIN
+798,pivetni01,Nick Pivetta,1993-02-14,Nick Pivetta,P,,5.2,PIT
+799,velasvi01,Vince Velasquez,1992-06-07,Vince Velasquez,P,,15.0,
+800,romerjo01,JoJo Romero,1996-09-09,JoJo Romero,P,,,
+801,nerishe01,Hector Neris,1989-06-14,Héctor Neris,P,,8.1,
+802,rossora01,Ramon Rosso,1996-06-09,Ramón Rosso,P,,,
+803,morgaad01,Adam Morgan,1990-02-27,Adam Morgan,P,,7.2,LAD
+804,hunteto02,Tommy Hunter,1986-07-03,Tommy Hunter,P,,12.1,COL
+805,nolaaa01,Aaron Nola,1993-06-04,Aaron Nola,P,,36.0,DET
+806,brogdco01,Connor Brogdon,1995-01-29,Connor Brogdon,P,,,CHC
+807,kelletr01,Trevor Kelley,1993-10-20,Trevor Kelley,P,,3.1,
+808,davisau01,Austin Davis,1993-02-03,Austin Davis,P,,3.0,HOU
+809,mcclare01,Reggie McClain,1992-11-16,Reggie McClain,P,,5.1,NYY
+810,eflinza01,Zach Eflin,1994-04-08,Zach Eflin,P,,26.1,DET
+811,alvarjo02,Jose Alvarez,1989-05-06,José Álvarez,P,,6.1,
+812,wheelza01,Zack Wheeler,1990-05-30,Zack Wheeler,P,,38.1,MIN
+813,parkebl01,Blake Parker,1985-06-19,Blake Parker,P,,8.2,ATL
+814,irvinco01,Cole Irvin,1994-01-31,Cole Irvin,P,,3.2,MIA
+815,stallja01,Jacob Stallings,1989-12-22,Jacob Stallings,C,65.0,,NYY
+816,belljo02,Josh Bell,1992-08-14,Josh Bell,1B,110.0,,ATL
+817,fraziad01,Adam Frazier,1991-12-14,Adam Frazier,2B,116.0,,SEA
+818,newmake01,Kevin Newman,1993-08-04,Kevin Newman,SS,91.0,,PHI
+819,gonzaer01,Erik Gonzalez,1991-08-31,Erik González,SS,89.0,,
+820,reynobr01,Bryan Reynolds,1995-01-27,Bryan Reynolds,LF,103.0,,CHC
+821,polangr01,Gregory Polanco,1991-09-14,Gregory Polanco,OF,75.0,,LAA
+822,moranco01,Colin Moran,1992-10-01,Colin Moran,DH,81.0,,CLE
+823,tuckeco01,Cole Tucker,1996-07-03,Cole Tucker,OF,67.0,,NYY
+824,osunajo01,Jose Osuna,1992-12-12,José Osuna,1B,46.0,,
+825,evansph01,Phillip Evans,1992-09-10,Phillip Evans,3B,,,SD
+826,riddljt01,JT Riddle,1991-10-12,JT Riddle,3B,40.0,,BOS
+827,murphjr01,John Ryan Murphy,1991-05-13,John Ryan Murphy,C,30.0,,BAL
+828,heredgu01,Guillermo Heredia,1991-01-31,Guillermo Heredia,OF,16.0,,CHC
+829,martija03,Jason Martin,1995-09-05,Jason Martin,CF,6.0,,PIT
+830,craigwi01,Will Craig,1994-11-16,Will Craig,1B,,,PHI
+831,kellemi03,Mitch Keller,1996-04-04,Mitch Keller,P,,7.2,KC
+832,tropeni01,Nick Tropeano,1990-08-27,Nick Tropeano,P,,6.2,ARI
+833,braulst01,Steven Brault,1992-04-29,Steven Brault,P,,18.0,HOU
+834,ponceco01,Cody Ponce,1994-04-25,Cody Ponce,P,,,SEA
+835,howarsa01,Sam Howard,1993-03-05,Sam Howard,P,,11.0,TOR
+836,brubajt01,JT Brubaker,1993-11-17,JT Brubaker,P,,,KC
+837,holmecl01,Clay Holmes,1993-03-27,Clay Holmes,P,,1.1,STL
+838,rodriri05,Richard Rodriguez,1990-03-04,Richard Rodríguez,P,,13.2,
+839,musgrjo01,Joe Musgrove,1992-12-04,Joe Musgrove,P,,14.2,LAD
+840,hartlge01,Geoff Hartlieb,1993-12-09,Geoff Hartlieb,P,,13.2,NYY
+841,bashlty01,Tyler Bashlor,1993-04-16,Tyler Bashlor,P,,4.2,
+842,crickky01,Kyle Crick,1992-11-30,Kyle Crick,P,,2.0,CHC
+843,kelake01,Keone Kela,1993-04-16,Keone Kela,P,,2.0,ATL
+844,turleni01,Nik Turley,1989-09-11,Nik Turley,P,,,
+845,hollade01,Derek Holland,1986-10-09,Derek Holland,P,,28.1,STL
+846,delpomi01,Miguel Del Pozo,1992-10-14,Miguel Del Pozo,P,,3.2,
+847,neverdo01,Dovydas Neverauskas,1993-01-14,Dovydas Neverauskas,P,,11.0,CLE
+848,stratch01,Chris Stratton,1990-08-22,Chris Stratton,P,,16.0,CIN
+849,burdini01,Nick Burdi,1993-01-19,Nick Burdi,P,,2.1,BOS
+850,waddebr01,Brandon Waddell,1994-06-03,Brandon Waddell,P,,,CIN
+851,willitr01,Trevor Williams,1992-04-25,Trevor Williams,P,,30.1,BAL
+852,felizmi01,Michael Feliz,1993-06-28,Michael Feliz,P,,1.2,PIT
+853,kuhlch01,Chad Kuhl,1992-09-10,Chad Kuhl,P,,,LAA
+854,riosya01,Yacksel Rios,1993-06-27,Yacksel Ríos,P,,4.0,
+855,mearsni01,Nick Mears,1996-10-07,Nick Mears,P,,,
+856,hedgeau01,Austin Hedges,1992-08-18,Austin Hedges,C,57.0,,CHC
+857,hosmeer01,Eric Hosmer,1989-10-24,Eric Hosmer,1B,93.0,,CHC
+858,croneja01,Jake Cronenworth,1994-01-21,Jake Cronenworth,2B,,,KC
+859,tatisfe02,Fernando Tatis Jr.,1999-01-02,Fernando Tatís,SS,143.0,,
+860,machama01,Manny Machado,1992-07-06,Manny Machado,3B,139.0,,MIL
+861,profaju01,Jurickson Profar,1993-02-20,Jurickson Profar,LF,102.0,,COL
+862,grishtr01,Trent Grisham,1996-11-01,Trent Grisham,CF,139.0,,CHC
+863,myerswi01,Wil Myers,1990-12-10,Wil Myers,OF,119.0,,SD
+864,phamth01,Tommy Pham,1988-03-08,Tommy Pham,LF,82.0,,ATL
+865,francty01,Ty France,1994-07-13,Ty France,3B,55.0,,NYM
+866,garcigr01,Greg Garcia,1989-08-08,Greg Garcia,2B,38.0,,PHI
+867,mejiafr01,Francisco Mejia,1995-10-27,Francisco Mejía,C,38.0,,
+868,naylojo01,Josh Naylor,1997-06-22,Josh Naylor,DH,36.0,,NYY
+869,olivaed02,Edward Olivares,1996-03-06,Edward Olivares,OF,,,OAK
+870,mateojo01,Jorge Mateo,1995-06-23,Jorge Mateo,OF,,,KC
+871,torrelu01,Luis Torrens,1996-05-02,Luis Torrens,C,11.0,,DET
+872,almonab01,Abraham Almonte,1989-06-27,Abraham Almonte,DH,9.0,,
+873,hillti01,Tim Hill,1990-02-10,Tim Hill,P,,10.2,ATL
+874,baezmi01,Michel Báez,1996-01-21,Michel Báez,P,,4.2,
+875,pomerdr01,Drew Pomeranz,1988-11-22,Drew Pomeranz,P,,10.0,ATL
+876,paddach01,Chris Paddack,1996-01-08,Chris Paddack,P,,42.2,CHC
+877,johnspi01,Pierce Johnson,1991-05-10,Pierce Johnson,P,,,PIT
+878,morejad01,Adrián Morejón,1999-02-27,Adrián Morejón,P,,4.2,
+879,patinlu01,Luis Patino,1999-10-26,Luis Patino,P,,,DET
+880,paganem01,Emilio Pagan,1991-05-07,Emilio Pagán,P,,15.0,
+881,strahma01,Matt Strahm,1991-11-12,Matt Strahm,P,,16.0,
+882,perdolu02,Luis Perdomo,1993-05-09,Luis Perdomo,P,,16.0,STL
+883,yateski01,Kirby Yates,1987-03-25,Kirby Yates,P,,4.1,SD
+884,quantca01,Cal Quantrill,1995-02-10,Cal Quantrill,P,,17.1,HOU
+885,lucchjo01,Joey Lucchesi,1993-06-06,Joey Lucchesi,P,,5.1,KC
+886,lametdi01,Dinelson Lamet,1992-07-18,Dinelson Lamet,P,,38.1,KC
+887,stammcr01,Craig Stammen,1984-03-09,Craig Stammen,P,,14.0,OAK
+888,davieza02,Zach Davies,1993-02-07,Zach Davies,P,,41.1,PIT
+889,guerrja02,Javy Guerra,1995-09-25,Javy Guerra,P,,11.1,
+890,guerrja01,Javy Guerra,1985-10-31,Javy Guerra,P,,14.0,
+891,richaga01,Garrett Richards,1988-05-27,Garrett Richards,P,,31.1,CWS
+892,bednada01,David Bednar,1994-10-10,David Bednar,P,,6.1,ATL
+893,trompch01,Chadwick Tromp,1995-03-21,Chadwick Tromp,C,,,CHC
+894,beltbr01,Brandon Belt,1988-04-20,Brandon Belt,1B,83.0,,WAS
+895,solando01,Donovan Solano,1987-12-17,Donovan Solano,2B,110.0,,MIA
+896,crawfbr01,Brandon Crawford,1987-01-21,Brandon Crawford,SS,101.0,,HOU
+897,longoev01,Evan Longoria,1985-10-07,Evan Longoria,3B,107.0,,PHI
+898,dickeal01,Alex Dickerson,1990-05-26,Alex Dickerson,OF,86.0,,WAS
+899,yastrmi01,Mike Yastrzemski,1990-08-23,Mike Yastrzemski,OF,132.0,,WAS
+900,slateau01,Austin Slater,1992-12-13,Austin Slater,OF,49.0,,CWS
+901,sandopa01,Pablo Sandoval,1986-08-11,Pablo Sandoval,3B,72.0,,BAL
+902,florewi01,Wilmer Flores,1991-08-06,Wilmer Flores,DH,119.0,,NYM
+903,dubonma01,Mauricio Dubon,1994-07-19,Mauricio Dubon,CF,80.0,,CHC
+904,pencehu01,Hunter Pence,1983-04-13,Hunter Pence,OF,52.0,,WAS
+905,rufda01,Darin Ruf,1986-07-28,Darin Ruf,OF,,,
+906,heinety01,Tyler Heineman,1991-06-19,Tyler Heineman,C,41.0,,ARI
+907,bartjo01,Joey Bart,1996-12-15,Joey Bart,C,,,BAL
+908,duggast01,Steven Duggar,1993-11-04,Steven Duggar,OF,26.0,,LAD
+909,davisja03,Jaylin Davis,1994-07-01,Jaylin Davis,OF,12.0,,STL
+910,mccarjo04,Joe McCarthy,1994-02-23,Joe McCarthy,OF,,,PIT
+911,rickajo01,Joey Rickard,1991-05-21,Joey Rickard,OF,5.0,,BAL
+912,brantro01,Rob Brantly,1989-07-14,Rob Brantly,C,3.0,,CIN
+913,basablu01,Luis Alexander Basabe,1996-08-26,Luis Alexander Basabe,,,,STL
+914,coonrsa01,Sam Coonrod,1992-09-22,Sam Coonrod,P,,7.1,NYM
+915,watsoto01,Tony Watson,1985-05-30,Tony Watson,P,,11.0,SD
+916,garciri01,Rico Garcia,1994-01-10,Rico Garcia,P,,,MIL
+917,cuetojo01,Johnny Cueto,1986-02-15,Johnny Cueto,P,,41.2,ARI
+918,peralwa01,Wandy Peralta,1991-07-27,Wandy Peralta,P,,14.2,STL
+919,smylydr01,Drew Smyly,1989-06-13,Drew Smyly,P,,8.1,MIL
+920,gotttr01,Trevor Gott,1992-08-26,Trevor Gott,P,,9.2,ARI
+921,garcija04,Jarlin Garcia,1993-01-18,Jarlin García,P,,9.0,
+922,samarje01,Jeff Samardzija,1985-01-23,Jeff Samardzija,P,,13.2,OAK
+923,gausmke01,Kevin Gausman,1991-01-06,Kevin Gausman,P,,35.2,CLE
+924,triggan01,Andrew Triggs,1989-03-16,Andrew Triggs,P,,,SD
+925,jimenda01,Dany Jimenez,1993-12-23,Dany Jiménez,P,,,
+926,menezco01,Conner Menez,1995-05-29,Conner Menez,P,,11.1,TB
+927,anderty01,Tyler Anderson,1989-12-30,Tyler Anderson,P,,36.0,WAS
+928,suarean01,Andrew Suarez,1992-09-11,Andrew Suarez,P,,3.1,CLE
+929,rogerty01,Tyler Rogers,1990-12-17,Tyler Rogers,P,,18.1,TB
+930,webblo01,Logan Webb,1996-11-18,Logan Webb,P,,31.0,TB
+931,baragca01,Caleb Baragar,1994-04-09,Caleb Baragar,P,,,HOU
+932,cahiltr01,Trevor Cahill,1988-03-01,Trevor Cahill,P,,14.1,NYM
+933,rodride01,Dereck Rodriguez,1992-06-05,Dereck Rodríguez,P,,4.0,
+934,selmasa01,Sam Selman,1990-11-14,Sam Selman,P,,12.0,NYY
+935,andersh01,Shaun Anderson,1994-10-29,Shaun Anderson,P,,10.1,ARI
+936,nolaau01,Austin Nola,1989-12-28,Austin Nola,C,98.0,,TB
+937,whiteev01,Evan White,1996-04-26,Evan White,1B,,,MIN
+938,longsh01,Shed Long,1995-08-22,Shed Long,2B,112.0,,KC
+939,crawfjp01,J.P. Crawford,1995-01-11,JP Crawford,SS,129.0,,MIL
+940,seageky01,Kyle Seager,1987-11-03,Kyle Seager,3B,125.0,,WAS
+941,lopesti01,Tim Lopes,1994-06-24,Tim Lopes,OF,100.0,,
+942,lewisky01,Kyle Lewis,1995-07-13,Kyle Lewis,CF,127.0,,PIT
+943,smithma05,Mallex Smith,1993-05-06,Mallex Smith,OF,45.0,,PIT
+944,vogelda01,Daniel Vogelbach,1992-12-17,Daniel Vogelbach,DH,,,
+945,mooredy01,Dylan Moore,1992-08-02,Dylan Moore,OF,78.0,,CWS
+946,gordode01,Dee Gordon,1988-04-22,Dee Gordon,LF,58.0,,LAD
+947,marmojo01,Jose Marmolejos,1993-01-02,José Marmolejos,1B,,,
+948,haggesa01,Sam Haggerty,1994-05-26,Sam Haggerty,LF,43.0,,TB
+949,fraleja01,Jake Fraley,1995-05-25,Jake Fraley,OF,19.0,,CLE
+950,hudsojo03,Joe Hudson,1991-05-21,Joe Hudson,C,17.0,,
+951,odomjo01,Joseph Odom,1992-01-09,Joseph Odom,C,,,
+952,bishobr01,Braden Bishop,1993-08-22,Braden Bishop,OF,16.0,,STL
+953,hiranyo01,Yoshihisa Hirano,1984-03-08,Yoshihisa Hirano,P,,4.0,COL
+954,graveke01,Kendall Graveman,1990-12-21,Kendall Graveman,P,,,PIT
+955,fletcaa01,Aaron Fletcher,1996-02-25,Aaron Fletcher,P,,,NYY
+956,misiean01,Anthony Misiewicz,1994-11-01,Anthony Misiewicz,P,,,SD
+957,swanser01,Erik Swanson,1993-09-04,Erik Swanson,P,,5.1,NYY
+958,kikucyu01,Yusei Kikuchi,1991-06-17,Yusei Kikuchi,P,,25.0,SEA
+959,willita01,Taylor Williams,1991-07-21,Taylor Williams,P,,13.2,SD
+960,altavda01,Dan Altavilla,1992-09-08,Dan Altavilla,P,,11.2,TEX
+961,magilma01,Matt Magill,1989-11-10,Matt Magill,P,,10.1,TOR
+962,cortene01,Nestor Cortes Jr.,1994-12-10,Nestor Cortes Jr,P,,7.2,
+963,grotzza01,Zac Grotz,1993-02-17,Zac Grotz,P,,7.1,NYM
+964,gonzama02,Marco Gonzales,1992-02-16,Marco Gonzales,P,,34.2,DET
+965,edwarca01,Carl Edwards Jr.,1991-09-03,Carl Edwards Jr,P,,4.2,
+966,sheffju01,Justus Sheffield,1996-05-13,Justus Sheffield,P,,30.1,DET
+967,ramiryo01,Yohan Ramirez,1995-05-06,Yohan Ramírez,P,,,
+968,guilbta01,Taylor Guilbeau,1993-05-12,Taylor Guilbeau,P,,7.2,OAK
+969,gerbejo01,Joey Gerber,1997-05-03,Joey Gerber,P,,,CHC
+970,shawbr01,Bryan Shaw,1987-11-08,Bryan Shaw,P,,6.0,
+971,newsolj01,Ljay Newsome,1996-11-08,Ljay Newsome,P,,,NYY
+972,margeni01,Nick Margevicius,1996-06-18,Nick Margevicius,P,,25.2,TOR
+973,dunnju01,Justin Dunn,1995-09-22,Justin Dunn,P,,27.0,CWS
+974,brennbr01,Brandon Brennan,1991-07-26,Brandon Brennan,P,,1.1,TEX
+975,walketa01,Taijuan Walker,1992-08-13,Taijuan Walker,P,,33.0,OAK
+976,molinya01,Yadier Molina,1982-07-13,Yadier Molina,C,63.0,,CWS
+977,goldspa01,Paul Goldschmidt,1987-09-10,Paul Goldschmidt,1B,80.0,,TOR
+978,wongko01,Kolten Wong,1990-10-10,Kolten Wong,2B,73.0,,MIA
+979,dejonpa01,Paul DeJong,1993-08-02,Paul DeJong,SS,48.0,,
+980,millebr02,Brad Miller,1989-10-18,Brad Miller,3B,53.0,,KC
+981,oneilty01,Tyler O'Neill,1995-06-22,Tyler ONeill,LF,67.0,,NYY
+982,baderha01,Harrison Bader,1994-06-03,Harrison Bader,CF,44.0,,COL
+983,fowlede01,Dexter Fowler,1986-03-22,Dexter Fowler,OF,62.0,,BAL
+984,carpema01,Matt Carpenter,1985-11-26,Matt Carpenter,DH,70.0,,STL
+985,edmanto01,Tommy Edman,1995-05-09,Tommy Edman,SS,83.0,,SD
+986,carlsdy01,Dylan Carlson,1998-10-23,Dylan Carlson,OF,,,PIT
+987,schroma01,Max Schrock,1994-10-12,Max Schrock,2B,,,COL
+988,kniznan01,Andrew Knizner,1995-02-03,Andrew Knizner,C,14.0,,LAA
+989,wietema01,Matt Wieters,1986-05-21,Matt Wieters,C,12.0,,BAL
+990,nogowjo01,John Nogowski,1993-01-05,John Nogowski,1B,,,
+991,thomala02,Lane Thomas,1995-08-23,Lane Thomas,OF,3.0,,NYY
+992,ravelra01,Rangel Ravelo,1992-04-24,Rangel Ravelo,DH,2.0,,BAL
+993,flaheja01,Jack Flaherty,1995-10-15,Jack Flaherty,P,,18.2,SF
+994,sanchri01,Ricardo Sanchez,1997-04-11,Ricardo Sánchez,P,,,
+995,crismna01,Nabil Crismatt,1994-12-25,Nabil Crismatt,P,,,
+996,millean01,Andrew Miller,1985-05-21,Andrew Miller,P,,5.2,MIL
+997,meisiry01,Ryan Meisinger,1994-05-04,Ryan Meisinger,P,,,MIL
+998,kaminro01,Rob Kaminsky,1994-09-02,Rob Kaminsky,P,,,NYY
+999,woodfja01,Jake Woodford,1996-10-28,Jake Woodford,P,,,NYY
+1000,martica04,Carlos Martinez,1991-09-21,Carlos Martínez,P,,3.2,
+1001,webbty01,Tyler Webb,1990-07-20,Tyler Webb,P,,9.0,SF
+1002,gombeau01,Austin Gomber,1993-11-23,Austin Gomber,P,,,TEX
+1003,ponceda01,Daniel Ponce de Leon,1992-01-16,Daniel Ponce de Leon,P,,12.2,
+1004,cabrege01,Genesis Cabrera,1996-10-10,Genesis Cabrera,P,,8.1,BOS
+1005,ramirro02,Roel Ramirez,1995-05-26,Roel Ramirez,P,,,
+1006,cruzje01,Jesus Cruz,1995-04-15,Jesús Cruz,P,,,
+1007,oviedjo01,Johan Oviedo,1998-03-02,Johan Oviedo,P,,,CIN
+1008,helslry01,Ryan Helsley,1994-07-18,Ryan Helsley,P,,2.2,DET
+1009,reyesal02,Alex Reyes,1994-08-29,Alex Reyes,P,,8.1,KC
+1010,fernaju01,Junior Fernandez,1997-03-02,Junior Fernández,P,,2.0,
+1011,hudsoda02,Dakota Hudson,1994-09-15,Dakota Hudson,P,,19.0,COL
+1012,wainwad01,Adam Wainwright,1981-08-30,Adam Wainwright,P,,34.0,MIA
+1013,elledse01,Seth Elledge,1996-05-20,Seth Elledge,P,,,SF
+1014,kimkw01,Kwang Hyun Kim,1988-07-22,Kwang Hyun Kim,P,,,
+1015,whitlko01,Kodi Whitley,1995-02-21,Kodi Whitley,P,,,ATL
+1016,gallegi01,Giovanny Gallegos,1991-08-14,Giovanny Gallegos,P,,7.1,NYM
+1017,gantjo01,John Gant,1992-08-06,John Gant,P,,10.1,SD
+1018,zuninmi01,Mike Zunino,1991-03-25,Mike Zunino,C,60.0,,ARI
+1019,choiji01,Ji-Man Choi,1991-05-19,Ji-Man Choi,1B,95.0,,
+1020,lowebr01,Brandon Lowe,1994-07-06,Brandon Lowe,2B,117.0,,ATL
+1021,adamewi01,Willy Adames,1995-09-02,Willy Adames,SS,106.0,,ARI
+1022,diazya01,Yandy Díaz,1991-08-08,Yandy Díaz,3B,111.0,,
+1023,meadoau01,Austin Meadows,1995-05-03,Austin Meadows,OF,82.0,,DET
+1024,kiermke01,Kevin Kiermaier,1990-04-22,Kevin Kiermaier,CF,86.0,,
+1025,renfrhu01,Hunter Renfroe,1992-01-28,Hunter Renfroe,OF,85.0,,LAD
+1026,martijo08,Jose Martinez,1988-07-25,José Martínez,DH,67.0,,
+1027,tsutsyo01,Yoshi Tsutsugo,1991-11-26,Yoshi Tsutsugo,LF,,,
+1028,wendljo01,Joey Wendle,1990-04-26,Joey Wendle,2B,89.0,,
+1029,margoma01,Manuel Margot,1994-09-28,Manuel Margot,OF,80.0,,MIA
+1030,brossmi01,Mike Brosseau,1994-03-15,Mike Brosseau,1B,46.0,,
+1031,perezmi03,Michael Perez,1992-08-07,Michael Pérez,C,43.0,,
+1032,smithke04,Kevan Smith,1988-06-28,Kevan Smith,C,4.0,,HOU
+1033,ogradbr01,Brian O'Grady,1992-05-17,Brian OGrady,CF,5.0,,NYM
+1034,arozara01,Randy Arozarena,1995-02-28,Randy Arozarena,LF,1.0,,SEA
+1035,flemijo01,Josh Fleming,1996-05-18,Josh Fleming,P,,,SF
+1036,richatr01,Trevor Richards,1993-05-15,Trevor Richards,P,,21.0,CLE
+1037,kittran01,Andrew Kittredge,1990-03-17,Andrew Kittredge,P,,8.0,ARI
+1038,castidi01,Diego Castillo,1994-01-18,Diego Castillo,P,,12.2,ARI
+1039,castidi01,Diego Castillo,1994-01-18,Diego Castillo,P,,12.2,DET
+1040,beeksja02,Jalen Beeks,1993-07-10,Jalen Beeks,P,,19.1,LAA
+1041,fairbpe01,Pete Fairbanks,1993-12-16,Pete Fairbanks,P,,14.2,TEX
+1042,gilmase01,Sean Gilmartin,1990-05-08,Sean Gilmartin,P,,4.1,
+1043,bandaan01,Anthony Banda,1993-08-10,Anthony Banda,P,,7.0,TEX
+1044,thompry02,Ryan Thompson,1992-06-26,Ryan Thompson,P,,,NYY
+1045,curtijo02,John Curtiss,1993-04-05,John Curtiss,P,,11.1,BAL
+1046,garcied01,Edgar Garcia,1996-10-04,Edgar García,P,,2.1,
+1047,slegeaa01,Aaron Slegers,1992-09-04,Aaron Slegers,P,,10.0,TOR
+1048,sherrry01,Ryan Sherriff,1990-05-25,Ryan Sherriff,P,,,
+1049,roech01,Chaz Roe,1986-10-09,Chaz Roe,P,,9.1,ARI
+1050,loupaa01,Aaron Loup,1987-12-19,Aaron Loup,P,,14.2,
+1051,snellbl01,Blake Snell,1992-12-04,Blake Snell,P,,28.2,LAA
+1052,chiriyo01,Yonny Chirinos,1993-12-26,Yonny Chirinos,P,,11.1,LAD
+1053,yarbrry01,Ryan Yarbrough,1991-12-31,Ryan Yarbrough,P,,37.0,CLE
+1054,anderni01,Nick Anderson,1990-07-05,Nick Anderson,P,,9.1,ARI
+1055,alvarjo03,Jose Alvarado,1995-05-21,José Alvarado,P,,9.0,
+1056,glasnty01,Tyler Glasnow,1993-08-23,Tyler Glasnow,P,,28.0,OAK
+1057,drakeol01,Oliver Drake,1987-01-13,Oliver Drake,P,,5.1,STL
+1058,mortoch02,Charlie Morton,1983-11-12,Charlie Morton,P,,16.2,ATL
+1059,chiriro01,Robinson Chirinos,1984-06-05,Robinson Chirinos,C,42.0,,MIN
+1060,frazito01,Todd Frazier,1986-02-12,Todd Frazier,1B,108.0,,COL
+1061,odorro01,Rougned Odor,1994-02-03,Rougned Odor,2B,80.0,,WAS
+1062,andruel01,Elvis Andrus,1988-08-26,Elvis Andrus,SS,76.0,,WAS
+1063,kineris01,Isiah Kiner-Falefa,1995-03-23,Isiah Kiner-Falefa,3B,107.0,,SD
+1064,choosh01,Shin-Soo Choo,1982-07-13,Shin-Soo Choo,OF,87.0,,HOU
+1065,solakni01,Nick Solak,1995-01-11,Nick Solak,OF,,,KC
+1066,gallojo01,Joey Gallo,1993-11-19,Joey Gallo,OF,104.0,,SF
+1067,calhowi01,Willie Calhoun,1994-11-04,Willie Calhoun,DH,58.0,,KC
+1068,santada01,Danny Santana,1990-11-07,Danny Santana,1B,55.0,,ARI
+1069,trevijo01,Jose Trevino,1992-11-28,Jose Trevino,C,48.0,,MIN
+1070,heinesc01,Scott Heineman,1992-12-04,Scott Heineman,OF,46.0,,WAS
+1071,dietrde01,Derek Dietrich,1989-07-18,Derek Dietrich,1B,34.0,,MIL
+1072,refsnro01,Rob Refsnyder,1991-03-26,Rob Refsnyder,DH,,,CHC
+1073,mathije01,Jeff Mathis,1983-03-31,Jeff Mathis,C,28.0,,
+1074,taverle01,Leody Taveras,1998-09-08,Leody Taveras,CF,,,
+1075,guzmaro01,Ronald Guzman,1994-10-20,Ronald Guzmán,1B,11.0,,
+1076,garciad02,Adolis García,1993-03-02,Adolis García,LF,,,
+1077,tejedan01,Anderson Tejeda,1998-05-01,Anderson Tejeda,2B,,,
+1078,riverya01,Yadiel Rivera,1992-05-02,Yadiel Rivera,SS,5.0,,
+1079,allarko01,Kolby Allard,1997-08-13,Kolby Allard,P,,18.0,NYM
+1080,gibauia01,Ian Gibaut,1993-11-19,Ian Gibaut,P,,12.1,ATL
+1081,minormi01,Mike Minor,1987-12-26,Mike Minor,P,,35.1,ARI
+1082,palumjo01,Joe Palumbo,1994-10-26,Joe Palumbo,P,,2.1,MIN
+1083,gibsoky01,Kyle Gibson,1987-10-23,Kyle Gibson,P,,38.0,MIA
+1084,codyky01,Kyle Cody,1994-08-09,Kyle Cody,P,,,TEX
+1085,farrelu01,Luke Farrell,1991-06-07,Luke Farrell,P,,3.1,MIA
+1086,martibr01,Brett Martin,1995-04-28,Brett Martin,P,,4.2,TEX
+1087,garcilu03,Luis Garcia,1987-01-30,Luís Garcia,P,,5.0,
+1088,benjawe01,Wes Benjamin,1993-07-26,Wes Benjamin,P,,,TEX
+1089,lynnla01,Lance Lynn,1987-05-12,Lance Lynn,P,,51.1,SF
+1090,klubeco01,Corey Kluber,1986-04-10,Corey Kluber,P,,1.0,PHI
+1091,hearnta01,Taylor Hearn,1994-08-30,Taylor Hearn,P,,8.0,ARI
+1092,hergeji01,Jimmy Herget,1993-09-09,Jimmy Herget,P,,11.1,CHC
+1093,hernajo02,Jonathan Hernandez,1996-07-06,Jonathan Hernandez,P,,18.1,COL
+1094,goodyni01,Nick Goody,1991-07-06,Nick Goody,P,,5.2,TOR
+1095,lylesjo01,Jordan Lyles,1990-10-19,Jordan Lyles,P,,24.1,CHC
+1096,rodrijo06,Joely Rodriguez,1991-11-14,Joely Rodríguez,P,,,
+1097,volqued01,Edinson Volquez,1983-07-03,Edinson Vólquez,P,,5.2,
+1098,montera01,Rafael Montero,1990-10-17,Rafael Montero,P,,8.2,CHC
+1099,leclejo01,Jose Leclerc,1993-12-19,José Leclerc,P,,2.0,
+1100,chaveje01,Jesse Chavez,1983-08-21,Jesse Chavez,P,,11.1,CLE
+1101,nicasju01,Juan Nicasio,1986-08-31,Juan Nicasio,P,,1.1,
+1102,janseda01,Danny Jansen,1995-04-15,Danny Jansen,C,69.0,,
+1103,guerrvl02,Vladimir Guerrero Jr.,1999-03-16,Vladimir Guerrero Jr,1B,121.0,,ATL
+1104,biggica01,Cavan Biggio,1995-04-11,Cavan Biggio,2B,122.0,,BAL
+1105,bichebo01,Bo Bichette,1998-03-05,Bo Bichette,SS,61.0,,MIA
+1106,shawtr01,Travis Shaw,1990-04-16,Travis Shaw,3B,88.0,,CLE
+1107,gurrilo01,Lourdes Gurriel Jr.,1993-10-10,Lourdes Gurriel Jr,LF,108.0,,
+1108,grichra01,Randal Grichuk,1991-08-13,Randal Grichuk,CF,114.0,,CLE
+1109,hernate01,Teoscar Hernandez,1992-10-15,Teoscar Hernández,OF,121.0,,
+1110,tellero01,Rowdy Tellez,1995-03-16,Rowdy Tellez,1B,81.0,,NYM
+1111,panikjo01,Joe Panik,1990-10-30,Joe Panik,SS,56.0,,BAL
+1112,drurybr01,Brandon Drury,1992-08-21,Brandon Drury,3B,46.0,,TOR
+1113,espinsa01,Santiago Espinal,1994-11-13,Santiago Espinal,SS,,,BAL
+1114,mcguire01,Reese McGuire,1995-03-02,Reese McGuire,C,34.0,,
+1115,fishede01,Derek Fisher,1993-08-21,Derek Fisher,OF,16.0,,PIT
+1116,alforan01,Anthony Alford,1994-07-20,Anthony Alford,OF,16.0,,TB
+1117,mckinbi01,Billy McKinney,1994-08-23,Billy McKinney,LF,3.0,,COL
+1118,gavigsa01,Sam Gaviglio,1990-05-22,Sam Gaviglio,P,,3.0,HOU
+1119,anderch01,Chase Anderson,1987-11-30,Chase Anderson,P,,14.2,COL
+1120,wagueja01,Jacob Waguespack,1993-11-05,Jacob Waguespack,P,,13.0,STL
+1121,thorntr01,Trent Thornton,1993-09-30,Trent Thornton,P,,5.2,CLE
+1122,bergetr01,Travis Bergen,1993-10-08,Travis Bergen,P,,1.2,CHC
+1123,bassan01,Anthony Bass,1987-11-01,Anthony Bass,P,,16.0,PHI
+1124,gileske01,Ken Giles,1990-09-20,Ken Giles,P,,1.2,
+1125,reidfse01,Sean Reid-Foley,1995-08-30,Sean Reid-Foley,P,,3.0,CWS
+1126,yamagsh01,Shun Yamaguchi,1987-07-11,Shun Yamaguchi,P,,,NYM
+1127,pearsna01,Nate Pearson,1996-08-20,Nate Pearson,P,,,COL
+1128,shoemma01,Matt Shoemaker,1986-09-27,Matt Shoemaker,P,,25.2,COL
+1129,ryuhy01,Hyun Jin Ryu,1987-03-25,Hyun Jin Ryu,P,,37.0,TOR
+1130,roarkta01,Tanner Roark,1986-10-05,Tanner Roark,P,,27.0,LAA
+1131,fontwi01,Wilmer Font,1990-05-24,Wilmer Font,P,,10.0,LAD
+1132,merryju01,Julian Merryweather,1991-10-14,Julian Merryweather,P,,,ATL
+1133,romanjo03,Jordan Romano,1993-04-21,Jordan Romano,P,,14.2,ATL
+1134,kayan01,Anthony Kay,1995-03-21,Anthony Kay,P,,15.1,SEA
+1135,dolisra01,Rafael Dolis,1988-01-10,Rafael Dolis,P,,,SD
+1136,hatchto01,Tom Hatch,1994-09-29,Tom Hatch,P,,,
+1137,borucry01,Ryan Borucki,1994-03-31,Ryan Borucki,P,,9.1,COL
+1138,coleaj01,A.J. Cole,1992-01-05,AJ Cole,P,,14.2,WAS
+1139,suzukku01,Kurt Suzuki,1983-10-04,Kurt Suzuki,C,63.0,,MIA
+1140,thameer01,Eric Thames,1986-11-10,Eric Thames,1B,77.0,,MIA
+1141,castrst01,Starlin Castro,1990-03-24,Starlin Castro,2B,60.0,,PIT
+1142,turnetr01,Trea Turner,1993-06-30,Trea Turner,SS,125.0,,SF
+1143,kieboca01,Carter Kieboom,1997-09-03,Carter Kieboom,3B,50.0,,LAA
+1144,sotoju01,Juan Soto,1998-10-25,Juan Soto,LF,86.0,,PIT
+1145,roblevi01,Victor Robles,1997-05-19,Víctor Robles,CF,93.0,,
+1146,eatonad02,Adam Eaton,1988-12-06,Adam Eaton,OF,114.0,,OAK
+1147,kendrho01,Howie Kendrick,1983-07-12,Howie Kendrick,DH,71.0,,WAS
+1148,cabreas01,Asdrubal Cabrera,1985-11-13,Asdrúbal Cabrera,3B,107.0,,
+1149,gomesya01,Yan Gomes,1987-07-19,Yan Gomes,C,54.0,,WAS
+1150,garcilu04,Luis Garcia,2000-05-16,Luis Garcia,2B,,,
+1151,taylomi02,Michael A. Taylor,1991-03-26,Michael A Taylor,OF,39.0,,CWS
+1152,harrijo05,Josh Harrison,1987-07-08,Josh Harrison,OF,32.0,,CWS
+1153,difowi01,Wilmer Difo,1992-04-02,Wilmer Difo,2B,11.0,,STL
+1154,stevean01,Andrew Stevenson,1994-06-01,Andrew Stevenson,LF,5.0,,BAL
+1155,bonifem01,Emilio Bonifacio,1985-04-23,Emilio Bonifacio,LF,,,
+1156,finneky01,Kyle Finnegan,1991-09-04,Kyle Finnegan,P,,,BAL
+1157,raineta01,Tanner Rainey,1992-12-25,Tanner Rainey,P,,14.1,MIN
+1158,harpery01,Ryne Harper,1989-03-27,Ryne Harper,P,,13.2,SF
+1159,strasst01,Stephen Strasburg,1988-07-20,Stephen Strasburg,P,,5.0,MIN
+1160,scherma01,Max Scherzer,1984-07-27,Max Scherzer,P,,37.1,SD
+1161,doolise01,Sean Doolittle,1986-09-26,Sean Doolittle,P,,3.2,ATL
+1162,suerowa01,Wander Suero,1991-09-15,Wander Suero,P,,12.0,TEX
+1163,corbipa01,Patrick Corbin,1989-07-19,Patrick Corbin,P,,35.1,
+1164,bacusda01,Dakota Bacus,1991-04-02,Dakota Bacus,P,,,MIL
+1165,crowewi01,Wil Crowe,1994-09-09,Wil Crowe,P,,,
+1166,freemsa01,Sam Freeman,1987-06-24,Sam Freeman,P,,5.0,
+1167,harriwi10,Will Harris,1984-08-28,Will Harris,P,,7.1,DET
+1168,sanchan01,Anibal Sanchez,1984-02-27,Aníbal Sánchez,P,,30.0,
+1169,hudsoda01,Daniel Hudson,1987-03-09,Daniel Hudson,P,,11.2,TOR
+1170,romerse01,Seth Romero,1996-04-19,Seth Romero,P,,,SF
+1171,feddeer01,Erick Fedde,1993-02-25,Erick Fedde,P,,22.2,HOU
+1172,vothau01,Austin Voth,1992-06-26,Austin Voth,P,,23.2,WAS
+1173,braymbe01,Ben Braymer,1994-04-28,Ben Braymer,P,,,CHC
+1174,bourqja01,James Bourque,1993-07-09,James Bourque,P,,1.1,CHC
+1175,,,,Luis Rodriguez,,,,ARI
+1176,,,,Misael Urbina,,,,ARI
+1177,,,,Jose Martinez,,,,ARI
+1178,,,,AJ Alexy,,,,ARI
+1179,,,,Yasel Antuna,,,,ARI
+1180,,,,Kevin Smith,,,,ARI
+1181,,,,Morgan Cooper,,,,ARI
+1182,,,,Trey Wingenter,,,,ARI
+1183,,,,Angel Rojas,,,,ARI
+1184,,,,Edward Cabrera,,,,ARI
+1185,,,,Luis Gil,,,,ARI
+1186,,,,Nate Lowe,,,,ARI
+1187,,,,Jose Alberto Rivera,,,,ARI
+1188,,,,Simeon Woods Richardson,,,,ARI
+1189,,,,Michel Baez,,,,ARI
+1190,,,,Braxton Lee,,,,ARI
+1191,,,,Jose Ramirez,,,,ARI
+1192,,,,Anibal Sanchez,,,,ARI
+1193,,,,Drew Lugbauer,,,,ARI
+1194,,,,Eric Haase,,,,ARI
+1195,,,,Alexander Ramirez,,,,ARI
+1196,,,,Alexander Ramirez,,,,TB
+1197,,,,Ronaldo Hernandez,,,,ARI
+1198,,,,Andrew Mccutchen,,,,ARI
+1199,,,,Mark Zagunis,,,,ARI
+1200,,,,Jose Urquidy,,,,ARI
+1201,,,,Josh Lowe,,,,ARI
+1202,,,,Delvin Perez,,,,ARI
+1203,,,,Thad Ward,,,,ARI
+1204,,,,Mike Siani,,,,ARI
+1205,,,,Brayan Rocchio,,,,ARI
+1206,,,,Robel Garcia,,,,ARI
+1207,,,,Jose Peraza,,,,ARI
+1208,,,,Jeferson Espinal,,,,ARI
+1209,,,,Tristan Pompey,,,,ARI
+1210,,,,Victor Victor Mesa,,,,ARI
+1211,,,,Kenny Giles,,,,ARI
+1212,,,,Jonatan Clase,,,,ARI
+1213,,,,Tristen Lutz,,,,ARI
+1214,,,,Michael Brosseau,,,,ARI
+1215,,,,Blake Perkins,,,,ARI
+1216,,,,Ben Ruta,,,,ARI
+1217,,,,Bubba Thompson,,,,ARI
+1218,,,,Ramon Rosso,,,,ARI
+1219,,,,Patrick Hilson,,,,ARI
+1220,,,,Alexander Vizcaino,,,,ARI
+1221,,,,Justin Twine,,,,ARI
+1222,,,,Angel Martinez,,,,ARI
+1223,,,,R1 Yermin Mercedes,,,,ARI
+1224,,,,Michel Miliano,,,,ARI
+1225,,,,Estanli Castillo,,,,ARI
+1226,,,,Frainyer Chavez,,,,ARI
+1227,,,,Gage Hinsz,,,,ARI
+1228,,,,Tucker Davidson,,,,ARI
+1229,,,,Caden Lemons,,,,ARI
+1230,,,,Eduarqi Fernandez,,,,ARI
+1231,,,,Aaron Bracho,,,,ARI
+1232,,,,Junior Sanquintin,,,,ARI
+1233,,,,Sergio Campana,,,,ARI
+1234,,,,Miguel Aparicio,,,,ARI
+1235,,,,Allan Cerda,,,,ARI
+1236,,,,Brainer Bonaci,,,,ARI
+1237,,,,Alec Bettinger,,,,ARI
+1238,,,,Aeverson Arteaga,,,,ARI
+1239,,,,Kevin Alcantara,,,,ATL
+1240,,,,Abiatal Avelino,,,,ATL
+1241,,,,Jacob Webb,,,,ATL
+1242,,,,Jacob Scavuzzo,,,,ATL
+1243,,,,Alexander Mojica,,,,ATL
+1244,,,,Andres Munoz,,,,ATL
+1245,,,,Colin Poche,,,,ATL
+1246,,,,Phillips Valdez,,,,ATL
+1247,,,,Yairo Munoz,,,,ATL
+1248,,,,Jacob Nix,,,,ATL
+1249,,,,Michael Clevinger,,,,ATL
+1250,,,,Yoenis Cespedes,,,,ATL
+1251,,,,Donny Sands,,,,ATL
+1252,,,,Danny Drullard,,,,ATL
+1253,,,,Peter OBrien,,,,ATL
+1254,,,,Yanio Perez,,,,ATL
+1255,,,,David Robertson,,,,ATL
+1256,,,,Nick Podkul,,,,ATL
+1257,,,,Bayron Lora,,,,ATL
+1258,,,,Ethan Lindow,,,,ATL
+1259,,,,Noah Song,,,,ATL
+1260,,,,Joey Cantillo,,,,ATL
+1261,,,,Maikol Escotto,,,,ATL
+1262,,,,Victor Bericoto,,,,ATL
+1263,,,,Michael Mercado,,,,ATL
+1264,,,,Edgar Santana,,,,ATL
+1265,,,,Carlos Machado,,,,ATL
+1266,,,,Miguel Vargas,,,,ATL
+1267,,,,Nick Fanti,,,,ATL
+1268,,,,Jhon Diaz,,,,ATL
+1269,,,,Isael Soto,,,,ATL
+1270,,,,Dauri Lorenzo,,,,ATL
+1271,,,,Diowell Burgos,,,,ATL
+1272,,,,Jhonkensy Noel,,,,ATL
+1273,,,,Luis Medina,,,,ATL
+1274,,,,Benyamin Bailey,,,,ATL
+1275,,,,Jared Miller,,,,ATL
+1276,,,,Junior Perez,,,,ATL
+1277,,,,Blake Cederlind,,,,ATL
+1278,,,,Hedbert Perez,,,,ATL
+1279,,,,Francisco Morales,,,,ATL
+1280,,,,Elijah Tatis,,,,ATL
+1281,,,,Yoendrys Gomez,,,,ATL
+1282,,,,Gregory Guerrero,,,,ATL
+1283,,,,Pat Mazeika,,,,ATL
+1284,,,,Koda Glover,,,,ATL
+1285,,,,Skye Bolt,,,,ATL
+1286,,,,Dean Deetz,,,,ATL
+1287,,,,Patrick Romeri,,,,ATL
+1288,,,,R1 Pablo Reyes,,,,ATL
+1289,,,,Mitch Nay,,,,ATL
+1290,,,,Juan De Leon,,,,ATL
+1291,,,,Yeison Coca,,,,ATL
+1292,,,,Kyle Glogoski,,,,ATL
+1293,,,,Miguel Hiraldo,,,,ATL
+1294,,,,Miguel Amaya,,,,ATL
+1295,,,,JD Hammer,,,,ATL
+1296,,,,Damon Jones,,,,ATL
+1297,,,,Danny Salazar,,,,ATL
+1298,,,,Cody Poteet,,,,ATL
+1299,,,,Drew Ward,,,,ATL
+1300,,,,Tyler Wells,,,,ATL
+1301,,,,Joantgel Segovia,,,,ATL
+1302,,,,Julio Esteban Rodriguez,,,,ATL
+1303,,,,Daysbel Hernandez,,,,ATL
+1304,,,,Wadye Ynfante,,,,ATL
+1305,,,,CD Pelham,,,,ATL
+1306,,,,Christian Koss,,,,ATL
+1307,,,,Curtis Mead,,,,ATL
+1308,,,,Shendrik Apostel,,,,ATL
+1309,,,,Pedro Pages,,,,ATL
+1310,,,,Ian Desmond,,,,BAL
+1311,,,,Jordan Zimmermann,,,,BAL
+1312,,,,Kodi Medeiros,,,,BAL
+1313,,,,Nick Lodolo,,,,BAL
+1314,,,,Starling Heredia,,,,BAL
+1315,,,,Curtis Terry,,,,BAL
+1316,,,,Hector Yan,,,,BAL
+1317,,,,Jacob Rhame,,,,BAL
+1318,,,,Jean Carlos Encarnacion,,,,BAL
+1319,,,,Nate Eovaldi,,,,BAL
+1320,,,,Edinson Volquez,,,,BAL
+1321,,,,Ryan Jensen,,,,BAL
+1322,,,,Chris Vallimont,,,,BAL
+1323,,,,Brad Zunica,,,,BAL
+1324,,,,Josh Stephen,,,,BAL
+1325,,,,Jackson Rees,,,,BAL
+1326,,,,Christian Vazquez,,,,BAL
+1327,,,,Jose Israel Garcia,,,,BAL
+1328,,,,Heisell Baro,,,,BAL
+1329,,,,Matt Tabor,,,,BAL
+1330,,,,Drew Mendoza,,,,BAL
+1331,,,,Joey Wentz,,,,BAL
+1332,,,,Josh Ockimey,,,,BAL
+1333,,,,Gray Fenter,,,,BAL
+1334,,,,Miguel Yajure,,,,BAL
+1335,,,,Jared Triolo,,,,BAL
+1336,,,,Tristan Beck,,,,BAL
+1337,,,,Williams Jerez,,,,BAL
+1338,,,,Ryan Pepiot,,,,BAL
+1339,,,,Michael Grove,,,,BAL
+1340,,,,Preston Palmeiro,,,,BAL
+1341,,,,Mac Sceroler,,,,BAL
+1342,,,,Francis Martes,,,,BAL
+1343,,,,Darlin Moquete,,,,BAL
+1344,,,,Kohl Franklin,,,,BAL
+1345,,,,Brayan Medina,,,,BAL
+1346,,,,Marshall Kasowski,,,,BAL
+1347,,,,Tyler Olson,,,,BAL
+1348,,,,Cristhian Adames,,,,BAL
+1349,,,,Brock Burke,,,,BAL
+1350,,,,Elio Prado,,,,BAL
+1351,,,,Colton Hock,,,,BAL
+1352,,,,Sam McMillan,,,,BAL
+1353,,,,Emmanuel Rodriguez,,,,BAL
+1354,,,,Grayson Huffman,,,,BAL
+1355,,,,Brandon Morrow,,,,BAL
+1356,,,,Brett Cecil,,,,BAL
+1357,,,,Leandro Emiliani,,,,BAL
+1358,,,,Trey Cabbage,,,,BAL
+1359,,,,Ryder Green,,,,BAL
+1360,,,,Dylan Coleman,,,,BAL
+1361,,,,Kole Cottam,,,,BAL
+1362,,,,Robert Neustrom,,,,BAL
+1363,,,,Micker Adolfo (Zapata),,,,BAL
+1364,,,,Zach Granite,,,,BAL
+1365,,,,Sheldon Neuse,,,,BAL
+1366,,,,Kohl Stewart,,,,BAL
+1367,,,,Matt Joyce,,,,BAL
+1368,,,,Albert Inoa,,,,BAL
+1369,,,,Thomas Jones,,,,BAL
+1370,,,,Nick Banks,,,,BAL
+1371,,,,Ryan January,,,,BAL
+1372,,,,Will Gaddis,,,,BAL
+1373,,,,Quinn Brodey,,,,BAL
+1374,,,,Jordan Diaz,,,,BAL
+1375,,,,Leonardo Jimenez,,,,BAL
+1376,,,,TJ Sikkema,,,,BOS
+1377,,,,Luis Almanzar,,,,BOS
+1378,,,,Addison Barger,,,,BOS
+1379,,,,Jorge Lopez,,,,BOS
+1380,,,,Kevin Kiemeier,,,,BOS
+1381,,,,Jomar Reyes,,,,BOS
+1382,,,,Hernan Perez,,,,BOS
+1383,,,,Tyler Austin,,,,BOS
+1384,,,,Pat Corbin,,,,BOS
+1385,,,,William English,,,,BOS
+1386,,,,Bryson Stott,,,,BOS
+1387,,,,Larry Ernesto,,,,BOS
+1388,,,,Junior Fernandez,,,,BOS
+1389,,,,Bryson Brigman,,,,BOS
+1390,,,,Lolo Sanchez,,,,BOS
+1391,,,,Taylor Walls,,,,BOS
+1392,,,,Sandy Leon,,,,BOS
+1393,,,,R1 Wyatt Mathisen,,,,BOS
+1394,,,,Scott Blewett,,,,BOS
+1395,,,,Juan Hillman,,,,BOS
+1396,,,,Alex McKenna,,,,BOS
+1397,,,,Kramer Robertson,,,,BOS
+1398,,,,Trejyn Fletcher,,,,BOS
+1399,,,,Oscar De La Cruz ,,,,BOS
+1400,,,,Matt Krook,,,,BOS
+1401,,,,Pedro Avila,,,,BOS
+1402,,,,Gilbert Lara,,,,BOS
+1403,,,,Jake Noll,,,,BOS
+1404,,,,Chris Shaw,,,,BOS
+1405,,,,Regi Grace,,,,BOS
+1406,,,,Matt Szczur,,,,BOS
+1407,,,,Andrew Lockett,,,,BOS
+1408,,,,Matthew Liberatore,,,,BOS
+1409,,,,Brett Sullivan,,,,BOS
+1410,,,,Felix Pena,,,,BOS
+1411,,,,Brett Graves,,,,BOS
+1412,,,,Charlie Tilson,,,,BOS
+1413,,,,Carlos Sepulveda,,,,BOS
+1414,,,,Keegan Fish,,,,BOS
+1415,,,,Kwang-Hyun Kim,,,,BOS
+1416,,,,Matt Cronin,,,,BOS
+1417,,,,Warwick Saupold,,,,BOS
+1418,,,,Jose Simon Pastrano,,,,BOS
+1419,,,,Humberto Arteaga,,,,BOS
+1420,,,,Tyler Kolek,,,,BOS
+1421,,,,Nick Kennedy,,,,BOS
+1422,,,,Logan Ice,,,,BOS
+1423,,,,Alvaro Gonzalez,,,,BOS
+1424,,,,Wilkerman Garcia,,,,BOS
+1425,,,,Christian Lopes,,,,BOS
+1426,,,,Cabera Weaver,,,,BOS
+1427,,,,Stephen Gonsalves,,,,BOS
+1428,,,,Kevin Merrell,,,,BOS
+1429,,,,Luis Diaz,,,,BOS
+1430,,,,Charles Mack,,,,BOS
+1431,,,,Daniel Ray Robertson,,,,BOS
+1432,,,,Carlos Rodriguez MIL,,,,BOS
+1433,,,,Jonathon Berti,,,,BOS
+1434,,,,Packy Naughton,,,,BOS
+1435,,,,Lucius Fox,,,,BOS
+1436,,,,Chase Vallot,,,,BOS
+1437,,,,Mark Leiter,,,,BOS
+1438,,,,Sebastian Rivero,,,,BOS
+1439,,,,Dashawn Keirsey,,,,BOS
+1440,,,,Kyler Murray,,,,BOS
+1441,,,,Lars Nootbaar,,,,BOS
+1442,,,,Trevor Clifton,,,,BOS
+1443,,,,Hugh Smith,,,,BOS
+1444,,,,Osvani Gutierrez,,,,BOS
+1445,,,,Allen Cordoba,,,,BOS
+1446,,,,Owen White,,,,BOS
+1447,,,,Jamie Westbrook,,,,BOS
+1448,,,,Nick Raquet,,,,BOS
+1449,,,,Jake Rave,,,,BOS
+1450,,,,Bodi Rascon,,,,BOS
+1451,,,,Drake Fellows,,,,BOS
+1452,,,,Michael Limoncelli,,,,BOS
+1453,,,,Kerry Carpenter,,,,BOS
+1454,,,,Logan Wyatt,,,,CHC
+1455,,,,Emilio Pagan,,,,CHC
+1456,,,,Konnor Pilkington,,,,CHC
+1457,,,,Michael Helman,,,,CHC
+1458,,,,Richard Urena,,,,CHC
+1459,,,,Yeyson Yrizarri,,,,CHC
+1460,,,,Jorge Ona,,,,CHC
+1461,,,,Domingo German,,,,CHC
+1462,,,,Gabriel Arias,,,,CHC
+1463,,,,Isan Diaz,,,,CHC
+1464,,,,Leury Garcia,,,,CHC
+1465,,,,Riley Greene,,,,CHC
+1466,,,,Javier Guerra,,,,CHC
+1467,,,,Luis Campusano,,,,CHC
+1468,,,,Rouismar Quintana,,,,CHC
+1469,,,,Matthew Bowman,,,,CHC
+1470,,,,Peyton Burdick,,,,CHC
+1471,,,,Nolan Gorman,,,,CHC
+1472,,,,George Kirby,,,,CHC
+1473,,,,Ian Lewis,,,,CHC
+1474,,,,Chase Bradford,,,,CHC
+1475,,,,Spencer Adams,,,,CHC
+1476,,,,Michael Harris,,,,CHC
+1477,,,,Mark Vientos,,,,CHC
+1478,,,,Victor Gonzalez,,,,CHC
+1479,,,,Alek Thomas,,,,CHC
+1480,,,,Brandon Williamson,,,,CHC
+1481,,,,Abrahan Gutierrez,,,,CHC
+1482,,,,Alvaro Seijas,,,,CHC
+1483,,,,Brayan Buelvas,,,,CHC
+1484,,,,Mickey Moniak,,,,CHC
+1485,,,,Noelvi Marte,,,,CHC
+1486,,,,Kyle Barraclough,,,,CHC
+1487,,,,Riley Thompson,,,,CHC
+1488,,,,Tommy Henry,,,,CHC
+1489,,,,RJ Freure,,,,CHC
+1490,,,,Raynel Delgado,,,,CHC
+1491,,,,Michael De Leon,,,,CHC
+1492,,,,Jalen Miller,,,,CHC
+1493,,,,TJ Zeuch,,,,CHC
+1494,,,,Chris Mokma,,,,CHC
+1495,,,,Greyson Janista,,,,CHC
+1496,,,,Rhett Wiseman,,,,CHC
+1497,,,,Adam Scott,,,,CHC
+1498,,,,Chad Smith,,,,CHC
+1499,,,,Brett de Geus,,,,CHC
+1500,,,,Jojanse Torres,,,,CHC
+1501,,,,Jace Vines,,,,CHC
+1502,,,,Alexis Torres,,,,CHC
+1503,,,,Jonathan Stiever,,,,CHC
+1504,,,,Eric Skoglund,,,,CHC
+1505,,,,Jose Urena,,,,CHC
+1506,,,,Tucupita Marcano,,,,CHC
+1507,,,,Lawrence Butler,,,,CHC
+1508,,,,Lucas Herbert,,,,CHC
+1509,,,,Pavin Smith,,,,CHC
+1510,,,,Brett Netzer,,,,CHC
+1511,,,,Will Toffey,,,,CHC
+1512,,,,Peter Solomon,,,,CHC
+1513,,,,Jonny Honza,,,,CHC
+1514,,,,Carlos Rincon,,,,CHC
+1515,,,,Ryan Sheriff,,,,CHC
+1516,,,,Bennett Sousa,,,,CHC
+1517,,,,Adam Kloffenstein,,,,CHC
+1518,,,,Blaine Knight,,,,CHC
+1519,,,,John Rooney,,,,CHC
+1520,,,,Hunter Gaddis,,,,CHC
+1521,,,,Jose Pena,,,,CHC
+1522,,,,Junior Sanchez,,,,CHC
+1523,,,,Jackson Kowar,,,,CWS
+1524,,,,Diego Cartaya,,,,CWS
+1525,,,,Joe Rizzo,,,,CWS
+1526,,,,Cole Winn,,,,CWS
+1527,,,,Raudy Reed,,,,CWS
+1528,,,,Roldani Baldwin,,,,CWS
+1529,,,,Gabriel Maciel,,,,CWS
+1530,,,,Christopher Torres,,,,CWS
+1531,,,,Luis Toribio,,,,CWS
+1532,,,,DL Hall,,,,CWS
+1533,,,,Pedro Gonzalez,,,,CWS
+1534,,,,Gosuke Katoh,,,,CWS
+1535,,,,Jacob Amaya,,,,CWS
+1536,,,,Jake Elmore,,,,CWS
+1537,,,,Edgar Garcia,,,,CWS
+1538,,,,Brent Honeywell,,,,CWS
+1539,,,,Nick Pratto,,,,CWS
+1540,,,,Ronnie Dawson,,,,CWS
+1541,,,,Sam Huff,,,,CWS
+1542,,,,Joe Ryan,,,,CWS
+1543,,,,Gerson Bautista,,,,CWS
+1544,,,,Wes Parsons,,,,CWS
+1545,,,,Ali Sanchez,,,,CWS
+1546,,,,Rafael Marchan,,,,CWS
+1547,,,,Wander Javier,,,,CWS
+1548,,,,Breiling Eusebio,,,,CWS
+1549,,,,Travis Demerritte,,,,CWS
+1550,,,,Ryan Garcia,,,,CWS
+1551,,,,Kevin Kramer,,,,CWS
+1552,,,,Brett Baty,,,,CWS
+1553,,,,Arodys Vizcaino,,,,CWS
+1554,,,,Mike Nikorak,,,,CWS
+1555,,,,Luis Carpio,,,,CWS
+1556,,,,Justin Maese,,,,CWS
+1557,,,,Quinn Priester,,,,CWS
+1558,,,,Jose Herrera,,,,CWS
+1559,,,,Jhoulys Chacin,,,,CWS
+1560,,,,Scooter Gennett,,,,CWS
+1561,,,,Oswald Peraza,,,,CWS
+1562,,,,Connor Thomas,,,,CWS
+1563,,,,Justin Williams,,,,CWS
+1564,,,,Tim Melville,,,,CWS
+1565,,,,Anderson Miller,,,,CWS
+1566,,,,Sal Romano,,,,CWS
+1567,,,,Hyo-Jun Park,,,,CWS
+1568,,,,Antonio Arias,,,,CWS
+1569,,,,Chris Flexen,,,,CWS
+1570,,,,Garrett Fulenchek,,,,CWS
+1571,,,,Ashe Russell,,,,CWS
+1572,,,,Stuart Fairchild,,,,CWS
+1573,,,,Jose Iglesias,,,,CWS
+1574,,,,Matt Reynolds (3B),,,,CWS
+1575,,,,Mauricio Cabrera,,,,CWS
+1576,,,,Jose Mujica,,,,CWS
+1577,,,,Andrew Dalquist,,,,CWS
+1578,,,,Jose Gomez,,,,CWS
+1579,,,,R1 Cam Gallagher,,,,CWS
+1580,,,,Garrett Whitley,,,,CWS
+1581,,,,JT Chargois,,,,CWS
+1582,,,,Carlos Hernandez,,,,CWS
+1583,,,,Mason Denaburg,,,,CWS
+1584,,,,Jordan Balazovic,,,,CWS
+1585,,,,Ben Bowden,,,,CWS
+1586,,,,JJ Goss,,,,CWS
+1587,,,,Andrew Bechtold,,,,CWS
+1588,,,,Dilan Rosario,,,,CWS
+1589,,,,Braydon Fisher,,,,CWS
+1590,,,,Luis Santana,,,,CWS
+1591,,,,Heitor Tokar,,,,CWS
+1592,,,,Freddy Valdez,,,,CWS
+1593,,,,Ronny Brito,,,,CWS
+1594,,,,Israel Pineda,,,,CWS
+1595,,,,Sammy Siani,,,,CWS
+1596,,,,Josh Wolf,,,,CWS
+1597,,,,Kendall Williams,,,,CWS
+1598,,,,Ronnier Quintero,,,,CWS
+1599,,,,Jose Salas,,,,CWS
+1600,,,,Kristian Cardozo,,,,CWS
+1601,,,,Victor Mesa Jr,,,,CWS
+1602,,,,Endy Rodriguez,,,,CWS
+1603,,,,Jose Tena,,,,CWS
+1604,,,,Kasey Kalich,,,,CWS
+1605,,,,Evan Edwards,,,,CIN
+1606,,,,Lamonte Wade,,,,CIN
+1607,,,,Peter Bayer,,,,CIN
+1608,,,,Gio Gonzalez,,,,CIN
+1609,,,,Jose De Leon,,,,CIN
+1610,,,,Anthony Seigler,,,,CIN
+1611,,,,Christopher Morel,,,,CIN
+1612,,,,Bailey Clark,,,,CIN
+1613,,,,Yeltsin Gudino,,,,CIN
+1614,,,,Trayce Thompson,,,,CIN
+1615,,,,Jerad Eickhoff,,,,CIN
+1616,,,,Aaron Sanchez,,,,CIN
+1617,,,,Rudy Flores,,,,CIN
+1618,,,,Brian Schales,,,,CIN
+1619,,,,Elier Hernandez,,,,CIN
+1620,,,,Richie Martin,,,,CIN
+1621,,,,Brooks Pounders,,,,CIN
+1622,,,,Greg Bird,,,,CIN
+1623,,,,Seth Beer,,,,CIN
+1624,,,,Austin Dean,,,,CIN
+1625,,,,Edubray Ramos,,,,CIN
+1626,,,,Max George,,,,CIN
+1627,,,,Ledarious Clark,,,,CIN
+1628,,,,Luke Wakamatsu,,,,CIN
+1629,,,,Trace Loehr,,,,CIN
+1630,,,,Blaine Hardy,,,,CIN
+1631,,,,Brendon Davis,,,,CIN
+1632,,,,Dominic Fletcher,,,,CIN
+1633,,,,Tristin English,,,,CIN
+1634,,,,Austin Decarr,,,,CIN
+1635,,,,Grae Kessinger,,,,CIN
+1636,,,,Zac Curtis,,,,CIN
+1637,,,,Rovaldis Cabrera,,,,CIN
+1638,,,,Pedro Baez,,,,CIN
+1639,,,,Jeff Thompson,,,,CIN
+1640,,,,SD Mark Payton,,,,CIN
+1641,,,,Mckenzie Mills,,,,CIN
+1642,,,,Edwin Rios,,,,CIN
+1643,,,,John Doxakis,,,,CIN
+1644,,,,Marcus Wilson,,,,CIN
+1645,,,,Julio Martinez,,,,CIN
+1646,,,,Matt Koch,,,,CIN
+1647,,,,Zack Jones,,,,CIN
+1648,,,,R1 Silvino Bracho,,,,CIN
+1649,,,,Casey Golden,,,,CIN
+1650,,,,Cash Case,,,,CIN
+1651,,,,Ryan Eades,,,,CIN
+1652,,,,Rosell Herrera,,,,CIN
+1653,,,,Zack Brown,,,,CIN
+1654,,,,Josh Graham,,,,CIN
+1655,,,,Michael Rucker,,,,CIN
+1656,,,,Drew Mount,,,,CIN
+1657,,,,Pearson Mcmahan,,,,CIN
+1658,,,,Aaron Brown,,,,CIN
+1659,,,,Greg Cullen,,,,CIN
+1660,,,,Montana DuRapau,,,,CIN
+1661,,,,Tim Beckham,,,,CIN
+1662,,,,Stephen Kolek,,,,CIN
+1663,,,,Pabel Manzanero,,,,CIN
+1664,,,,Mikey York,,,,CIN
+1665,,,,Kevin Maitan,,,,CIN
+1666,,,,Edwin Uceta,,,,CIN
+1667,,,,Blake Allemand,,,,CIN
+1668,,,,Miles Gordon,,,,CIN
+1669,,,,Thomas Dillard,,,,CIN
+1670,,,,Kellen Strahm,,,,CIN
+1671,,,,JD Orr,,,,CIN
+1672,,,,Cody Deason,,,,CIN
+1673,,,,Erinson Placencia,,,,CIN
+1674,,,,Anfernee Grier,,,,CIN
+1675,,,,Jacob Heyward,,,,CIN
+1676,,,,Lachlan Wells,,,,CLE
+1677,,,,Dillon Peters,,,,CLE
+1678,,,,Jaime Schultz,,,,CLE
+1679,,,,Stone Garrett,,,,CLE
+1680,,,,Ryan ORourke,,,,CLE
+1681,,,,Yordan Alvarez,,,,CLE
+1682,,,,Yoan Aybar,,,,CLE
+1683,,,,Brennan Malone,,,,CLE
+1684,,,,Andy Pages,,,,CLE
+1685,,,,Alberto Figuereo,,,,CLE
+1686,,,,Stephen Paolini,,,,CLE
+1687,,,,Jeremiah Jackson,,,,CLE
+1688,,,,Lorenzo Cedrola,,,,CLE
+1689,,,,Bryan Mata,,,,CLE
+1690,,,,Logan Davidson,,,,CLE
+1691,,,,Zack Weiss,,,,CLE
+1692,,,,Drew Jackson,,,,CLE
+1693,,,,Zack Short,,,,CLE
+1694,,,,Jose Abreu,,,,CLE
+1695,,,,Braxton Garrett,,,,CLE
+1696,,,,German Marquez,,,,CLE
+1697,,,,Javy Baez,,,,CLE
+1698,,,,Sam Hentges,,,,CLE
+1699,,,,Cito Culver,,,,CLE
+1700,,,,Brewer Hicklen,,,,CLE
+1701,,,,Wyatt Marks,,,,CLE
+1702,,,,Randy Florentino,,,,CLE
+1703,,,,Brett Nicholas,,,,CLE
+1704,,,,Cory Mazzoni,,,,CLE
+1705,,,,Seth Johnson,,,,CLE
+1706,,,,Trent Deveaux,,,,CLE
+1707,,,,Alec Marsh,,,,CLE
+1708,,,,Chuck Taylor,,,,CLE
+1709,,,,Jordan Johnson,,,,CLE
+1710,,,,Dilson Herrera,,,,CLE
+1711,,,,Jacob May,,,,CLE
+1712,,,,Pj Conlon,,,,CLE
+1713,,,,Brian W Anderson,,,,CLE
+1714,,,,Kutter Crawford,,,,CLE
+1715,,,,Seth Corry,,,,CLE
+1716,,,,David Goforth,,,,CLE
+1717,,,,Steven Souza,,,,CLE
+1718,,,,Alex Colome,,,,CLE
+1719,,,,Wilmin Candelario,,,,CLE
+1720,,,,Jon Kemmer,,,,CLE
+1721,,,,Endrys Briceno,,,,CLE
+1722,,,,Tom Murphy,,,,CLE
+1723,,,,Erik Gonzalez,,,,CLE
+1724,,,,Brent Rooker,,,,CLE
+1725,,,,Alex Murphy,,,,CLE
+1726,,,,Yimi Garcia,,,,CLE
+1727,,,,Timmy Lopes,,,,CLE
+1728,,,,Michael Mariot,,,,CLE
+1729,,,,Danny Ortiz,,,,CLE
+1730,,,,Drew Rucinski,,,,CLE
+1731,,,,Noel Cuevas,,,,CLE
+1732,,,,Enrique Burgos,,,,CLE
+1733,,,,Cristian Santana,,,,CLE
+1734,,,,Jose Suarez,,,,CLE
+1735,,,,Charcer Burks,,,,CLE
+1736,,,,Angel Macuare,,,,CLE
+1737,,,,Justin Martinez,,,,CLE
+1738,,,,Dany Jimenez,,,,CLE
+1739,,,,Bryan Gonzalez,,,,CLE
+1740,,,,CJ Chatham,,,,COL
+1741,,,,Vinnie Pasquantino,,,,COL
+1742,,,,Josh Stowers,,,,COL
+1743,,,,Tyreque Reed,,,,COL
+1744,,,,Logan Gilbert,,,,COL
+1745,,,,KJ Harrison,,,,COL
+1746,,,,Richard Gallardo,,,,COL
+1747,,,,Omar Cruz,,,,COL
+1748,,,,Joe Gray,,,,COL
+1749,,,,Luis Barrera,,,,COL
+1750,,,,Nick Allen,,,,COL
+1751,,,,Nick Gordon,,,,COL
+1752,,,,Jasson Dominguez,,,,COL
+1753,,,,JJ Bleday,,,,COL
+1754,,,,Greg Jones,,,,COL
+1755,,,,Luis Matos,,,,COL
+1756,,,,Trey Harris,,,,COL
+1757,,,,Austin Listi,,,,COL
+1758,,,,Jimmie Sherfy,,,,COL
+1759,,,,Kristian Robinson,,,,COL
+1760,,,,Malcom Nunez,,,,COL
+1761,,,,Akil Baddoo,,,,COL
+1762,,,,Jose Acosta,,,,COL
+1763,,,,Bailey Falter,,,,COL
+1764,,,,Joshua Mears,,,,COL
+1765,,,,Corbin Martin,,,,COL
+1766,,,,Max Lazar,,,,COL
+1767,,,,Rayner Santana,,,,COL
+1768,,,,Breckin Williams,,,,COL
+1769,,,,Davis Wendzel,,,,COL
+1770,,,,Jimmy Lewis,,,,COL
+1771,,,,Kenedy Corona,,,,COL
+1772,,,,James Marvel,,,,COL
+1773,,,,Drew Ellis,,,,COL
+1774,,,,Renato Nunez,,,,COL
+1775,,,,Brian Mundell,,,,COL
+1776,,,,Austin Beck,,,,COL
+1777,,,,Devin Mann,,,,COL
+1778,,,,Fabian Pertuz,,,,COL
+1779,,,,Colton Welker,,,,COL
+1780,,,,Geraldo Perdomo,,,,COL
+1781,,,,Jake Scheiner,,,,COL
+1782,,,,Dustin Fowler,,,,COL
+1783,,,,Daniel Tillo,,,,COL
+1784,,,,Cole Roederer,,,,COL
+1785,,,,David Thompson,,,,COL
+1786,,,,Xavier Edwards,,,,COL
+1787,,,,Nick Northcut,,,,COL
+1788,,,,Peter Alonso,,,,COL
+1789,,,,Orelvis Martinez,,,,COL
+1790,,,,Eddy Diaz,,,,COL
+1791,,,,Kyle Holder,,,,COL
+1792,,,,Jake Magnum,,,,COL
+1793,,,,Taylor Varnell,,,,COL
+1794,,,,Cal Raleigh,,,,COL
+1795,,,,Tim Cate,,,,COL
+1796,,,,Kevin Smith P (NYM),,,,COL
+1797,,,,DShawn Knowles,,,,COL
+1798,,,,Resly Linares,,,,COL
+1799,,,,Andy Ibanez,,,,COL
+1800,,,,Alvin Guzman,,,,COL
+1801,,,,Adam Hill,,,,COL
+1802,,,,Devlin Granberg,,,,COL
+1803,,,,Antonio Gomez,,,,COL
+1804,,,,Bernardo Flores,,,,COL
+1805,,,,Darick Hall,,,,COL
+1806,,,,Brian Shaffer,,,,COL
+1807,,,,Ji-Hwan Bae,,,,COL
+1808,,,,Jimmy Govern,,,,COL
+1809,,,,Alex Wells,,,,COL
+1810,,,,R1 Devin Williams,,,,COL
+1811,,,,Jose Fermin,,,,COL
+1812,,,,Derian Cruz,,,,DET
+1813,,,,Gary Sanchez,,,,DET
+1814,,,,Aramis Ademan,,,,DET
+1815,,,,Odubel Herrera,,,,DET
+1816,,,,Jesus Luzardo,,,,DET
+1817,,,,Blake Hunt,,,,DET
+1818,,,,Joan Adon,,,,DET
+1819,,,,Aaron Ashby,,,,DET
+1820,,,,Samuel Franco,,,,DET
+1821,,,,Fernando Tatis Jr,,,,DET
+1822,,,,Leonardo Rodriguez,,,,DET
+1823,,,,Telmito Agustin,,,,DET
+1824,,,,Oscar Gonzalez,,,,DET
+1825,,,,Mason House,,,,DET
+1826,,,,Kyle Dohy,,,,DET
+1827,,,,Daniel Lynch,,,,DET
+1828,,,,Leandro Cedeno,,,,DET
+1829,,,,Victor Arano,,,,DET
+1830,,,,Gus Varland,,,,DET
+1831,,,,Sam Carlson,,,,DET
+1832,,,,Kevin Padlo,,,,DET
+1833,,,,Dakota Chalmers,,,,DET
+1834,,,,Ranger Suarez,,,,DET
+1835,,,,Dan Jansen,,,,DET
+1836,,,,Daniel Brito,,,,DET
+1837,,,,Curtis Taylor,,,,DET
+1838,,,,Jhailyn Ortiz,,,,DET
+1839,,,,Jonathan Guzman,,,,DET
+1840,,,,Jose Alvarado,,,,DET
+1841,,,,Zach Willeman,,,,DET
+1842,,,,Taylor Bashlor,,,,DET
+1843,,,,Luisangel Jose Acuna,,,,DET
+1844,,,,Jhordany Mezquita,,,,DET
+1845,,,,Yohendrick Pinango,,,,DET
+1846,,,,Ricky Vanasco,,,,DET
+1847,,,,Alex Scherff,,,,DET
+1848,,,,Paul De Jong,,,,DET
+1849,,,,Avery Short,,,,DET
+1850,,,,Blayne Enlow,,,,DET
+1851,,,,Pedro Martinez,,,,DET
+1852,,,,CJ Alexander,,,,DET
+1853,,,,Canaan Smith,,,,DET
+1854,,,,Eduardo Diaz,,,,DET
+1855,,,,Julio Carreras,,,,DET
+1856,,,,Yovanny Cruz,,,,DET
+1857,,,,Travis Macgregor,,,,DET
+1858,,,,Jose Castillo,,,,DET
+1859,,,,Josiah Gray,,,,DET
+1860,,,,Moises Gomez,,,,DET
+1861,,,,Cole Ragans,,,,DET
+1862,,,,Roniel Raudes,,,,DET
+1863,,,,Jake Reed,,,,DET
+1864,,,,Oscar Mercado,,,,DET
+1865,,,,Joe Jimenez,,,,DET
+1866,,,,Liover Peguero,,,,DET
+1867,,,,Matthew Strahm,,,,DET
+1868,,,,Ethan Hearn,,,,DET
+1869,,,,Conner Uselton,,,,DET
+1870,,,,Carlos Rodon,,,,DET
+1871,,,,Logan OHoppe,,,,DET
+1872,,,,Jack Herman,,,,DET
+1873,,,,Cole Brannen,,,,DET
+1874,,,,Manny Ramirez,,,,DET
+1875,,,,Je’Von Ward,,,,DET
+1876,,,,Jovani Moran,,,,DET
+1877,,,,Jorge Barrosa,,,,DET
+1878,,,,Jesus Parra,,,,DET
+1879,,,,Evan Fitterer,,,,DET
+1880,,,,Christopher Sanchez,,,,DET
+1881,,,,Blair Henley,,,,DET
+1882,,,,Sem Robberse,,,,DET
+1883,,,,Noah Davis,,,,DET
+1884,,,,Santiago Florez,,,,DET
+1885,,,,Conor Grammes,,,,DET
+1886,,,,Grant LaVigne,,,,DET
+1887,,,,Taylor Guerrieri,,,,HOU
+1888,,,,Dixon Machado,,,,HOU
+1889,,,,Tyler Pill,,,,HOU
+1890,,,,Sean Nolin,,,,HOU
+1891,,,,Duane Underwood,,,,HOU
+1892,,,,Justin Steele,,,,HOU
+1893,,,,Johan Mieses,,,,HOU
+1894,,,,Andrew Calica,,,,HOU
+1895,,,,Malik Collymore,,,,HOU
+1896,,,,Julian Leon,,,,HOU
+1897,,,,Freudis Nova,,,,HOU
+1898,,,,Esteury Ruiz,,,,HOU
+1899,,,,Dustin Peterson,,,,HOU
+1900,,,,Jared Oliva,,,,HOU
+1901,,,,Jose Miranda,,,,HOU
+1902,,,,Mikey Edie,,,,HOU
+1903,,,,Michael Ynoa,,,,HOU
+1904,,,,Barrett Barnes,,,,HOU
+1905,,,,Chris Rowley,,,,HOU
+1906,,,,Peter Lambert,,,,HOU
+1907,,,,Luis Escobar,,,,HOU
+1908,,,,Juan Minaya,,,,HOU
+1909,,,,Eduardo Lopez,,,,HOU
+1910,,,,Gavin Sheets,,,,HOU
+1911,,,,Luis Liberato,,,,HOU
+1912,,,,Ryan McKenna,,,,HOU
+1913,,,,Jeter Downs,,,,HOU
+1914,,,,Jairo Pomares,,,,HOU
+1915,,,,Bralin Jackson,,,,HOU
+1916,,,,Conner Capel,,,,HOU
+1917,,,,Kameron Misner,,,,HOU
+1918,,,,Jake Agnos,,,,HOU
+1919,,,,Jose Siri,,,,HOU
+1920,,,,Ryan Casteel,,,,HOU
+1921,,,,Cody Allen,,,,HOU
+1922,,,,Stetson Allie,,,,HOU
+1923,,,,Asdrubal Cabrera,,,,HOU
+1924,,,,R1 Tomas Nido,,,,HOU
+1925,,,,Matthew Mercedes,,,,HOU
+1926,,,,Dominic Ficociello,,,,HOU
+1927,,,,Hildemaro Requena,,,,HOU
+1928,,,,Wuilmer Becerra,,,,HOU
+1929,,,,Jake Hager,,,,HOU
+1930,,,,Justin Miller,,,,HOU
+1931,,,,Nick Torres,,,,HOU
+1932,,,,Michael Reed,,,,HOU
+1933,,,,Christopher Bec,,,,HOU
+1934,,,,Austin Pruitt,,,,HOU
+1935,,,,Connor Sadzeck,,,,HOU
+1936,,,,Troy Montgomery,,,,HOU
+1937,,,,Joey Rose,,,,HOU
+1938,,,,Casey Hughston,,,,HOU
+1939,,,,Cole Hamels,,,,HOU
+1940,,,,Kade Scivicque,,,,HOU
+1941,,,,Ryan Clark,,,,HOU
+1942,,,,Jack Wynkoop,,,,HOU
+1943,,,,Jesmuel Valentin Diaz,,,,HOU
+1944,,,,Max Povse,,,,HOU
+1945,,,,Will Banfield,,,,HOU
+1946,,,,Edmundo Sosa,,,,HOU
+1947,,,,Jordan Jankowski,,,,HOU
+1948,,,,Jake Irvin,,,,HOU
+1949,,,,Robbie Dickey,,,,HOU
+1950,,,,Sean Wymer,,,,HOU
+1951,,,,Jimmy Herron,,,,HOU
+1952,,,,Jake Wong,,,,HOU
+1953,,,,Spencer Steer,,,,HOU
+1954,,,,Tyler Fitzgerald,,,,HOU
+1955,,,,Ryan Zeferjahn,,,,HOU
+1956,,,,Garrett Frechette,,,,HOU
+1957,,,,Salvador Perez,,,,KC
+1958,,,,Adley Rutschman,,,,KC
+1959,,,,Antonio Cabello,,,,KC
+1960,,,,Jordan Humphreys,,,,KC
+1961,,,,Yefri Del Rosario,,,,KC
+1962,,,,Luis de la Rosa,,,,KC
+1963,,,,Jake Junis,,,,KC
+1964,,,,Roansy Contreras,,,,KC
+1965,,,,Ramon Torres,,,,KC
+1966,,,,Breidy Encarnacion,,,,KC
+1967,,,,Marcos Diplan,,,,KC
+1968,,,,Julio Pablo Martinez,,,,KC
+1969,,,,Griffin Roberts,,,,KC
+1970,,,,Gabriel Cancel,,,,KC
+1971,,,,Garrett Whitlock,,,,KC
+1972,,,,Shawn Morimando,,,,KC
+1973,,,,Mj Melendez,,,,KC
+1974,,,,Ricardo Pinto,,,,KC
+1975,,,,Reynaldo Lopez,,,,KC
+1976,,,,Chad Mcclanahan,,,,KC
+1977,,,,Dietrich Enns,,,,KC
+1978,,,,Brett Cumberland,,,,KC
+1979,,,,Austin Franklin,,,,KC
+1980,,,,Jasrado Chisholm,,,,KC
+1981,,,,Anthony A Garcia,,,,KC
+1982,,,,Victor Alcantara,,,,KC
+1983,,,,Gabriel Rodriguez,,,,KC
+1984,,,,Kyle Isbel,,,,KC
+1985,,,,Seuly Matias,,,,KC
+1986,,,,Elvis Luciano,,,,KC
+1987,,,,Victor Robles,,,,KC
+1988,,,,Daniel Poncedeleon,,,,KC
+1989,,,,Jack Reinheimer,,,,KC
+1990,,,,Payton Henry,,,,KC
+1991,,,,Deivi Garcia,,,,KC
+1992,,,,Jairo Diaz,,,,KC
+1993,,,,Patrick Weigel,,,,KC
+1994,,,,Luis Alejandro (AJ) Basabe,,,,KC
+1995,,,,Jairo Solis,,,,KC
+1996,,,,Zach Britton,,,,KC
+1997,,,,Eric Pardinho,,,,KC
+1998,,,,Adrian Hernandez,,,,KC
+1999,,,,Adrian De Horta,,,,KC
+2000,,,,Jayson Schroeder,,,,KC
+2001,,,,Garrett Davila,,,,KC
+2002,,,,Marcos Molina,,,,KC
+2003,,,,Yulieski Gurriel,,,,KC
+2004,,,,Carl Edwards Jr (CJ),,,,KC
+2005,,,,Khalil Lee,,,,KC
+2006,,,,Bobby Witt Jr,,,,KC
+2007,,,,Ricky Aracena,,,,KC
+2008,,,,Yu-Cheng Chang,,,,KC
+2009,,,,Carlos Tocci,,,,KC
+2010,,,,Raffy Lopez,,,,KC
+2011,,,,Andres Machado,,,,KC
+2012,,,,Dennis Ortega,,,,KC
+2013,,,,Zach Haake,,,,KC
+2014,,,,Nolan Watson,,,,KC
+2015,,,,Brad Peacock,,,,KC
+2016,,,,Erick Pena,,,,KC
+2017,,,,Stanley Consuegra,,,,KC
+2018,,,,Gage Canning,,,,KC
+2019,,,,Yohanse Morel,,,,KC
+2020,,,,Daniel Espino,,,,KC
+2021,,,,Darryl Collins,,,,KC
+2022,,,,Carlos Guzman,,,,LAA
+2023,,,,Matt Bush,,,,LAA
+2024,,,,Samuel Tuivailala,,,,LAA
+2025,,,,Tobias Myers,,,,LAA
+2026,,,,Matt Manning,,,,LAA
+2027,,,,Scott Oberg,,,,LAA
+2028,,,,Cal Stevenson,,,,LAA
+2029,,,,Yandy Diaz,,,,LAA
+2030,,,,Brenan Hanifee,,,,LAA
+2031,,,,Jonathan Sierra (Estiwal),,,,LAA
+2032,,,,Mason Thompson,,,,LAA
+2033,,,,Keegan Thompson,,,,LAA
+2034,,,,Gregory Santos,,,,LAA
+2035,,,,Leodys Taveras,,,,LAA
+2036,,,,Deury Carrasco,,,,LAA
+2037,,,,Jordan Brewer,,,,LAA
+2038,,,,Lucas Williams,,,,LAA
+2039,,,,Troy Stokes,,,,LAA
+2040,,,,Corey D Ray,,,,LAA
+2041,,,,Adam Wolf,,,,LAA
+2042,,,,Blake Rutherford,,,,LAA
+2043,,,,Andres Gimenez,,,,LAA
+2044,,,,James Marinan,,,,LAA
+2045,,,,Chris Betts,,,,LAA
+2046,,,,Socrates Brito,,,,LAA
+2047,,,,Kody Clemens,,,,LAA
+2048,,,,Marcos Brito,,,,LAA
+2049,,,,Yennsy Diaz,,,,LAA
+2050,,,,Jose King,,,,LAA
+2051,,,,Pedro Payano,,,,LAA
+2052,,,,Ryley Gilliam,,,,LAA
+2053,,,,Daz Cameron,,,,LAA
+2054,,,,Jeremy Walker,,,,LAA
+2055,,,,Freicer Perez,,,,LAA
+2056,,,,Roberto Chirinos,,,,LAA
+2057,,,,Tyler Johnson,,,,LAA
+2058,,,,Luis Gonzalez (CWS),,,,LAA
+2059,,,,Osiel Rodriguez,,,,LAA
+2060,,,,Bryce Denton,,,,LAA
+2061,,,,Jose Albertos,,,,LAA
+2062,,,,Luis A Medina,,,,LAA
+2063,,,,Justin Lopez,,,,LAA
+2064,,,,Emilio Vargas,,,,LAA
+2065,,,,Luis Urias,,,,LAA
+2066,,,,Wilderd Patiño,,,,LAA
+2067,,,,Freddy Tarnok,,,,LAA
+2068,,,,Ford Proctor,,,,LAA
+2069,,,,AJ Graffanino,,,,LAA
+2070,,,,Vladimir Gutierrez,,,,LAA
+2071,,,,Jefry Ramos,,,,LAA
+2072,,,,Franklin E Perez,,,,LAA
+2073,,,,Thomas Hatch,,,,LAA
+2074,,,,Braxton Ashcraft,,,,LAA
+2075,,,,Luiz Gohara,,,,LAA
+2076,,,,Jasiah Dixon,,,,LAA
+2077,,,,Adael Amador,,,,LAA
+2078,,,,Brock Deatherage,,,,LAA
+2079,,,,Buddy Reed,,,,LAA
+2080,,,,Nolan Martinez,,,,LAA
+2081,,,,Parker Meadows,,,,LAA
+2082,,,,Niko Hulsizer,,,,LAA
+2083,,,,Edwin Diaz,,,,LAA
+2084,,,,Jesus Sanchez,,,,LAA
+2085,,,,Tyler Callihan,,,,LAA
+2086,,,,Vince Fernandez,,,,LAA
+2087,,,,Jake Rogers,,,,LAA
+2088,,,,Owen Miller,,,,LAA
+2089,,,,James Mccann,,,,LAA
+2090,,,,Ismael Mena,,,,LAA
+2091,,,,Ryan Feltner,,,,LAA
+2092,,,,Marco Luciano,,,,LAA
+2093,,,,Reynaldo Rivera,,,,LAA
+2094,,,,Michael Toglia,,,,LAA
+2095,,,,Jeremy Eierman,,,,LAA
+2096,,,,Samad Taylor,,,,LAA
+2097,,,,Ryan Weathers,,,,LAA
+2098,,,,Charles Leblanc,,,,LAA
+2099,,,,Juan Then,,,,LAA
+2100,,,,Nelson Velasquez,,,,LAA
+2101,,,,Reggie Lawson,,,,LAA
+2102,,,,Osleivis Basabe,,,,LAA
+2103,,,,Dominic Pipkin,,,,LAA
+2104,,,,Reggie Pruitt,,,,LAA
+2105,,,,Demi Orimoloye,,,,LAA
+2106,,,,Yadiel Hernandez,,,,LAA
+2107,,,,Kevin Gowdy,,,,LAA
+2108,,,,R1 Jimmy Lambert,,,,LAA
+2109,,,,Paul Richan,,,,LAA
+2110,,,,Andy Yerzy,,,,LAA
+2111,,,,Jeremiah Estrada,,,,LAA
+2112,,,,Jhon Torres,,,,LAA
+2113,,,,Simon Muzziotti,,,,LAA
+2114,,,,Maximo Castillo,,,,LAA
+2115,,,,Reid Schaller,,,,LAA
+2116,,,,Branlyn Jaraba,,,,LAA
+2117,,,,Daniel Palka,,,,LAA
+2118,,,,Cody Freeman,,,,LAA
+2119,,,,Matt Brash,,,,LAA
+2120,,,,Jiter Heredia,,,,LAA
+2121,,,,Adrian Placencia,,,,LAA
+2122,,,,Malfrin Sosa,,,,LAA
+2123,,,,Brenton Doyle,,,,LAA
+2124,,,,Roberto Campos,,,,LAA
+2125,,,,Jasseel De La Cruz,,,,LAA
+2126,,,,Taj Bradley,,,,LAA
+2127,,,,Mason Englert,,,,LAA
+2128,,,,Cadyn Grenier,,,,LAA
+2129,,,,Alexfri Planez,,,,LAD
+2130,,,,Jamari Baylor,,,,LAD
+2131,,,,Kyle Muller,,,,LAD
+2132,,,,Andrew Toles,,,,LAD
+2133,,,,Jed Lowrie,,,,LAD
+2134,,,,Jose Rondon,,,,LAD
+2135,,,,Dean Kremer,,,,LAD
+2136,,,,Alexander Campos,,,,LAD
+2137,,,,Julio Urias,,,,LAD
+2138,,,,Leonardo Rivas,,,,LAD
+2139,,,,Daulton Jefferies,,,,LAD
+2140,,,,Cody Sedlock,,,,LAD
+2141,,,,Francisco Mejia,,,,LAD
+2142,,,,Brennen Davis,,,,LAD
+2143,,,,Lourdes Gurriel,,,,LAD
+2144,,,,Elieser Hernandez,,,,LAD
+2145,,,,Yadier Alvarez,,,,LAD
+2146,,,,Austin Maddox,,,,LAD
+2147,,,,Bryan Ramos,,,,LAD
+2148,,,,Jonathan Rodriguez,,,,LAD
+2149,,,,Ezequiel Duran,,,,LAD
+2150,,,,Enrique Hernandez,,,,LAD
+2151,,,,Francisco Rios,,,,LAD
+2152,,,,Kyren Paris,,,,LAD
+2153,,,,Yusniel Diaz,,,,LAD
+2154,,,,Calten Daal,,,,LAD
+2155,,,,Ronald Guzman,,,,LAD
+2156,,,,Donnie Hart,,,,LAD
+2157,,,,Ronny Henriquez,,,,LAD
+2158,,,,Joerlin De Los Santos,,,,LAD
+2159,,,,Carlos M Vargas,,,,LAD
+2160,,,,Drew Rom,,,,LAD
+2161,,,,Jayce Easley,,,,LAD
+2162,,,,Rece Hinds,,,,LAD
+2163,,,,Thyago Vieira,,,,LAD
+2164,,,,Yeinier Cano,,,,LAD
+2165,,,,Jean Carmona,,,,LAD
+2166,,,,Bryce Ball,,,,LAD
+2167,,,,Yusmiero Petit,,,,LAD
+2168,,,,Blake Bivens,,,,LAD
+2169,,,,Chris Lee,,,,LAD
+2170,,,,Grant McCray,,,,LAD
+2171,,,,Colin Barber,,,,LAD
+2172,,,,Hunter Greene,,,,LAD
+2173,,,,Matt Gorski,,,,LAD
+2174,,,,Brian Howard,,,,LAD
+2175,,,,Debby Santana,,,,LAD
+2176,,,,Brandon Lewis,,,,LAD
+2177,,,,Brett Conine,,,,LAD
+2178,,,,Jacob Gonzalez,,,,LAD
+2179,,,,Eugenio Suarez,,,,LAD
+2180,,,,Rogelio Armenteros,,,,LAD
+2181,,,,Bruce Zimmerman,,,,LAD
+2182,,,,Luis Oviedo,,,,LAD
+2183,,,,Yonny Hernandez,,,,LAD
+2184,,,,Otto Lopez,,,,LAD
+2185,,,,Austin Wynns,,,,LAD
+2186,,,,Angel Rondon,,,,LAD
+2187,,,,Will Robertson,,,,LAD
+2188,,,,Lamar Sparks,,,,LAD
+2189,,,,Randy Ventura,,,,LAD
+2190,,,,Garrett Williams,,,,LAD
+2191,,,,Luis Heibardo Garcia,,,,LAD
+2192,,,,Darell Hernaiz,,,,LAD
+2193,,,,Milkar Perez,,,,LAD
+2194,,,,Devin Sweet,,,,LAD
+2195,,,,Aldo Ramirez,,,,LAD
+2196,,,,Matt Festa,,,,LAD
+2197,,,,Gunnar Henderson,,,,MIA
+2198,,,,Slade Heathcott,,,,MIA
+2199,,,,Michael Pineda,,,,MIA
+2200,,,,Matthew Allan,,,,MIA
+2201,,,,Brady McConnell,,,,MIA
+2202,,,,Sandro Fabian,,,,MIA
+2203,,,,Ariel Hernandez,,,,MIA
+2204,,,,Isaiah Campbell,,,,MIA
+2205,,,,Nasim Nunez,,,,MIA
+2206,,,,Tyler Baum,,,,MIA
+2207,,,,Nick Ramirez,,,,MIA
+2208,,,,Ryne Nelson,,,,MIA
+2209,,,,Gabriel Moya,,,,MIA
+2210,,,,Andrew Susac,,,,MIA
+2211,,,,Noah Perio,,,,MIA
+2212,,,,Trey Amburgey,,,,MIA
+2213,,,,Josh Ravin,,,,MIA
+2214,,,,Drew Verhagen,,,,MIA
+2215,,,,Rafael Martin,,,,MIA
+2216,,,,Aaron Northcraft,,,,MIA
+2217,,,,Chris OGrady,,,,MIA
+2218,,,,Derek Law,,,,MIA
+2219,,,,Marwin Gonzalez,,,,MIA
+2220,,,,Brock Stewart,,,,MIA
+2221,,,,Sam Wolff,,,,MIA
+2222,,,,Eduar Lopez,,,,MIA
+2223,,,,Aledmys Diaz,,,,MIA
+2224,,,,Dereck Rodriguez,,,,MIA
+2225,,,,Colby Woodmandsee,,,,MIA
+2226,,,,Sam Moll,,,,MIA
+2227,,,,Justin Garza,,,,MIA
+2228,,,,David Olmedo Barrera,,,,MIA
+2229,,,,Chase Johnson Mullins,,,,MIA
+2230,,,,Victor Payano,,,,MIA
+2231,,,,Evan Skoug,,,,MIA
+2232,,,,Randall Delgado,,,,MIA
+2233,,,,Ricardo De La Torre,,,,MIA
+2234,,,,Bryce Johnson,,,,MIA
+2235,,,,Ian Clarkin,,,,MIA
+2236,,,,Cam Gibson,,,,MIA
+2237,,,,Connor Kaiser,,,,MIA
+2238,,,,Kingston Liniak,,,,MIA
+2239,,,,Eric Cole,,,,MIA
+2240,,,,Ryan Campbell,,,,MIA
+2241,,,,Nick Dunn,,,,MIA
+2242,,,,Jacob Sanford,,,,MIA
+2243,,,,Christian Cairo,,,,MIA
+2244,,,,Tanner Morris,,,,MIA
+2245,,,,Joseph Ortiz,,,,MIA
+2246,,,,Tim Elliott,,,,MIA
+2247,,,,Will Wilson,,,,MIL
+2248,,,,DJ Wilson,,,,MIL
+2249,,,,Miles Mikolas,,,,MIL
+2250,,,,Lane Ratliff,,,,MIL
+2251,,,,Evan Steele,,,,MIL
+2252,,,,Quentin Holmes,,,,MIL
+2253,,,,Brice Turang,,,,MIL
+2254,,,,Steve Wilkerson,,,,MIL
+2255,,,,Jose Osuna,,,,MIL
+2256,,,,R1 Jimmy Cordero,,,,MIL
+2257,,,,Hunter Brown,,,,MIL
+2258,,,,Jonathan Arauz,,,,MIL
+2259,,,,Jake K Thompson,,,,MIL
+2260,,,,Eli White,,,,MIL
+2261,,,,Lewin Diaz,,,,MIL
+2262,,,,Gavin Lavalley,,,,MIL
+2263,,,,Patrick Murphy,,,,MIL
+2264,,,,Heriberto Hernandez,,,,MIL
+2265,,,,Enyel De Los Santos,,,,MIL
+2266,,,,Daniel Gibson,,,,MIL
+2267,,,,Luis Verdugo,,,,MIL
+2268,,,,Eddy Julio Martinez,,,,MIL
+2269,,,,Robinson Pina,,,,MIL
+2270,,,,Travis Swaggerty,,,,MIL
+2271,,,,Trevor Stephan,,,,MIL
+2272,,,,Chad Spanberger,,,,MIL
+2273,,,,Alberto Triunfel,,,,MIL
+2274,,,,Matt Wallner,,,,MIL
+2275,,,,Eddy Yean,,,,MIL
+2276,,,,Jordan Stephens,,,,MIL
+2277,,,,Johan Rojas,,,,MIL
+2278,,,,Sam Abbott,,,,MIL
+2279,,,,Daniel Stumpf,,,,MIL
+2280,,,,Hagen Danner,,,,MIL
+2281,,,,Trevor Hildenberger,,,,MIL
+2282,,,,Tim Mayza,,,,MIL
+2283,,,,Franyel Baez,,,,MIL
+2284,,,,Walker Robbins,,,,MIL
+2285,,,,Mariel Bautista,,,,MIL
+2286,,,,Orlando Calixte,,,,MIL
+2287,,,,Adrian Sampson,,,,MIL
+2288,,,,Ramon Urias,,,,MIL
+2289,,,,JC Ramirez,,,,MIL
+2290,,,,Logan Driscoll,,,,MIL
+2291,,,,Jackson Rutledge,,,,MIL
+2292,,,,Anibal Sierra,,,,MIL
+2293,,,,Yeison Santana,,,,MIL
+2294,,,,Miguel Romero,,,,MIL
+2295,,,,Carlos Soto,,,,MIL
+2296,,,,Miguel A Diaz,,,,MIL
+2297,,,,Brian Serven,,,,MIL
+2298,,,,Pat Neshek,,,,MIL
+2299,,,,Luis Palancios,,,,MIL
+2300,,,,Gio Arriera,,,,MIL
+2301,,,,Kevin Comer,,,,MIL
+2302,,,,Kent Emanuel,,,,MIL
+2303,,,,Alfredo Escalera-Maldonado,,,,MIL
+2304,,,,Luis Curbelo,,,,MIL
+2305,,,,Daniel Wright,,,,MIL
+2306,,,,Tommy Eveld,,,,MIL
+2307,,,,Matthew Whatley,,,,MIL
+2308,,,,Ryan Mcbroom,,,,MIL
+2309,,,,Michael Santos,,,,MIL
+2310,,,,Riley Mahan,,,,MIL
+2311,,,,Carlos Cortes,,,,MIL
+2312,,,,Durbin Feltman,,,,MIL
+2313,,,,Grant Witherspoon,,,,MIL
+2314,,,,Clarke Schmidt,,,,MIL
+2315,,,,Nolan Hoffman,,,,MIL
+2316,,,,Kai-Wei Teng,,,,MIL
+2317,,,,Hector Rondon,,,,MIL
+2318,,,,Deon Stafford,,,,MIN
+2319,,,,Jordan Hicks,,,,MIN
+2320,,,,Jason Groome,,,,MIN
+2321,,,,Forrest Whitley,,,,MIN
+2322,,,,AJ Puk,,,,MIN
+2323,,,,Andry Lara,,,,MIN
+2324,,,,JB Bukauskas,,,,MIN
+2325,,,,Cullen Large,,,,MIN
+2326,,,,Jose Berrios,,,,MIN
+2327,,,,Noah Syndergaard,,,,MIN
+2328,,,,Nolan Jones,,,,MIN
+2329,,,,Alex Speas,,,,MIN
+2330,,,,Anderson Espinoza,,,,MIN
+2331,,,,Reivaj Garcia,,,,MIN
+2332,,,,Robert Dominguez,,,,MIN
+2333,,,,Zac Lowther,,,,MIN
+2334,,,,Danny Diaz,,,,MIN
+2335,,,,Alex Kirilloff,,,,MIN
+2336,,,,Ronny Mauricio,,,,MIN
+2337,,,,Brandon Marsh,,,,MIN
+2338,,,,William Lugo,,,,MIN
+2339,,,,Yeudy Garcia,,,,MIN
+2340,,,,Starlyn Castillo,,,,MIN
+2341,,,,Zach Schellenger,,,,MIN
+2342,,,,Alexander Canario,,,,MIN
+2343,,,,Jonathan Machado,,,,MIN
+2344,,,,Jared Kelenic,,,,MIN
+2345,,,,Willie MacIver,,,,MIN
+2346,,,,Estiven Machado,,,,MIN
+2347,,,,Francisco Alvarez,,,,MIN
+2348,,,,Emmanuel Clase,,,,MIN
+2349,,,,Jose Rodriguez,,,,MIN
+2350,,,,Stephen Villines,,,,MIN
+2351,,,,Everson Pereira,,,,MIN
+2352,,,,Zach Warren,,,,MIN
+2353,,,,Julio Rodriguez,,,,MIN
+2354,,,,Grayson Rodriguez,,,,MIN
+2355,,,,Breyvic Valera,,,,MIN
+2356,,,,Eloy Jimenez,,,,MIN
+2357,,,,Sandy Gaston,,,,MIN
+2358,,,,Alejandro Pie,,,,MIN
+2359,,,,Dom Nunez,,,,MIN
+2360,,,,Ivan Herrera,,,,MIN
+2361,,,,Wyatt Mills,,,,MIN
+2362,,,,Tirso Ornelas,,,,MIN
+2363,,,,Cole Sands,,,,MIN
+2364,,,,Fernando Romero,,,,MIN
+2365,,,,Melvin Jimenez,,,,MIN
+2366,,,,Josh Jung,,,,MIN
+2367,,,,Alec Hansen,,,,MIN
+2368,,,,Jerming Rosario,,,,MIN
+2369,,,,Robinson Ortiz,,,,MIN
+2370,,,,Lazaro Armenteros,,,,MIN
+2371,,,,Royce Lewis,,,,MIN
+2372,,,,Brett Hanewich,,,,MIN
+2373,,,,Ryan Boldt,,,,MIN
+2374,,,,Bobby Bradley,,,,MIN
+2375,,,,Jon Duplantier,,,,MIN
+2376,,,,Yunior Severino,,,,MIN
+2377,,,,Efrain Contreras,,,,MIN
+2378,,,,Lun Zhao,,,,MIN
+2379,,,,Drew Steckenrider,,,,MIN
+2380,,,,Luis J Garcia,,,,MIN
+2381,,,,Reyes Moronta,,,,MIN
+2382,,,,Junior Santos,,,,MIN
+2383,,,,Alfonso Rivas,,,,MIN
+2384,,,,Adinso Reyes,,,,MIN
+2385,,,,Seranthony Dominguez,,,,MIN
+2386,,,,Marcus Smith,,,,MIN
+2387,,,,Andrick Nava,,,,MIN
+2388,,,,Sam Delaplane,,,,MIN
+2389,,,,Jose Bonilla,,,,MIN
+2390,,,,Brayan Altuve,,,,MIN
+2391,,,,Chris Murphy,,,,MIN
+2392,,,,Tyler Ramirez,,,,NYM
+2393,,,,Griffin Conine,,,,NYM
+2394,,,,Corban Joseph,,,,NYM
+2395,,,,Domingo Acevedo,,,,NYM
+2396,,,,Jake Guenther,,,,NYM
+2397,,,,Dario Agrazal,,,,NYM
+2398,,,,Korey Lee,,,,NYM
+2399,,,,Zach Mcallister,,,,NYM
+2400,,,,Gareth Morgan,,,,NYM
+2401,,,,Tony Renda,,,,NYM
+2402,,,,Antoine Kelly,,,,NYM
+2403,,,,Cole Freeman,,,,NYM
+2404,,,,Rymer Liriano,,,,NYM
+2405,,,,Alan Busenitz,,,,NYM
+2406,,,,Willians Astudillo,,,,NYM
+2407,,,,Yoshitomo Tsutsugo,,,,NYM
+2408,,,,Shane Green,,,,NYM
+2409,,,,Daniel Zamora,,,,NYM
+2410,,,,Erasmo Ramirez,,,,NYM
+2411,,,,Nick Dini,,,,NYM
+2412,,,,Nick Martini,,,,NYM
+2413,,,,Matt Mcbride,,,,NYM
+2414,,,,Kelvin Gutierrez,,,,NYM
+2415,,,,Armani Smith,,,,NYM
+2416,,,,Ryan Horstman,,,,NYM
+2417,,,,Brock Dykxhoorn,,,,NYM
+2418,,,,Jay Jackson,,,,NYM
+2419,,,,Reed Garrett,,,,NYM
+2420,,,,Remey Reed,,,,NYM
+2421,,,,Anyelo Gomez,,,,NYM
+2422,,,,Julian Fernandez,,,,NYM
+2423,,,,Pedro Aruajo,,,,NYM
+2424,,,,Seth Gray,,,,NYM
+2425,,,,Nivaldo Rodriguez,,,,NYM
+2426,,,,Darin Ruff,,,,NYM
+2427,,,,Jose Lopez,,,,NYY
+2428,,,,Nick Kingham,,,,NYY
+2429,,,,Gerardo Carrillo,,,,NYY
+2430,,,,Cameron Bishop,,,,NYY
+2431,,,,Kole Enright,,,,NYY
+2432,,,,Luis Avilan,,,,NYY
+2433,,,,Ronnie Williams,,,,NYY
+2434,,,,Patrick Wisdom,,,,NYY
+2435,,,,Carlos Naveda,,,,NYY
+2436,,,,Camilo Doval,,,,NYY
+2437,,,,Miguel Andujar,,,,NYY
+2438,,,,Zach Jackson,,,,NYY
+2439,,,,Austin Cox,,,,NYY
+2440,,,,Adam Hall,,,,NYY
+2441,,,,Jhoan Duran,,,,NYY
+2442,,,,Tom Windle,,,,NYY
+2443,,,,Harold Ramirez,,,,NYY
+2444,,,,Aivisail Garcia,,,,NYY
+2445,,,,Sean Hjelle,,,,NYY
+2446,,,,Jarlin Garcia,,,,NYY
+2447,,,,Ryan Rolison,,,,NYY
+2448,,,,Tayler Scott,,,,NYY
+2449,,,,Colton Laws,,,,NYY
+2450,,,,Taylor Gushue,,,,NYY
+2451,,,,Ronier Lascarro,,,,NYY
+2452,,,,Colin McHugh,,,,NYY
+2453,,,,Nick Schnell,,,,NYY
+2454,,,,Jose Mesa,,,,NYY
+2455,,,,Casey Meisner,,,,NYY
+2456,,,,Kieran Lovegrove,,,,NYY
+2457,,,,Jose Espada,,,,NYY
+2458,,,,Cornelius Randolph,,,,NYY
+2459,,,,Matt Dietz,,,,NYY
+2460,,,,Jackson Tetreault,,,,NYY
+2461,,,,Eliezer Alvarez,,,,NYY
+2462,,,,Zach Thompson,,,,NYY
+2463,,,,Ryan Noda,,,,NYY
+2464,,,,Michael Perez,,,,NYY
+2465,,,,Zack Erwin,,,,NYY
+2466,,,,Robert Tyler,,,,NYY
+2467,,,,Tyler Mark,,,,NYY
+2468,,,,Braden Webb,,,,NYY
+2469,,,,Skylar Szynski,,,,NYY
+2470,,,,Mitchell Kilkenny,,,,NYY
+2471,,,,Mateo Gil,,,,NYY
+2472,,,,Lency Delgado,,,,NYY
+2473,,,,Ryan Weiss,,,,NYY
+2474,,,,Tyler Phillips,,,,NYY
+2475,,,,Adolis Garcia,,,,NYY
+2476,,,,Chandler Redmond,,,,NYY
+2477,,,,Deion Walker,,,,NYY
+2478,,,,Dustin Harris,,,,NYY
+2479,,,,Andre Nnebe,,,,NYY
+2480,,,,Tyler Nevin,,,,OAK
+2481,,,,Hunter Bigge,,,,OAK
+2482,,,,Thomas Burrows,,,,OAK
+2483,,,,Leonardo Molina,,,,OAK
+2484,,,,Robinson Cano,,,,OAK
+2485,,,,Logan Shore,,,,OAK
+2486,,,,Michael Gigliotti,,,,OAK
+2487,,,,Elehuris Montero,,,,OAK
+2488,,,,Wei-Chung Wang,,,,OAK
+2489,,,,Kevin Gadea,,,,OAK
+2490,,,,Jose Azocar,,,,OAK
+2491,,,,Teoscar Hernandez,,,,OAK
+2492,,,,Blaze Alexander,,,,OAK
+2493,,,,Oneil Cruz,,,,OAK
+2494,,,,Nathan Kirby,,,,OAK
+2495,,,,Locke St John,,,,OAK
+2496,,,,Zac Rosscup,,,,OAK
+2497,,,,Joey Murray,,,,OAK
+2498,,,,Levi Kelly,,,,OAK
+2499,,,,Corbin Carroll,,,,OAK
+2500,,,,Arol Vera,,,,OAK
+2501,,,,Christopher Seise,,,,OAK
+2502,,,,Juan Querectuo,,,,OAK
+2503,,,,Kellin Deglan,,,,OAK
+2504,,,,Nick Kahle,,,,OAK
+2505,,,,Michael Kopech,,,,OAK
+2506,,,,Niko Decolati,,,,OAK
+2507,,,,Keoni Cavaco,,,,OAK
+2508,,,,Steven Jennings,,,,OAK
+2509,,,,Chris Archer,,,,OAK
+2510,,,,Robert Puason,,,,OAK
+2511,,,,Martin Maldonado,,,,OAK
+2512,,,,Taylor Trammell,,,,OAK
+2513,,,,Adam Conley,,,,OAK
+2514,,,,Alex Lange,,,,OAK
+2515,,,,Sixto Sanchez,,,,OAK
+2516,,,,Yohander Mendez,,,,OAK
+2517,,,,Alex Faedo,,,,OAK
+2518,,,,Zach Shepherd,,,,OAK
+2519,,,,Jorge Guzman,,,,OAK
+2520,,,,Abraham Toro-Hernandez,,,,OAK
+2521,,,,John Hicks,,,,OAK
+2522,,,,Vic Caratini,,,,OAK
+2523,,,,Berny Encarnacion,,,,OAK
+2524,,,,DJ Gladney,,,,OAK
+2525,,,,Tanner Houck,,,,OAK
+2526,,,,Jordan Patterson,,,,OAK
+2527,,,,Domingo Leyba,,,,OAK
+2528,,,,Ethan Hankins,,,,OAK
+2529,,,,Deivi Grullon,,,,OAK
+2530,,,,Santis Sanchez,,,,OAK
+2531,,,,Matthew Lugo,,,,OAK
+2532,,,,Yenci Pena,,,,OAK
+2533,,,,Yerdeluis Vargas,,,,OAK
+2534,,,,David Garcia,,,,OAK
+2535,,,,Austin Sodders,,,,OAK
+2536,,,,Christian Friedrich,,,,OAK
+2537,,,,Alex Wilson,,,,OAK
+2538,,,,Derek Hill,,,,OAK
+2539,,,,Jameson Hannah,,,,OAK
+2540,,,,Kyle Wilcox,,,,OAK
+2541,,,,Forest Wall,,,,OAK
+2542,,,,Riley Adams,,,,OAK
+2543,,,,Alex Troop,,,,OAK
+2544,,,,Dalton Lehnen,,,,OAK
+2545,,,,Chase Strumpf,,,,OAK
+2546,,,,Nick Egnatuk,,,,OAK
+2547,,,,Nick Sprengel,,,,OAK
+2548,,,,Keegan McGovern,,,,OAK
+2549,,,,Steve Gingery,,,,OAK
+2550,,,,Simon Rosenblum-Larson,,,,OAK
+2551,,,,Kendall Simmons,,,,OAK
+2552,,,,Emmanuel Rivera,,,,OAK
+2553,,,,Drew Avans,,,,OAK
+2554,,,,Bryant Packard,,,,OAK
+2555,,,,Ryne Inman,,,,OAK
+2556,,,,DJ Artis,,,,OAK
+2557,,,,Jacob Wallace,,,,OAK
+2558,,,,Jon Heasley,,,,OAK
+2559,,,,Marcos Gonzalez,,,,OAK
+2560,,,,Destin Dotson,,,,OAK
+2561,,,,Daniel Bies,,,,OAK
+2562,,,,Bailey Ober,,,,OAK
+2563,,,,Wenceel Perez,,,,OAK
+2564,,,,Connor Seabold,,,,OAK
+2565,,,,Reginald Preciado,,,,OAK
+2566,,,,Graeme Stinson,,,,OAK
+2567,,,,Austin Shenton,,,,OAK
+2568,,,,Erik Miller,,,,OAK
+2569,,,,Trevor McDonald,,,,OAK
+2570,,,,Ivan Johnson,,,,OAK
+2571,,,,Vaughn Grissom,,,,OAK
+2572,,,,Joseph Naranjo,,,,OAK
+2573,,,,Estarlin Beltre,,,,OAK
+2574,,,,Jose Altuve,,,,OAK
+2575,,,,R1 Stephen Vogt,,,,OAK
+2576,,,,Tyler Jay,,,,OAK
+2577,,,,Pdero Strop,,,,OAK
+2578,,,,Zack Hess,,,,OAK
+2579,,,,Yonathan Daza,,,,PHI
+2580,,,,Yolmer Sanchez,,,,PHI
+2581,,,,Pablo Lopez,,,,PHI
+2582,,,,Jose Pujols,,,,PHI
+2583,,,,Zach Reks,,,,PHI
+2584,,,,Carlos Martinez,,,,PHI
+2585,,,,Sam Travis,,,,PHI
+2586,,,,Jake McCarthy,,,,PHI
+2587,,,,Joe Ross,,,,PHI
+2588,,,,Branden Pinder,,,,PHI
+2589,,,,Travis Blankenhorn,,,,PHI
+2590,,,,Jan Hernandez,,,,PHI
+2591,,,,Jordan Yammamoto,,,,PHI
+2592,,,,Joe Dunand,,,,PHI
+2593,,,,Mike Shawaryn,,,,PHI
+2594,,,,Victor Reyes,,,,PHI
+2595,,,,Joe Wendle,,,,PHI
+2596,,,,Nick Longhi,,,,PHI
+2597,,,,Daniel Gossett,,,,PHI
+2598,,,,Marcus Stroman,,,,PHI
+2599,,,,Jacob Heatherly,,,,PHI
+2600,,,,Jerry Blevins,,,,PHI
+2601,,,,Donn Roach,,,,PHI
+2602,,,,Gabriel Guerrero,,,,PHI
+2603,,,,Dylan Davis,,,,PHI
+2604,,,,Tristan Gray,,,,PHI
+2605,,,,Sebastian Elizalde,,,,PHI
+2606,,,,Taylor Hill,,,,PHI
+2607,,,,Alex Call,,,,PHI
+2608,,,,Luis Heredia,,,,PHI
+2609,,,,Eric Jenkins,,,,PHI
+2610,,,,Trey Michalczewski,,,,PHI
+2611,,,,Carlos Vargas,,,,PHI
+2612,,,,Jason Delay,,,,PHI
+2613,,,,Tony Dibrell,,,,PHI
+2614,,,,Nick Hanson,,,,PHI
+2615,,,,Griffin Jax,,,,PHI
+2616,,,,Sam Perez,,,,PHI
+2617,,,,Michael McAvene,,,,PHI
+2618,,,,Will Ethridge,,,,PHI
+2619,,,,Will Holland,,,,PHI
+2620,,,,Michael Massey,,,,PHI
+2621,,,,Ryan Kriedler,,,,PHI
+2622,,,,Grant Little,,,,PHI
+2623,,,,Colton Eastman,,,,PHI
+2624,,,,Trey Riley,,,,PHI
+2625,,,,Jose Devers,,,,PIT
+2626,,,,Greg Mahle,,,,PIT
+2627,,,,Mike Leake,,,,PIT
+2628,,,,Brian Johnson,,,,PIT
+2629,,,,Rodolfo Castro,,,,PIT
+2630,,,,Tanner Dodson,,,,PIT
+2631,,,,Cameron Cannon,,,,PIT
+2632,,,,Anthony Desclafani,,,,PIT
+2633,,,,Jeisson Rosario,,,,PIT
+2634,,,,Bruce Rondon,,,,PIT
+2635,,,,Kennys Vargas,,,,PIT
+2636,,,,Justin Haley,,,,PIT
+2637,,,,Lucas Erceg,,,,PIT
+2638,,,,Triston Casas,,,,PIT
+2639,,,,Steven Moya,,,,PIT
+2640,,,,Sandy Baez,,,,PIT
+2641,,,,Jose Alvarez,,,,PIT
+2642,,,,Carlos Soler,,,,PIT
+2643,,,,Omar Florentino,,,,PIT
+2644,,,,Dairon Blanco,,,,PIT
+2645,,,,Jose De La Cruz,,,,PIT
+2646,,,,Denyi Reyes,,,,PIT
+2647,,,,Eli Morgan,,,,PIT
+2648,,,,Jagger Rusconi,,,,PIT
+2649,,,,Scott Hurst,,,,PIT
+2650,,,,Jorge Alcala,,,,PIT
+2651,,,,Mario Feliciano,,,,PIT
+2652,,,,Adam Brett Walker,,,,PIT
+2653,,,,Andrew Gagnon,,,,PIT
+2654,,,,Phil Bickford,,,,PIT
+2655,,,,Manuel Banuelos,,,,PIT
+2656,,,,Chris Bostick,,,,PIT
+2657,,,,Malique Zeigler,,,,PIT
+2658,,,,Andres Torres,,,,PIT
+2659,,,,Jonathan Singleton,,,,PIT
+2660,,,,Drey Jameson,,,,PIT
+2661,,,,Easton Mcgee,,,,PIT
+2662,,,,Jefry Marte,,,,PIT
+2663,,,,Adalberto Mejia,,,,PIT
+2664,,,,Darwinzon Hernandez,,,,PIT
+2665,,,,Luis Veloz,,,,PIT
+2666,,,,Alen Hanson,,,,PIT
+2667,,,,Justin Anderson,,,,PIT
+2668,,,,Carlos Salazar,,,,PIT
+2669,,,,Trey Mancini,,,,PIT
+2670,,,,Steven Wright,,,,PIT
+2671,,,,Henry Owens,,,,PIT
+2672,,,,Matthew Thompson,,,,PIT
+2673,,,,Allen Webster,,,,PIT
+2674,,,,Oswaldo Arcia,,,,PIT
+2675,,,,Gift Ngoepe,,,,PIT
+2676,,,,Brian Ellington,,,,PIT
+2677,,,,Josh Tobias,,,,PIT
+2678,,,,Giovanny Urshela,,,,PIT
+2679,,,,Mitch Haniger,,,,PIT
+2680,,,,Ibandel Isabel,,,,PIT
+2681,,,,Jose Leclerc,,,,PIT
+2682,,,,Jared Hoying,,,,PIT
+2683,,,,Parker Dunshee,,,,PIT
+2684,,,,Reese Mcguire,,,,PIT
+2685,,,,Bo Way,,,,PIT
+2686,,,,Roemon Fields,,,,PIT
+2687,,,,Vincent Velasquez,,,,PIT
+2688,,,,Corey Black,,,,PIT
+2689,,,,Roberto Baldoquin,,,,PIT
+2690,,,,Yoan Lopez,,,,PIT
+2691,,,,Juan Ramirez,,,,PIT
+2692,,,,Jose Soriano,,,,PIT
+2693,,,,Hyun-il Choi,,,,PIT
+2694,,,,Christopher Cruz,,,,PIT
+2695,,,,Franklin Labour,,,,PIT
+2696,,,,Tres Barrera,,,,PIT
+2697,,,,Jose Rojas,,,,PIT
+2698,,,,Jaxx Groshans,,,,PIT
+2699,,,,Cameron Hill,,,,PIT
+2700,,,,Yohan Ramirez,,,,PIT
+2701,,,,Esteban Quiroz,,,,SD
+2702,,,,Matt Boyd,,,,SD
+2703,,,,DJ Peters,,,,SD
+2704,,,,Blake Swihart,,,,SD
+2705,,,,Jimmy Yacabonis,,,,SD
+2706,,,,Matt Duffy,,,,SD
+2707,,,,Brandon Finnegan,,,,SD
+2708,,,,Mikey White,,,,SD
+2709,,,,Keury Mella,,,,SD
+2710,,,,Dylan Cozens,,,,SD
+2711,,,,Yujo Kitagata,,,,SD
+2712,,,,Jesus Cruz,,,,SD
+2713,,,,Brett Kennedy,,,,SD
+2714,,,,Zach Lee,,,,SD
+2715,,,,Cody Reed (Alabama),,,,SD
+2716,,,,Casey Kelly,,,,SD
+2717,,,,Danny Hultzen,,,,SD
+2718,,,,Brady Rodgers,,,,SD
+2719,,,,Parker Markel,,,,SD
+2720,,,,Mason McCoy,,,,SD
+2721,,,,Peter Tago,,,,SD
+2722,,,,Josh Green,,,,SD
+2723,,,,Justin Toerner,,,,SD
+2724,,,,Joely Rodriguez,,,,SD
+2725,,,,David Lebron,,,,SD
+2726,,,,Justin Lawrence,,,,SD
+2727,,,,Jose Caballero,,,,SD
+2728,,,,Nick Zammarelli,,,,SD
+2729,,,,Edmond Americaan,,,,SD
+2730,,,,Nick Plummer,,,,SD
+2731,,,,Bryce Bush,,,,SD
+2732,,,,Mac Marshall,,,,SD
+2733,,,,Clayton Andrews,,,,SD
+2734,,,,Connor Joe,,,,SD
+2735,,,,Jameson Fisher,,,,SD
+2736,,,,Corey Zangari,,,,SD
+2737,,,,Taylor Grover,,,,SD
+2738,,,,Brady Aiken,,,,SD
+2739,,,,Ray-Patrick Didder,,,,SD
+2740,,,,Juremi Profar,,,,SD
+2741,,,,Josh Morgan,,,,SD
+2742,,,,Zach Pop,,,,SD
+2743,,,,Riley Unroe,,,,SD
+2744,,,,Nathan Eaton,,,,SD
+2745,,,,Mark Appel,,,,SD
+2746,,,,Seth Mejias-Brean,,,,SD
+2747,,,,Kyle Bradish,,,,SD
+2748,,,,Kaito Yuki,,,,SD
+2749,,,,Melissa Mayeux,,,,SD
+2750,,,,Sean Reynolds,,,,SD
+2751,,,,Shumpei Yoshikawa,,,,SD
+2752,,,,Edwin Encarnacion,,,,SD
+2753,,,,Ethan Roberts,,,,SD
+2754,,,,Branden Kline,,,,SD
+2755,,,,Trey Ball,,,,SD
+2756,,,,Jamie Callahan,,,,SD
+2757,,,,Michael Baumann,,,,SD
+2758,,,,Brian Gonzalez,,,,SD
+2759,,,,Erick Julio,,,,SD
+2760,,,,Zach McKinstry,,,,SD
+2761,,,,Tyler Frank,,,,SD
+2762,,,,Leo Crawford,,,,SD
+2763,,,,Walker Weickel,,,,SD
+2764,,,,Trevor Oaks,,,,SD
+2765,,,,Kyle Stowers,,,,SD
+2766,,,,Nick Williams,,,,SD
+2767,,,,Tito Polo,,,,SF
+2768,,,,Cesar Hernandez,,,,SF
+2769,,,,Tommy Doyle,,,,SF
+2770,,,,Austin Rei,,,,SF
+2771,,,,Sammy Solis,,,,SF
+2772,,,,Alex Claudio,,,,SF
+2773,,,,Jacob DeGrom,,,,SF
+2774,,,,Ian McKinney,,,,SF
+2775,,,,Jared Walker,,,,SF
+2776,,,,Ji Man-Choi,,,,SF
+2777,,,,Yacksel Rios,,,,SF
+2778,,,,Yoan Moncada,,,,SF
+2779,,,,Nestor Cortes,,,,SF
+2780,,,,Rafael Bautista,,,,SF
+2781,,,,Alex Blandino,,,,SF
+2782,,,,Ricardo Sanchez,,,,SF
+2783,,,,Jonny Venters,,,,SF
+2784,,,,Roenis Elias,,,,SF
+2785,,,,Cionel Perez,,,,SF
+2786,,,,Jordan Sheffield,,,,SF
+2787,,,,Donovan Casey,,,,SF
+2788,,,,Tyler C Moore,,,,SF
+2789,,,,Yonathan Perlaza,,,,SF
+2790,,,,Shane Mcclanahan,,,,SF
+2791,,,,AJ Puckett,,,,SF
+2792,,,,John Barbato,,,,SF
+2793,,,,Mitchell White,,,,SF
+2794,,,,Jahmai Jones,,,,SF
+2795,,,,Taylor Cole,,,,SF
+2796,,,,Daniel Winkler,,,,SF
+2797,,,,Gabriel Mejia,,,,SF
+2798,,,,Jack Lemoine,,,,SF
+2799,,,,Tyler Krieger,,,,SF
+2800,,,,Ryan Kellogg,,,,SF
+2801,,,,Matt Withrow,,,,SF
+2802,,,,Javon Shelby,,,,SF
+2803,,,,Mark Ecker,,,,SF
+2804,,,,Adam Liberatore,,,,SF
+2805,,,,Steven Kwan,,,,SF
+2806,,,,Javy Guerra RP,,,,SF
+2807,,,,Richie Palacios,,,,SF
+2808,,,,Oliver Perez,,,,SF
+2809,,,,Dylan Busby,,,,SF
+2810,,,,Matt Mercer,,,,SF
+2811,,,,Harrison Francis,,,,SF
+2812,,,,Michael Plassmeyer,,,,SF
+2813,,,,Aaron Shortridge,,,,SF
+2814,,,,Jesus Aguilar,,,,SF
+2815,,,,Braden Shewmake,,,,SF
+2816,,,,Ethan Small,,,,SF
+2817,,,,Matt Canterino,,,,SF
+2818,,,,Kean Wong,,,,SF
+2819,,,,Zach Watson,,,,SF
+2820,,,,Dasan Brown,,,,SF
+2821,,,,Nick Bennett,,,,SF
+2822,,,,Chris Clarke,,,,SF
+2823,,,,Andre Pallante,,,,SF
+2824,,,,Glenallen Hill Jr,,,,SF
+2825,,,,Tyler Dyson,,,,SF
+2826,,,,Ken Waldichuk,,,,SF
+2827,,,,Dermis Garcia,,,,SEA
+2828,,,,Anfernee Seymour,,,,SEA
+2829,,,,Nick Maton,,,,SEA
+2830,,,,Lyon Richardson,,,,SEA
+2831,,,,Greifer Andrade,,,,SEA
+2832,,,,Didi Gregorious,,,,SEA
+2833,,,,Jake Burger,,,,SEA
+2834,,,,Nick Ciuffo,,,,SEA
+2835,,,,Jeren Kendall,,,,SEA
+2836,,,,Noah Bo Naylor,,,,SEA
+2837,,,,Jharel Cotton,,,,SEA
+2838,,,,JJ Matijevic,,,,SEA
+2839,,,,Lake Bachar,,,,SEA
+2840,,,,Malquin Canelo,,,,SEA
+2841,,,,Scott Moss,,,,SEA
+2842,,,,Eduardo Nunez,,,,SEA
+2843,,,,Dakota Mekkes,,,,SEA
+2844,,,,Connor Wong,,,,SEA
+2845,,,,Richie Shaffer,,,,SEA
+2846,,,,TiQuan Forbes,,,,SEA
+2847,,,,Joe Perez,,,,SEA
+2848,,,,Jacob Pearson,,,,SEA
+2849,,,,Mitch Longo,,,,SEA
+2850,,,,Hunter Wood,,,,SEA
+2851,,,,Erich Uelmen,,,,SEA
+2852,,,,Roberto Perez,,,,SEA
+2853,,,,Cody Reed (Mississippi),,,,SEA
+2854,,,,Joe Gatto,,,,SEA
+2855,,,,Chih-Wei Hu,,,,SEA
+2856,,,,Tyler Gilbert,,,,SEA
+2857,,,,Connor Jones,,,,SEA
+2858,,,,Ryan Hendrix,,,,SEA
+2859,,,,Will Benson,,,,SEA
+2860,,,,Willie Abreu,,,,SEA
+2861,,,,Ernie Clement,,,,SEA
+2862,,,,Ryan Dease,,,,SEA
+2863,,,,Buddy Kennedy,,,,SEA
+2864,,,,Brigham Hill,,,,SEA
+2865,,,,Ricardo Cespedes,,,,SEA
+2866,,,,Hogan Harris,,,,SEA
+2867,,,,Jeremy Pena,,,,SEA
+2868,,,,Keaton Winn,,,,SEA
+2869,,,,Braeden Ogle,,,,SEA
+2870,,,,Karl Kauffman,,,,SEA
+2871,,,,Andre Lipcius,,,,SEA
+2872,,,,Matt Frazier,,,,SEA
+2873,,,,Levi Stoudt,,,,SEA
+2874,,,,Erik Rivera,,,,SEA
+2875,,,,Chandler Shepherd,,,,STL
+2876,,,,Logan Warmoth,,,,STL
+2877,,,,Jake Jewell,,,,STL
+2878,,,,Victor Vodnik,,,,STL
+2879,,,,Ben Taylor,,,,STL
+2880,,,,Manuel Melendez,,,,STL
+2881,,,,Jake Peter,,,,STL
+2882,,,,George Valera,,,,STL
+2883,,,,Luke Maile,,,,STL
+2884,,,,Jonathan Ornelas,,,,STL
+2885,,,,Ty Blach,,,,STL
+2886,,,,Ray Black,,,,STL
+2887,,,,Hector Velazquez,,,,STL
+2888,,,,Paul Blackburn,,,,STL
+2889,,,,Greg Deichman,,,,STL
+2890,,,,Osiris Johnson,,,,STL
+2891,,,,Martin Perez,,,,STL
+2892,,,,Tahnaj Thomas,,,,STL
+2893,,,,Ryan Vilade,,,,STL
+2894,,,,Vidal Brujan,,,,STL
+2895,,,,Andrew Vaughn,,,,STL
+2896,,,,Tyler Beede,,,,STL
+2897,,,,Jaycob Brugman,,,,STL
+2898,,,,Josh Van Meter,,,,STL
+2899,,,,Riley Ferrell,,,,STL
+2900,,,,Brandon Koch,,,,STL
+2901,,,,Jonathan India,,,,STL
+2902,,,,Jordyn Adams,,,,STL
+2903,,,,Shane Baz,,,,STL
+2904,,,,Hunter Bishop,,,,STL
+2905,,,,Hans Crouse,,,,STL
+2906,,,,Tyler Freeman,,,,STL
+2907,,,,Luis Santos,,,,STL
+2908,,,,Gabriel Ynoa,,,,STL
+2909,,,,Trevor Larnach,,,,STL
+2910,,,,Grant Holmes,,,,STL
+2911,,,,David Paulino,,,,STL
+2912,,,,Jordan Guerrero,,,,STL
+2913,,,,Jordan Groshans,,,,STL
+2914,,,,Heliot Ramos,,,,STL
+2915,,,,Daniel Montano,,,,STL
+2916,,,,Daniel Coulombe,,,,STL
+2917,,,,Mauricio Llovera,,,,STL
+2918,,,,Jake Bauers,,,,STL
+2919,,,,Shervyen Newton,,,,STL
+2920,,,,Antoni Flores,,,,STL
+2921,,,,Kody Hoese,,,,STL
+2922,,,,Omar Narvaez,,,,STL
+2923,,,,Jacoby Jones,,,,STL
+2924,,,,Gilberto Jimenez,,,,STL
+2925,,,,Zack Thompson,,,,STL
+2926,,,,Jake N Thompson,,,,STL
+2927,,,,Sean Bouchard,,,,STL
+2928,,,,Melvin Adon,,,,STL
+2929,,,,Brandon Howlett,,,,STL
+2930,,,,Jarren Duran,,,,STL
+2931,,,,Nick Sandlin,,,,STL
+2932,,,,R1 Wil Crowe,,,,STL
+2933,,,,Ronald Torreyes,,,,STL
+2934,,,,Ernesto Martinez Jr,,,,STL
+2935,,,,Yerry Rodriguez,,,,STL
+2936,,,,Mckenzie Gore,,,,STL
+2937,,,,Ariel Jurado,,,,STL
+2938,,,,Jake Cosart,,,,STL
+2939,,,,Tom Szapucki,,,,STL
+2940,,,,Alejandro Chacin,,,,STL
+2941,,,,Ryan Merritt,,,,STL
+2942,,,,Adrian Morejon,,,,STL
+2943,,,,Alexander Vargas,,,,STL
+2944,,,,Reid Humphreys,,,,STL
+2945,,,,Juan Guerrero,,,,STL
+2946,,,,Brayan Bello,,,,STL
+2947,,,,Brady Feigl,,,,STL
+2948,,,,Mikie Mahtook,,,,STL
+2949,,,,Luis Frias,,,,STL
+2950,,,,Blake Walston,,,,STL
+2951,,,,Hudson Head,,,,STL
+2952,,,,Alex De Jesus,,,,STL
+2953,,,,Keithron Moss,,,,STL
+2954,,,,George Feliz,,,,STL
+2955,,,,Ronny Polanco,,,,STL
+2956,,,,Kevin Made,,,,STL
+2957,,,,Zach Green,,,,STL
+2958,,,,Thomas Pannone,,,,STL
+2959,,,,Junior Tillen,,,,STL
+2960,,,,Mahki Backstrom,,,,STL
+2961,,,,Juan Chacon,,,,STL
+2962,,,,Enger Castellano,,,,STL
+2963,,,,Wade LaBlanc,,,,STL
+2964,,,,Grant Ford,,,,STL
+2965,,,,Demarcus Evans,,,,TB
+2966,,,,Andrew Cashner,,,,TB
+2967,,,,Drew Waters,,,,TB
+2968,,,,Tayron Guerrero,,,,TB
+2969,,,,Matt Albers,,,,TB
+2970,,,,Hudson Potts,,,,TB
+2971,,,,Braden Shipley,,,,TB
+2972,,,,Yordys Valdes,,,,TB
+2973,,,,Antonio Santillan,,,,TB
+2974,,,,Jesus Tinoco,,,,TB
+2975,,,,Starling Marte,,,,TB
+2976,,,,Chih-Jung Liu,,,,TB
+2977,,,,Garrett Cleavinger,,,,TB
+2978,,,,Kyle Nelson,,,,TB
+2979,,,,Chris Sale,,,,TB
+2980,,,,Aramis Garcia,,,,TB
+2981,,,,Bobby Poyner,,,,TB
+2982,,,,Donnie Walton,,,,TB
+2983,,,,Tyler White,,,,TB
+2984,,,,Brailyn Marquez,,,,TB
+2985,,,,Matt Sauer,,,,TB
+2986,,,,Kaleb Cowart,,,,TB
+2987,,,,Addison Russell,,,,TB
+2988,,,,Thomas Hackimer,,,,TB
+2989,,,,Connor Justus,,,,TB
+2990,,,,Miguel Sano,,,,TB
+2991,,,,Matt Skole,,,,TB
+2992,,,,Parker French,,,,TB
+2993,,,,Andersen Tejeda,,,,TB
+2994,,,,Alan Trejo,,,,TB
+2995,,,,Edwar Colina,,,,TB
+2996,,,,Gabriel Moreno,,,,TB
+2997,,,,Connor Scott,,,,TB
+2998,,,,Ryan Burr,,,,TB
+2999,,,,Jerar Encarnacion,,,,TB
+3000,,,,Jacob Gatewood,,,,TB
+3001,,,,Luis Madero,,,,TB
+3002,,,,Cody Bolton,,,,TB
+3003,,,,Jonathan Davis,,,,TB
+3004,,,,Isiah Gilliam,,,,TB
+3005,,,,Gilberto Celestino,,,,TB
+3006,,,,Stiward Aquino,,,,TB
+3007,,,,John Swanda,,,,TB
+3008,,,,James Beard,,,,TB
+3009,,,,Michel Otanez,,,,TB
+3010,,,,Helcris Olivarez,,,,TB
+3011,,,,Michel Triana,,,,TB
+3012,,,,Bladimir Restituyo,,,,TB
+3013,,,,Raimfer Salinas,,,,TEX
+3014,,,,Cody Thomas,,,,TEX
+3015,,,,Ramon Laureano,,,,TEX
+3016,,,,Michael Busch,,,,TEX
+3017,,,,Manny Pina,,,,TEX
+3018,,,,Ryan Williams,,,,TEX
+3019,,,,Lincoln Henzman,,,,TEX
+3020,,,,Framber Valdez,,,,TEX
+3021,,,,Jacob Hannemann,,,,TEX
+3022,,,,Cesar Puello,,,,TEX
+3023,,,,Luis Severino,,,,TEX
+3024,,,,Juan Yepez,,,,TEX
+3025,,,,Noe Ramirez,,,,TEX
+3026,,,,Frank Schwindel,,,,TEX
+3027,,,,John Brebbia,,,,TEX
+3028,,,,Charlie Barnes,,,,TEX
+3029,,,,Juan Pie,,,,TEX
+3030,,,,Eduardo Rodriguez,,,,TEX
+3031,,,,Nate Smith,,,,TEX
+3032,,,,Eduardo Garcia,,,,TEX
+3033,,,,Aaron Schunk,,,,TEX
+3034,,,,Ronald Acuna,,,,TEX
+3035,,,,Zach Vincej,,,,TEX
+3036,,,,Isranel Wilson,,,,TEX
+3037,,,,Jacob Lindgren,,,,TEX
+3038,,,,Christopher Acosta,,,,TEX
+3039,,,,Aaron Hernandez,,,,TEX
+3040,,,,Steven Okert,,,,TEX
+3041,,,,Omar Estevez,,,,TEX
+3042,,,,Jeremy De La Rosa,,,,TEX
+3043,,,,Jose A Ramirez,,,,TEX
+3044,,,,Josh H Smith,,,,TEX
+3045,,,,Will D Smith,,,,TEX
+3046,,,,Tanner Myatt,,,,TEX
+3047,,,,Austin Adams,,,,TEX
+3048,,,,Drew Strotman,,,,TEX
+3049,,,,Dan Vogelbach,,,,TEX
+3050,,,,Sherten Apostel,,,,TEX
+3051,,,,Josh Palacios,,,,TEX
+3052,,,,Matt Vierling,,,,TEX
+3053,,,,Chavez Young,,,,TEX
+3054,,,,Sean Brady,,,,TEX
+3055,,,,Kyle Young,,,,TEX
+3056,,,,Richard Rodriguez,,,,TEX
+3057,,,,Jack Kochanowicz,,,,TEX
+3058,,,,Michael King,,,,TEX
+3059,,,,Riley Pint,,,,TEX
+3060,,,,Jason Hursh,,,,TEX
+3061,,,,Ryan Lillie,,,,TEX
+3062,,,,Hector Neris,,,,TEX
+3063,,,,Chris Rodriguez,,,,TEX
+3064,,,,David Price,,,,TEX
+3065,,,,Reymond Fuentes,,,,TEX
+3066,,,,Arismendy Alcantara,,,,TEX
+3067,,,,Calvin Mitchell,,,,TEX
+3068,,,,Tyler Ivey,,,,TEX
+3069,,,,Alexander Palma,,,,TEX
+3070,,,,Nick Howard,,,,TEX
+3071,,,,Donnie Dewees,,,,TEX
+3072,,,,Andrew Morales,,,,TEX
+3073,,,,Alexis Diaz,,,,TEX
+3074,,,,Cory Abbott,,,,TEX
+3075,,,,Cole Uvila,,,,TEX
+3076,,,,Jaylen Palmer,,,,TEX
+3077,,,,Riley OBrien,,,,TEX
+3078,,,,Gerardo Reyes,,,,TEX
+3079,,,,Ricardo Genoves,,,,TEX
+3080,,,,Stephen Wrenn,,,,TEX
+3081,,,,Lenny Torres,,,,TOR
+3082,,,,Jameson Taillon,,,,TOR
+3083,,,,Jimmy Nelson,,,,TOR
+3084,,,,Steele Walker,,,,TOR
+3085,,,,Brendan McKay,,,,TOR
+3086,,,,Carlos Estevez,,,,TOR
+3087,,,,Alek Manoah,,,,TOR
+3088,,,,Nick Decker,,,,TOR
+3089,,,,Jonathan Bowlan,,,,TOR
+3090,,,,Jean Carlos Mejia,,,,TOR
+3091,,,,Josh Breaux,,,,TOR
+3092,,,,Chase Pinder,,,,TOR
+3093,,,,Nick Castellanos,,,,TOR
+3094,,,,Elvin Rodriguez,,,,TOR
+3095,,,,Marco Hernandez,,,,TOR
+3096,,,,Victor Garcia,,,,TOR
+3097,,,,Maurice Hampton Jr,,,,TOR
+3098,,,,Luken Baker,,,,TOR
+3099,,,,Mayky Perez,,,,TOR
+3100,,,,Elias Diaz,,,,TOR
+3101,,,,Oswaldo Cabrera,,,,TOR
+3102,,,,Miguel Angel Sierra,,,,TOR
+3103,,,,KeBryan Hayes,,,,TOR
+3104,,,,Jandel Gustave,,,,TOR
+3105,,,,Cole Stobbe,,,,TOR
+3106,,,,Kris Negron,,,,TOR
+3107,,,,Nick Quintana,,,,TOR
+3108,,,,Ofelky Peralta,,,,TOR
+3109,,,,Ronny Rodriguez,,,,TOR
+3110,,,,Braxton Davidson,,,,TOR
+3111,,,,Luis Ortiz,,,,TOR
+3112,,,,Adeiny Hechavarria,,,,TOR
+3113,,,,Brayan Hernandez,,,,TOR
+3114,,,,Jesus Lopez,,,,TOR
+3115,,,,Nick Travieso,,,,TOR
+3116,,,,SD Misael Lopez,,,,TOR
+3117,,,,Ryan Atkinson,,,,TOR
+3118,,,,Jelfry Marte,,,,TOR
+3119,,,,Hector A Perez,,,,TOR
+3120,,,,DJ Burt,,,,TOR
+3121,,,,Jhoan Urena,,,,TOR
+3122,,,,Brendon Little,,,,TOR
+3123,,,,Terrin Vavra,,,,TOR
+3124,,,,Mason Martin,,,,TOR
+3125,,,,Boog Powell,,,,TOR
+3126,,,,Anthony Volpe,,,,TOR
+3127,,,,Rylan Bannon,,,,TOR
+3128,,,,Paul Voelker,,,,TOR
+3129,,,,Stephen Alemais,,,,TOR
+3130,,,,Brett Adcock,,,,TOR
+3131,,,,Dom Thompson-Williams,,,,TOR
+3132,,,,Jordy Barley,,,,TOR
+3133,,,,Kyle McGowin,,,,TOR
+3134,,,,Glenn Otto,,,,TOR
+3135,,,,Brandon Dixon,,,,TOR
+3136,,,,Micah Bello,,,,TOR
+3137,,,,Dwanya Williams-Sutton,,,,TOR
+3138,,,,Blake Rivera,,,,TOR
+3139,,,,Frank German,,,,TOR
+3140,,,,Beau Phillip,,,,TOR
+3141,,,,Kacy Clemens,,,,TOR
+3142,,,,Grant Gambrell,,,,TOR
+3143,,,,Justin Slaten,,,,TOR
+3144,,,,Tony Locey,,,,TOR
+3145,,,,Shane Sasaki,,,,TOR
+3146,,,,JC Flowers,,,,TOR
+3147,,,,Mike Papi,,,,WAS
+3148,,,,Ivan Nova,,,,WAS
+3149,,,,Tyrone Taylor,,,,WAS
+3150,,,,Trey Supak,,,,WAS
+3151,,,,CJ Abrams,,,,WAS
+3152,,,,Maximo Acosta,,,,WAS
+3153,,,,Troy Bacon,,,,WAS
+3154,,,,Carlos Arroyo,,,,WAS
+3155,,,,Tate Matheny,,,,WAS
+3156,,,,Alejandro Kirk,,,,WAS
+3157,,,,Michael Gettys,,,,WAS
+3158,,,,Jose Quintana,,,,WAS
+3159,,,,Delino Deshields,,,,WAS
+3160,,,,James R Nelson ,,,,WAS
+3161,,,,Arquimedes Gamboa,,,,WAS
+3162,,,,Nick Wells,,,,WAS
+3163,,,,Desmond Lindsay,,,,WAS
+3164,,,,Sergio Alcantara,,,,WAS
+3165,,,,Yolbert Sanchez,,,,WAS
+3166,,,,Davis Bradshaw,,,,WAS
+3167,,,,Jermaine Palacios,,,,WAS
+3168,,,,R1 Angel Perdomo,,,,WAS
+3169,,,,Aneury Tavarez,,,,WAS
+3170,,,,Mike Matuella,,,,WAS
+3171,,,,Jojo Romero,,,,WAS
+3172,,,,Ben Rortvedt,,,,WAS
+3173,,,,Mike Gerber,,,,WAS
+3174,,,,Shawn Dubin,,,,WAS
+3175,,,,Bryan Hudson,,,,WAS
+3176,,,,Alfredo Rodriguez,,,,WAS
+3177,,,,TJ Friedl,,,,WAS
+3178,,,,Yohander Martinez,,,,WAS
+3179,,,,Jose Quijada,,,,WAS
+3180,,,,Richi Gonzalez,,,,WAS
+3181,,,,Wendell Rijo,,,,WAS
+3182,,,,Aaron Wilkerson,,,,WAS
+3183,,,,Thomas Milone,,,,WAS
+3184,,,,Blake Tiberi,,,,WAS
+3185,,,,Amado Nunez,,,,WAS
+3186,,,,Eguy Rosario,,,,WAS
+3187,,,,Jefry Rodriguez,,,,WAS
+3188,,,,Anthony Gose,,,,WAS
+3189,,,,Drew Robinson,,,,WAS
+3190,,,,Wladimir Galindo,,,,WAS
+3191,,,,Rafael Morin,,,,WAS
+3192,,,,Joey Krehbiel,,,,WAS
+3193,,,,Diosbel Arias,,,,WAS
+3194,,,,Tyler Lyons,,,,WAS
+3195,,,,Erling Moreno,,,,WAS
+3196,,,,Luis V Garcia,,,,WAS
+3197,,,,Landon Leach,,,,WAS
+3198,,,,Livan Soto,,,,WAS
+3199,,,,Kyle Lloyd,,,,WAS
+3200,,,,KaAi Tom,,,,WAS
+3201,,,,Matt Lipka,,,,WAS
+3202,,,,Juan De Paula,,,,WAS
+3203,,,,Garrett Cave,,,,WAS
+3204,,,,Osvaldo Abreu,,,,WAS
+3205,,,,Will Stewart,,,,WAS
+3206,,,,Samir Duenez,,,,WAS
+3207,,,,Alexander Ovalles,,,,WAS
+3208,,,,Brian Miller,,,,WAS
+3209,,,,Shea Langeliers,,,,WAS
+3210,,,,Austin Smith,,,,WAS
+3211,,,,Conner Greene,,,,WAS
+3212,,,,Yasiel Puig,,,,WAS
+3213,,,,Nick Fortes,,,,WAS
+3214,,,,Drew Hutchinson,,,,WAS
+3215,,,,Adonis Medina,,,,WAS
+3216,,,,Bren Spillane,,,,WAS
+3217,,,,Jackson Goddard,,,,WAS
